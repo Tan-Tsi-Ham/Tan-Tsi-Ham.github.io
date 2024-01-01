@@ -13,14 +13,16 @@
 /*字体颜色*/
 .fontcolorBlack{color: black;}
 .fontcolorWhite{color: white;}
+.fontcolorGrey{color:grey;}
 /*字体颜色*/
 /*字*/
 
 
 /*宽度*/
 .wide100{width:100px;}
-.wide500{width:500px;}
 .wide400{width: 400px;}
+.wide500{width:500px;}
+.wide700{width: 700px;}
 /*宽度*/
 
 /*高度*/
@@ -114,6 +116,26 @@
     text-decoration: none;
     color: rgba(0, 0, 0, 0.851);
 }
+
+/*
+音节表
+*/
+#syllable a{
+    text-decoration: none;
+    color: #555;
+    padding: 5px;
+}
+#syllable td{
+    border-collapse: collapse;
+    border:1px solid black;
+}
+
+/*字典通用*/
+.dict tr td{
+    padding: 40px;
+}
+
+
 
 /*按钮*/
 #myBtn{
