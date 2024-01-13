@@ -163,3 +163,10 @@
 #myBtn:hover{
     background-color:#555;
 }
+
+
+
+
+
+    @media(max-width:600px){
+        main{width:100%}}
