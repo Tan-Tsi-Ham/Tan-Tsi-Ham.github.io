@@ -94,11 +94,16 @@
 列举-超链接 fontsize20,fontcolor,pad
 鼠标在目录上的反应 backcolor,fontcolor
 */
+header{
+    height:50px;
+    line-height:50px;
+}
 .navbar span,.navbar li{
-    float:left;
+    /*float:left;*/
+    display:inline-block;
 }
 .navbar a{
-    display: block;/*整个块都是超链接，方便点击*/
+    display: inline-block;/*整个块都是超链接，方便点击*/
     text-decoration: none;
 }
 .navbar li a{
