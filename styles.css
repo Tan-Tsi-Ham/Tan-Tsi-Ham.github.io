@@ -104,7 +104,7 @@
     display:block;
 }
 .navbar a{
-    display: inline-block;/*整个块都是超链接，方便点击*/
+    display: block;/*整个块都是超链接，方便点击*/
     text-decoration: none;
 }
 .navbar li a{
