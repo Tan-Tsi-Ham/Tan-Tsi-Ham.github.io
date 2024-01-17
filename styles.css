@@ -99,7 +99,7 @@ header{
     height:50px;
     line-height:50px;
 }
-.navbar span,.navbar li{
+/*.navbar span,*/.navbar li{
     /*float:left;*/
     display:inline-block;
 }
