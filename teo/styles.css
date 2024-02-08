@@ -51,8 +51,9 @@ header #navbar #lang{
     margin:auto;
     width:50%;
     padding: 10px;
-    text-align: center;
 }
+
+.fontcenter{text-align: center;}
 
 #dictionary{
     margin-top:30px;
@@ -123,6 +124,20 @@ main #table tr td a{
     border-radius:10px;
     transition: background-color 0.3s;
 }
+
+.warning{
+    border:5px dashed darkred;
+    padding:15px;
+    margin:10px;
+    color:red;
+    /* display:block; */
+}
+.warning a{
+    text-decoration: none;
+    /* color:red; */
+}
+
+
 #myBtn:hover{
     background-color:#555;
 }
