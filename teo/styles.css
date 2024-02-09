@@ -105,6 +105,7 @@ main #table tr td,main #table tr th{
 main #table tr td a{
     text-decoration: none;
     display:block;
+    color:#4395ff;
 }
 
 
