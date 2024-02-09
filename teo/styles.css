@@ -53,7 +53,14 @@ header #navbar #lang{
     padding: 10px;
 }
 
-.fontcenter{text-align: center;}
+.fontcenter{
+    text-align: center;
+}
+
+.fontleft{
+    text-align:left;
+    /* border:1px solid black; */
+}
 
 #dictionary{
     margin-top:30px;
@@ -95,19 +102,31 @@ main #table{
     border-collapse: collapse;
     margin-top:30px;
     margin-bottom: 30px;
+    /* width:100%; */
 }
 
 main #table tr td,main #table tr th{
     border-bottom:1px solid black;
     padding:5px;
+    width:20%;
+    /* border:1px solid black; */
 }
 
 main #table tr td a{
     text-decoration: none;
     display:block;
-    color:#4395ff;
+    /* color:#4395ff; */
 }
 
+main #table tr td a:visited{
+    color:blue;
+}
+
+main #table tr td:nth-child(4){
+    text-align: left;
+    border-left:1px solid black;
+    border-right:1px solid black;
+}
 
 /*按钮*/
 #myBtn{
@@ -126,6 +145,9 @@ main #table tr td a{
     border-radius:10px;
     transition: background-color 0.3s;
 }
+#myBtn:hover{
+    background-color:#555;
+}
 
 .warning{
     border:5px dashed darkred;
@@ -137,9 +159,4 @@ main #table tr td a{
 .warning a{
     text-decoration: none;
     /* color:red; */
-}
-
-
-#myBtn:hover{
-    background-color:#555;
 }
