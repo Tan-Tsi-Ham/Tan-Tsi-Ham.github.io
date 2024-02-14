@@ -68,28 +68,26 @@
                 </tr>
             </table>
         </div>
-        <div class="border">👆️上面的选项还没做好；<br>👇️下面的搜索稍微能用，但因为刚开始做，目前只有三个字（亚、阿、鸦）可以查。</div>
         <div class="center fontcenter">
-            <input type="text" id="searchInput" placeholder="拍入爱揣的字">
-            <button onclick="search()">开始揣</button>
-            <div id="searchResults" class="center fontleft"></div>
+            <form action="/search" method="get">
+                <input type="search" placeholder="暂时做未好，还无便用">
+                <!--<button type="submit">开始揣</button>-->
+                <input type="submit" value="开始揣">
+            </form>
         </div>
-
-
+        <div id="dictionary">
+            <table class="center">
+                <tr>
+                    <td><a href="dict/romaji/phenim.html">罗马字查字</a></td>
+                    <td><a href="dict/pinyin/pinyin.html">汉语拼音查字</a></td>
+                    <td><a href="dict/bushou/bushou.html">部首查字</a></td>
+                </tr>
+                <tr>
+                    <td><a href="dict/relatives.html">亲情的叫法</a></td>
+                </tr>
+            </table>
+        </div>
     </main>
-
-    <div id="dictionary">
-        <table class="center">
-            <tr>
-                <td><a href="dict/romaji/phenim.html">罗马字查字</a></td>
-                <td><a href="dict/pinyin/pinyin.html">汉语拼音查字</a></td>
-                <td><a href="dict/bushou/bushou.html">部首查字</a></td>
-            </tr>
-            <tr>
-                <td><a href="dict/relatives.html">亲情的叫法</a></td>
-            </tr>
-        </table>
-    </div>
 
 
     
@@ -100,7 +98,6 @@
     <button onclick="topFunction()" id="myBtn" title="转去上顶爿">转去上顶爿</button>
 
     <script src="script.js"></script>
-    <script src="lab.js"></script>
 </body>
 
 
