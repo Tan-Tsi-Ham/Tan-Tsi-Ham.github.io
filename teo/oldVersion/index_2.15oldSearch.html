@@ -53,21 +53,28 @@
         <img src="favicon/logo.png" alt="这是网站的图标" width="100" height="100">
         <h1 class="center fontcenter">潮汕话词典</h1>
         <div>
+            <!-- <input type="radio" name="seekway" value="jisir" id="jisir" checked><label for="jisir">用潮汕话查字词</label>
+            <input type="radio" name="seekway" value="jisir" id="hanji"><label for="hanji">用潮汕话查汉字</label>
+            <input type="radio" name="seekway" value="jisir" id="zici"><label for="zici">用普通话查字词</label>
+            <input type="radio" name="seekway" value="jisir" id="hanzi"><label for="hanzi">用普通话查汉字</label> -->
             <table id="radio" class="center fontcenter">
                 <tr>
-                    <td><input type="radio" name="seekway" value="jisir" id="hanzi" checked><label for="hanzi">查汉字</label></td>
-                    <td><input type="radio" name="seekway" value="jisir" id="jisir"><label for="jisir">用潮汕话查词</label></td>
-                    <td><input type="radio" name="seekway" value="jisir" id="zici"><label for="zici">用普通话查词</label></td>
+                    <td><input type="radio" name="seekway" value="jisir" id="jisir" checked><label for="jisir">用潮汕话查字词</label></td>
+                    <td><input type="radio" name="seekway" value="jisir" id="hanji"><label for="hanji">用潮汕话查汉字</label></td>
+                </tr>
+                <tr>
+                    <td><input type="radio" name="seekway" value="jisir" id="zici"><label for="zici">用普通话查字词</label></td>
+                    <td><input type="radio" name="seekway" value="jisir" id="hanzi"><label for="hanzi">用普通话查汉字</label></td>
                 </tr>
             </table>
         </div>
-        <div class="border">👆️上面的选项还没做好；<br>👇️下面的搜索稍微能用，但因为刚开始做，目前只有三个字（亚、阿、鸦）可以查。</div>
         <div class="center fontcenter">
-            <input type="text" id="searchInput" placeholder="拍入爱揣的字">
-            <button onclick="search()">开始揣</button>
-            <!-- <div id="searchResults" class="center fontleft"></div> -->
+            <form action="/search" method="get">
+                <input type="search" placeholder="暂时做未好，还无便用">
+                <!--<button type="submit">开始揣</button>-->
+                <input type="submit" value="开始揣">
+            </form>
         </div>
-
         <div id="dictionary">
             <table class="center">
                 <tr>
@@ -80,9 +87,7 @@
                 </tr>
             </table>
         </div>
-
     </main>
-
 
 
     
@@ -93,7 +98,6 @@
     <button onclick="topFunction()" id="myBtn" title="转去上顶爿">转去上顶爿</button>
 
     <script src="script.js"></script>
-    <script src="lab.js"></script>
 </body>
 
 

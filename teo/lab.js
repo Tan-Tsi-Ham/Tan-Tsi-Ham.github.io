@@ -5,74 +5,80 @@ var data=[{hanzi:'亚',name:'iahAsia'},{hanzi:'阿',name:'eAt'},{hanzi:'鸦',nam
 
 function search()
 {
+    var newPage=window.open('dict/romaji/searchingPage.html','_bank');
+
     var searchTerm=document.getElementById('searchInput').value;
-    var searchResults=document.getElementById('searchResults');
-
-    //清楚上次搜索结果
-    searchResults.innerHTML='';
-
-    //遍历仓库
-    var tdArray=[];
-
-    data.forEach
-    (
-        function(item)
-        {
-            if(item.hanzi.includes(searchTerm))
-            {
-                var resultElement=document.createElement('a');
-                resultElement.textContent=item.hanzi;
-                resultElement.href='dict/romaji/a/'+item.name+'.html';
-
-                tdArray.push(resultElement);
-
-                //searchResults.appendChild(resultElement);
-            }//
-        }
-    );
-    //每个元素都匹配完成之后，才生成表格
-    var table=document.createElement('table');
-
-    var thead=document.createElement('thead');
-    var tr=document.createElement('tr');
-    var th1=document.createElement('th');
-    th1.textContent='罗马字';
-    var th2=document.createElement('th');
-    th2.textContent='汉字';
-    var th3=document.createElement('th');
-    th3.textContent='漢字';
-    var th4=document.createElement('th');
-    th4.textContent='含义';
-    var th5=document.createElement('th');
-    th5.textContent='备注';
-    tr.appendChild(th1);
-    tr.appendChild(th2);
-    tr.appendChild(th3);
-    tr.appendChild(th4);
-    tr.appendChild(th5);
-    thead.appendChild(tr);
-    table.appendChild(thead);
-
-    var tbody=document.createElement('tbody');
-    for(var i=0;i<tdArray.length;i++)
+    
+    newPage.onload=function()
     {
-        var tr=document.createElement('tr');
-        var td1=document.createElement('td');
-        var td2=document.createElement('td');
-        // td2.textContent=tdArray[i].textContent;
-        td2.appendChild(tdArray[i]);
-        var td3=document.createElement('td');
-        var td4=document.createElement('td');
-        var td5=document.createElement('td');
+        var searchResults=newPage.document.getElementById('searchResults');//这个id对应的是<tbody>
+        
+        //清楚上次搜索结果
+        searchResults.innerHTML='';
 
-        tr.appendChild(td1);
-        tr.appendChild(td2);
-        tr.appendChild(td3);
-        tr.appendChild(td4);
-        tr.appendChild(td5);
-        tbody.appendChild(tr);
+        //遍历仓库
+        var tdArray=[];//收集匹配成功的项目resultElement
+
+        data.forEach
+        (
+            function(item)
+            {
+                if(item.hanzi.includes(searchTerm))
+                {
+                    var resultElement=document.createElement('a');//匹配成功，把结果组织成超链接
+                    resultElement.textContent=item.hanzi;
+                    resultElement.href='dict/romaji/a/'+item.name+'.html';
+
+                    tdArray.push(resultElement);
+
+                    //searchResults.appendChild(resultElement);
+                }//
+            }
+        );
+        //每个元素都匹配完成之后，才生成表格
+        // var table=document.createElement('table');
+
+        // var thead=document.createElement('thead');
+        // var tr=document.createElement('tr');
+        // var th1=document.createElement('th');
+        // th1.textContent='罗马字';
+        // var th2=document.createElement('th');
+        // th2.textContent='汉字';
+        // var th3=document.createElement('th');
+        // th3.textContent='漢字';
+        // var th4=document.createElement('th');
+        // th4.textContent='含义';
+        // var th5=document.createElement('th');
+        // th5.textContent='备注';
+        // tr.appendChild(th1);
+        // tr.appendChild(th2);
+        // tr.appendChild(th3);
+        // tr.appendChild(th4);
+        // tr.appendChild(th5);
+        // thead.appendChild(tr);
+        // table.appendChild(thead);
+
+        // var tbody=document.createElement('tbody');
+        for(var i=0;i<tdArray.length;i++)
+        {
+            var tr=document.createElement('tr');
+            var td1=document.createElement('td');
+            var td2=document.createElement('td');
+            // td2.textContent=tdArray[i].textContent;
+            td2.appendChild(tdArray[i]);
+            var td3=document.createElement('td');
+            var td4=document.createElement('td');
+            var td5=document.createElement('td');
+
+            tr.appendChild(td1);
+            tr.appendChild(td2);
+            tr.appendChild(td3);
+            tr.appendChild(td4);
+            tr.appendChild(td5);
+            searchResults.appendChild(tr);//这个id对应的是tbody
+        }
     }
-    table.appendChild(tbody);
-    searchResults.appendChild(table);
-    tdArray=[];
+    // table.appendChild(tbody);
+    // searchResults.appendChild(table);
+    tdArray=[];//把数组清空，为下一次搜索做准备
 }
