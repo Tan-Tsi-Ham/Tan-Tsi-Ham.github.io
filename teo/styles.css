@@ -99,7 +99,7 @@ footer{
 }
 
 main #table{
-    border-collapse: collapse;
+    border-collapse: collapse;/* 把相邻的边框合二为一 */
     margin-top:30px;
     margin-bottom: 30px;
     /* width:100%; */
@@ -125,7 +125,7 @@ main #table tr td a:visited{
 main #table tr td:nth-child(4),main #table tr td:nth-child(5){
     text-align: left;
     border-left:1px solid black;
-    border-right:1px solid black;
+    /* border-right:1px solid black; */
 }
 
 /*按钮*/
@@ -160,4 +160,16 @@ main #table tr td:nth-child(4),main #table tr td:nth-child(5){
     text-decoration: none;
     /* color:red; */
 }
+/* 调试用 */
 .border{border:1px solid black;}
+/* 音节表使用 */
+.borcoll{border-collapse: collapse;}
+.bbTd tr td,.bbTh tr th{border-bottom: 1px solid black;}
+.square tr td{border:1px solid black;}
+.tableBlock tr td a{
+    text-decoration: none;
+    display: block;
+}
+.tableBlock tr td a:visited{color: blue;}
+/* 距离 */
+.pad30{padding: 30px;}

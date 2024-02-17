@@ -27,7 +27,8 @@ function search()
                 {
                     var resultElement=document.createElement('a');//匹配成功，把结果组织成超链接
                     resultElement.textContent=item.hanzi;
-                    resultElement.href='dict/romaji/a/'+item.name+'.html';
+                    resultElement.href='a/'+item.name+'.html';
+                    resultElement.target='_blank';
 
                     tdArray.push(resultElement);
 
