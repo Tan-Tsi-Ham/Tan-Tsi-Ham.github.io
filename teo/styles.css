@@ -173,8 +173,11 @@ main #table tr td:nth-child(4),main #table tr td:nth-child(5){
 .tableBlock tr td a:visited{color: blue;}
 /* 距离 */
 .pad30{padding: 30px;}
+.pad20{padding: 20px;}
 .marT30{margin-top: 30px;}
 .marB30{margin-bottom: 30px;}
 .fosLa{font-size:xx-large;}
 .fosSm{font-size:medium;}
 .tabPad15 tr td{padding: 15px;}
+
+ruby rt{color:#af4e4c;}
