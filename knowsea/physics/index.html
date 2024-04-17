@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><!--设置中文-->
+    <title>none</title>
+    <meta charset="utf-8">
+
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+    <style>
+        .border{border:1px solid black;}
+
+        .head{background-color: rgb(220, 220, 220);}
+
+        .center{text-align: center;}
+        .left{text-align: left;}
+        .mid{margin:0 auto;}
+
+        .pad30t{padding-top:30px;}
+        .pad20b{padding-bottom:30px;}
+        
+        .mar30{margin: 30px 30px;}
+        .mar20b{margin-bottom:20px;}
+
+        .wide50p{width:50%;}
+        .wide60p{width:60%;}
+        .wide70p{width:70%;}
+
+        .red{color:red;}
+
+        .contents{text-decoration: none;color: black;border:2px dotted blue;background-color: azure;width:50%;margin:0 auto;}
+
+        ul{list-style: none;}
+        .item{text-decoration: none;}
+        .item:hover{color:aqua;}
+
+        .box{background-color:beige;padding: 4px;margin:2px;}
+    </style>
+</head>
+
+<body class="center">
+    <!-- 感觉这个页面只能单纯做目录，具体内容要靠网页跳转？ -->
+    <!-- 怎么实现像pdf一样的书签效果呢？可伸缩的目录表 -->
+    <div class="head mar20b">
+        <h1 class="pad30t"><ruby>物理学<rt>PHYSICS</rt></ruby></h1>
+        <p class="pad20b">习题选讲</p>
+    </div>
+    <!-- <div class="mar30 border">123</div> -->
+    
+    <div class="mar30 contents">
+        <h2>目录</h2>
+        <p>参考《物理学（第七版）》高等教育出版社 东南大学等七所工科院校编</p>
+        
+        <div class="center">
+            <h3>质点运动学</h3>
+            <ul class="left">
+                <li><a class="item" href="#">质点运动的描述</a></li>
+                <li><a class="item" href="#">圆周运动</a></li>
+                <li><a class="item" href="#">相对运动</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div>
+        <h1>质点运动学</h1>
+        <!-- <h2>质点</h2>当物体的大小和形状的变化，对物体运动的影响能被忽略，就可以把物体当作一个有质量的点（即质点）来处理。 -->
+        <div class="left mid wide70p">
+            <div>
+                <h2>概念辨析</h2>
+                1.位置矢量\(\vec{r}\)，位矢大小\(|\vec{r}|=r\)；位移矢量\(\Delta\vec{r}\)，位移大小\(|\Delta\vec{r}|\)<br>
+                2.<span class="red">注意！</span>位矢大小的增量\(\Delta r=\)<span class="red">\(\Delta|\vec{r}|\ne|\Delta\vec{r}|\)</span><br>
+                3.在\(\mathrm{d}t\)时间内，\(\mathrm{d}s=\)<span class="red">\(|\mathrm{d}\vec{r}|\ne\mathrm{d}|\vec{r}|\)</span>\(=\mathrm{d}\vec{r}\)，即“瞬时位移的大小”等于“瞬时路程”不等于“位矢大小的瞬时增量”<br>
+                4.\(v=|\vec{v}|=\dfrac{|\mathrm{d}\vec{r}|}{\mathrm{d}t}=\dfrac{\mathrm{d}s}{\mathrm{d}t}\)，即“瞬时速度的大小”等于“瞬时速率”<br>
+                5.\(\mathrm{d}v=\mathrm{d}|\vec{v}|\ne|\mathrm{d}\vec{v}|\)，即\(\dfrac{\mathrm{d}|\vec{v}|}{\mathrm{d}t}=\dfrac{\mathrm{d}v}{\mathrm{d}t}=|\vec{a}_t|\ne\dfrac{|\mathrm{d}\vec{v}|}{\mathrm{d}t}=|\vec{a}|\)<span class="box">注意两个加速度不同\(\vec{a}=\vec{a}_t+\vec{a}_n\)</span><br>
+                <!-- <div class="box"><span class="red">注意区分！</span>\(\mathrm{d}r=\mathrm{d}|\vec{r}|\ne|\mathrm{d}\vec{r}|=\mathrm{d}s\)，即前面部分求导算的是部分变化率；后面部分求导算的是整体变化率</div> -->
+            </div>
+
+            <h2>质点运动的轨迹方程</h2>
+
+            <h2>关联速度问题</h2>
+
+        </div>
+    </div>
+
+</body>

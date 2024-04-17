@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sci-Fi Tech Tree</title>
+<style>
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .tech {
+        width: 200px;
+        height: 50px;
+        background-color: #f0f0f0;
+        border: 1px solid #333;
+        margin: 10px 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .tech-line {
+        width: 2px;
+        height: 50px;
+        background-color: #333;
+        /* margin-left: 99px; */
+    }
+</style>
+</head>
+<body>
+    <div class="container">
+        <div class="tech">Technology 1</div>
+        <div class="tech-line"></div>
+        <div class="tech">Technology 2</div>
+        <div class="tech-line"></div>
+        <div class="tech">Technology 3</div>
+        <div class="tech-line"></div>
+        <div class="tech">Technology 4</div>
+    </div>
+</body>
+</html>
+
+<!-- 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>科技树</title>
+<style>
+    .tree {
+        display: inline-block;
+        position: relative;
+    }
+    .branch {
+        width: 2px;
+        height: 100px;
+        background-color: #555;
+        position: absolute;
+        top: 0;
+        left: 50%;
+        transform: translateX(-1px);
+    }
+    .leaf {
+        width: 20px;
+        height: 20px;
+        background-color: #78b159;
+        border-radius: 50%;
+        position: absolute;
+        top: 100px;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    .leaf::after {
+        content: "";
+        width: 2px;
+        height: 50px;
+        background-color: #555;
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        transform: translateX(-1px);
+    }
+</style>
+</head>
+<body>
+<div class="tree">
+    <div class="branch">branch</div>
+    <div class="leaf">leaf</div>
+    <div class="leaf">leaf</div>
+    <div class="leaf">leaf</div>
+    <div class="leaf">leaf</div>
+</div>
+</body>
+</html> -->
+

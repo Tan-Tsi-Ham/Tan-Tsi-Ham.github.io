@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><!--设置中文-->
+    <title>TSIEX SIKAI</title>
+    <meta charset="utf-8">
+
+<style>
+    .blanch{
+        margin:5px 5px;
+    }
+    #tree{
+        display: flex;
+        flex-direction: column;/*纵向排列*/
+        justify-content: center;
+        align-items: center;/*元素居中*/
+    }
+    #floor{
+        /* width: 200px;
+        height: 50px;/*
+        background-color: #f0f0f0;
+        border: 1px solid #333; */
+        /* margin: 10px 0; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #block{
+        width: 200px;
+        height: 50px;
+        background-color: #f0f0f0;
+        border: 1px solid #333;
+        /* margin: 10px 0; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .vline {
+        width: 2px;
+        height: 25px;
+        background-color: #333;
+        /* margin-left: 99px; */
+    }
+    .hline{
+        width:25px;
+        height:2px;
+        background-color: #333;
+    }
+    #mid{/*交叉点*/
+        /* width:1px;
+        height:50px; */
+        /* border:1px solid gray; */
+        /* background-color: gray; */
+        display: flex;
+        flex-direction: column;/*纵向排列*/
+        justify-content: center;
+        align-items: center;
+    }
+    /* .half{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    } */
+    /* #bmid{
+        width:1px;
+        height:50px; */
+        /* background-color: blue;
+        border:1px solid blue; */
+        /* display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #wmid{
+        width:1px;
+        height:50px; */
+        /* background-color: white; */
+        /* display: flex;
+        justify-content: center;
+        align-items: center;
+    } */
+    .b-vline{
+        width: 2px;
+        height: 26px;
+        background-color: #333;
+    }
+    .w-vline{
+        width: 2px;
+        height: 24px;
+        background-color: white;
+    }
+    /* div{border: 1px solid red;} */
+    .head{background-color: grey;
+        width: 100%;
+        /* height:50px; */
+        margin-bottom:30px;padding:30px;
+        text-align: center;
+        color:whitesmoke;
+        /* font-weight: 200; */
+        }
+    .border{border:1px solid black;}
+</style>
+</head>
+
+<body>
+    <div id="tree">
+        <div class="head border">如果有一天，我们的世界经历一场浩劫，迫使所有的文明消失。
+            <br>幸存下来的人类，该如何从零恢复文明呢？
+            <br>我希望记录下这世界上所有的知识，所有人都应该有平等的学习机会。
+            <br>或许这辈子也完不成，但无所谓，尽力了不辜负自己即可。
+        </div>
+        <!-- 层级关系 -->
+        <!-- <div id="floor">
+            <div id="block">根部</div>
+        </div> -->
+        <!-- 竖线 -->
+        <!-- <div id="floor">
+            <div class="vline"></div>
+        </div> -->
+        <!-- 分岔口 -->
+        <!-- <div id="floor">
+            <div id="block">分支1</div><div class="hline"></div>
+            <div id="mid">
+                <div id="floor" class="b-vline"></div>
+                <div id="floor" class="w-vline"></div>
+            </div>
+            <div class="hline"></div><div id="block">123</div>
+        </div> -->
+
+        <div id="floor">
+            <div id="block"><a href="calculus/index.html">微积分</a></div><div class="hline"></div>
+            <div id="block">线性代数</div><div class="hline"></div>
+            <div id="block">解析几何</div><div class="hline"></div>
+            <div id="block">概率论</div><div class="hline"></div>
+            <div id="block">数理统计</div>
+        </div>
+        <div class="blanch"></div>
+        <div id="floor">
+            <div id="block">C语言</div><div class="hline"></div>
+            <div id="block">HTML</div><div class="hline"></div>
+            <div id="block">CSS</div><div class="hline"></div>
+            <div id="block">JavaScript</div><div class="hline"></div>
+            <div id="block">Python</div><div class="hline"></div>
+            <div id="block">Java</div>
+        </div>
+        <div class="blanch"></div>
+        <div id="floor">
+            <div id="block">计算机</div><div class="hline"></div>
+            <div id="block">单片机</div>
+        </div>
+        <div class="blanch"></div>
+        <div id="floor">
+            <div id="block">英语</div><div class="hline"></div>
+            <div id="block">日语</div><div class="hline"></div>
+            <div id="block">法语</div><div class="hline"></div>
+            <div id="block">闽南语</div><div class="hline"></div>
+            <div id="block">粤语</div><div class="hline"></div>
+            <div id="block"><a href="language/hakka.html">客家话</a></div>
+        </div>
+        <div class="blanch"></div>
+        <div id="floor">
+            <div id="block"><a href="physics/index.html">物理</a></div>
+        </div>
+    </div>
+</body>
