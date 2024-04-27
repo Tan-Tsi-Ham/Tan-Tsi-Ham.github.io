@@ -6,7 +6,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><!--设置中文-->
 	<title>TSIEX SIKAI: Physics</title>
 	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<!-- <meta name="viewport" content="width=device-width,initial-scale=1.0"> -->
+
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 	<link rel="stylesheet" type="text/css" href="../styles.css">
 
 </head>
@@ -202,7 +206,7 @@
 	</div>
 	<div class="part"></div> -->
 <!-------------------------------------------------------------->
-<div class="contents">
+<div class="contents h2p3"><!-- 有了h2p3，再也不用每个公式都调整了 -->
 
 <div class="part">〇、数学基础</div>
 <div class="tabl">
@@ -213,23 +217,31 @@
 	</div></div>
 	<div class="row"><div class="sect">正交分解</div><div class="subsect">
 		<p>
-			矢量可以分解成几个相互垂直的方向的分量来分析．<img src="" alt="orthogonalDecomposition">
+			矢量可以分解成几个相互垂直的方向的分量来分析．
+			<!-- <img src="" alt="orthogonalDecomposition"> -->
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">矢量的大小：模</div><div class="subsect">
 		<p>
-			有向线段的长度，本质上是对初末位置使用<a>两点间距离公式</a><img src="" alt="vectorLength"><img src="" alt="vectorMagnitude">
+			有向线段的长度，本质上是对初末位置使用<a>两点间距离公式</a>
+			<!-- <img src="" alt="vectorLength"><img src="" alt="vectorMagnitude"> -->
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">矢量的方向：方向余弦</div><div class="subsect">
 		<p>
-			<img src="" alt="vectorAngles"><img src="" alt="directionCosines"><br>
-			特别的，在二维空间中还可以用正切来表示方向<img src="" alt="directionTangent">
+			<!-- <img src="" alt="vectorAngles"><img src="" alt="directionCosines"><br> -->
+			特别的，在二维空间中还可以用正切来表示方向
+			<!-- <img src="" alt="directionTangent"> -->
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">坐标系</div><div class="subsect">
 		<p>
 			．
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">导数</div><div class="subsect">
+		<p>
+			以增量的比值定义的物理量，当增量为具体值时，该物理量表示的是平均变化率；当增量极小时，此时的平均变化率可视为瞬时变化率，也就是导数值
 		</p>
 	</div></div>
 </div>
@@ -255,21 +267,22 @@
 	</div></div>
 	<div class="row"><div class="sect">量纲</div><div class="subsect">
 		<p>
-			量纲用来表示导出量与基本量之间的函数关系，任意一个导出量的量纲为<img src="review/dimension.svg" alt="dimension">．七个底数是基本量的量纲，分别为长度、质量、时间、电流、温度、物质的量、发光强度．
+			量纲用来表示导出量与基本量之间的函数关系，任意一个导出量的量纲为<img src="review/dimension.svg" alt="dimension">．七个底数是基本量的量纲，分别为长度、质量、时间、电流、温度、物质的量、发光强度．<br>
+			弧度和球面度没有量纲，或者说量纲为1．
 		</p>
 	</div></div>
 </div>
 
 <div class="part">二、力学</div>
 <div class="tabl">
-	<div class="row"><div class="sect"><span class="underline">运动描述</span>具有相对性</div><div class="subsect">
+	<div class="row"><div class="sect">运动描述具有相对性</div><div class="subsect">
 		<p>
-			<span class="bold">参考系</span>的选择是任意的，不同的选择对同一物体运动情况的描述不同.<br>
-			“运动描述”包括位置和位置的变化，也就是<a>位矢</a>和<a>位移</a>．选择不同的参考系看同一物体，哪怕位移相同，相对初位矢也不同．
+			观察物体运动的位置及位置的变化时，选择不同的参考系，对物体的运动情况的描述有不同．<br>
+			“运动情况的描述”包括位置和位置的变化，也就是<a>位矢</a>和<a>位移</a>．选择不同的参考系看同一物体，哪怕位移相同，相对初位矢也不同．
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">参考系</div><div class="subsect">
-		<p>
+		<p><span class="bold">参考系</span>的选择是任意的，不同的选择对同一物体运动情况的描述不同.<br>
 			惯性参考系（伽利略变换）、非惯性参考系（惯性力）．
 		</p>
 	</div></div>
@@ -279,30 +292,31 @@
 	<div class="row"><div class="sect">位置矢量/位矢</div><div class="subsect">
 		<p>
 			表示相对位置，起始于参考系，终止于研究对象．<br>
-			<span class="bold">质点的运动方程</span><img src="" alt="yuennDonqFangCherng">本质上是<a>参数方程</a>，消去参数t后可得到<span class="bold">质点的轨迹方程</span>．<br>
-			在<a>解析几何</a>中用方程来表示图形．
+			<span class="bold">质点的运动方程</span><img src="review/motionEquation.svg" alt="motion equation" class="m6a1">本质上是<a>参数方程</a>，消去参数\(t\)后可得到<span class="bold">质点的轨迹方程</span>．<br>
+			在<a>解析几何</a>中可以用方程来表示图形．
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">位移矢量/位移</div><div class="subsect">
 		<p>
-			表示位置变化<img src="" alt="weyYi">．
+			表示位置变化<img src="review/displacement.svg" alt="displacement">．
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">路程</div><div class="subsect">
 		<p>
-			运动轨迹的长度．一般情况下与位移的大小不相等，只有单向直线运动中，或极短时间内才相等<img src="" alt="drDeMoDeengYuDs"><br>
-			注意区分<img src="" alt="chiuFeng">
+			运动轨迹的长度．一般情况下与位移的大小不相等，只有单向直线运动中，或极短时间内才相等<img src="review/relationshipBetweenDsAndDr.svg" alt="relationship between derivative path and derivative displacement" class="m5a1"><br>
+			<span class="fontRed">【注意】</span>区分<img src="review/distingush.svg" alt="distinguish" class="m5a1">，等号右边表示的是位移大小的增量。
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">速度</div><div class="subsect">
 		<p>
-			平均速度<img src="" alt="pyngJiuSuhDuh"><br>
-			瞬时速度<img src="" alt="shuennShyrSuhDuh">
+			平均速度<img src="review/velocity_average.svg" alt="average velocity" class="m15a1">，
+			瞬时速度<img src="review/velocity_instance.svg" alt="instance velocity" class="m15a1"><br>
+			速度的方向<span class="fontRed">永远</span>指向运动轨迹的切线方向
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">速率</div><div class="subsect">
 		<p>
-			速率=路程÷时间，只有当路程=位移大小时，才有速率=速度大小．同样是单向直线运动或极短时间内
+			速率=路程÷时间，只有当路程=位移的大小时，才有速率=速度的大小．同样是单向直线运动或极短时间内
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">关联速度问题</div><div class="subsect">
@@ -312,72 +326,103 @@
 	</div></div>
 	<div class="row"><div class="sect">加速度</div><div class="subsect">
 		<p>
-			．
+			平均加速度<img src="review/acceleration_average.svg" class="m15a1">，瞬时加速度<img src="review/acceleration_instance.svg" class="m15a1">
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">角坐标/角位置</div><div class="subsect">
 		<p>
-			．
+			即转过的角度\(\theta\)．
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">角速度</div><div class="subsect">
 		<p>
-			．
+			表面上看起来不像矢量<img src="review/angularVelocity_scaler.svg" class="m14a1">，但仍可以人为规定方向，使之变成矢量<img src="review/angularVelocity_vector.svg" class="m14a1">．方向根据<a>右手螺旋定则</a>判断，四指指向旋转方向，大拇指为物理量的方向
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">角加速度</div><div class="subsect">
 		<p>
-			．
+			<img src="review/angularAcceleration_scaler.svg" class="m14a1">，矢量形式<img src="review/angularAcceleration_vector.svg" class="m14a1">，角加速度的方向与角速度的增量<span class="fontRed">的方向</span>相同，无法直观判断，需要计算．
 		</p>
 	</div></div>
-	<div class="row"><div class="sect">线速度</div><div class="subsect">
+	<!-- <div class="row"><div class="sect">线速度</div><div class="subsect">
 		<p>
 			．
 		</p>
-	</div></div>
+	</div></div> -->
 	<div class="row"><div class="sect">圆周运动中各物理量的关系</div><div class="subsect">
 		<p>
-			．
+			弧长<img src="review/archLength.svg">，
+			切向加速度<img src="review/tangentAcceleration.svg" class="m14a1">，
+			法向加速度<img src="review/normalAcceleration.svg">．
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">几类特殊的运动（二级结论）</div><div class="subsect">
 		<p>
-			．
+			匀速直线运动、匀变速直线运动、匀速率圆周运动、匀变速率圆周运动．
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">一般的曲线运动</div><div class="subsect">
 		<p>
-			．
+			任意的曲线运动可以微分成无数小段的圆周运动来研究，曲线在某点的曲率半径就是近似圆周运动的半径．<br>
+			曲率半径怎么算？
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">牛顿运动定律</div><div class="subsect">
 		<p>
-			．
+			<span class="bold">牛顿第一定律：惯性定律</span><br>
+			物体不受力时，运动状态（<a>速度</a>）不变<br>
+			<span class="bold">牛顿第二定律</span><br>
+			<img src="review/Newton's2ndLaw.svg" class="m14a1">，这也是如今力的定义<br>
+			<span class="bold">牛顿第三定律</span><br>
+			<img src="review/Newton's3rdLaw.svg">
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">力</div><div class="subsect">
 		<p>
-			．
+			<span class="bold">万有引力定律</span><br>
+			<img src="review/gravitation.svg" class="m12a1">其实从严格来讲万有引力不是力，是空间的扭曲<br>
+			<span class="bold">重力</span><br>
+			重力<img src="review/gravity.svg" class="m5a1">是万有引力的分力，另一个分力是向心力<br>
+			<span class="bold">（弹簧）弹力</span><br>
+			<img src="review/hook'sLaw.svg" class="m1a1">其中\(k\)是劲度系数，更普适的情况应该用<a>杨氏模量</a><br>
+			<span class="bold">摩擦力</span><br>
+			静摩擦力往往使物体维持静止状态，通过受力平衡来分析．<br>
+			最大静摩擦力为<img src="review/maxStaticFriction.svg" class="m6a1">，通常比滑动摩擦力<img src="review/slidingFriction.svg" class="m6a1">大一点，即\(\mu_0>\mu\)，但一般忽略不计，即\(\mu_0\approx\mu\)
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">动量</div><div class="subsect">
 		<p>
-			动量定理、冲量、动量守恒定律．
+			<img src="review/momentum.svg"><br>
+			<span class="bold">动量定理</span><br>
+			导数形式：<img src="review/momentumDerivitive.svg">、微分形式：<img src="review/momentumDifferential.svg" class="m14a1">、积分形式：<img src="review/momentumIntergal.svg" class="m20a1">，其中冲量<img src="review/impulse.svg"><br>
+			对于质点系，由于相互作用力大小相等方向相反，所以内力合动量为零<img src="review/innerMomentumSum.svg" class="m24a1">．合动量为<span class="fontRed">外力的</span>合动量<br>
+			<span class="bold">动量守恒定律</span><br>
+			当物体不受外力时，动量守恒。当内力远大于外力时，可近似看成守恒。常常是碰撞的时候。<br>
+			<span class="fontRed">【注意】</span>仅冲量为零，只说明某一刻动量没有改变，无法说明一段时间内动量都没有变，即无法说明动量守恒。<br>
+			<span class="bold">分动量守恒</span>
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">功</div><div class="subsect">
 		<p>
-			功、功率．
+			元功<img src="review/derivativeWork.svg" class="m2a1">积分成功<br>
+			功关于时间求导得到功率，对标量求导<img src="review/power1.svg" class="m14a1">与对矢量求导<img src="review/power2.svg" class="m14a1">结果一样
 		</p>
 	</div></div>
-	<div class="row"><div class="sect">能量</div><div class="subsect">
+	<!-- <div class="row"><div class="sect">能量</div><div class="subsect">
 		<p>
-			．
+			<span class="bold">动能</span><br>
+			由于运动而拥有的能量，
 		</p>
-	</div></div>
+	</div></div> -->
 	<div class="row"><div class="sect">功能关系</div><div class="subsect">
 		<p>
-			动能定理、保守力做功、机械能守恒、功能原理、能量守恒．
+			<span class="bold">动能定理</span><br>
+			<a>点乘</a>的几何意义就是一个矢量的大小与另一个矢量<span class="fontRed">的大小</span>相乘，所以公式中的\(F\cos\theta\)是切向力，元功<img src="review/kineticEnergy_deri.svg" class="m14a1">积分为总功<img src="review/kineticEnergy_int.svg" class="m20a1"><br>
+			<span class="bold">保守力做功</span><br>
+			万有引力做功<img src="review/gravitationEnergy.svg" class="m16a1">、重力做功<img src="review/gravityEnergy.svg" class="m5a1">、弹力做功<img src="review/elasticEnergy.svg" class="m13a1">，由此归纳出保守力做功<img src="review/potentialEnergy.svg" class="m5a1">，在一维度
+			<span class="bold">机械能守恒</span><br>
+			<span class="bold">功能原理</span><br>
+			<span class="bold">能量守恒</span>．
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">碰撞</div><div class="subsect">
