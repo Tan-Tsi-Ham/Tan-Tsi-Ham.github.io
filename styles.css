@@ -1,0 +1,95 @@
+body{background-color:aquamarine;font-size:17px;margin:0;}
+ul{list-style-type: none;}
+img{margin:-3px 1px;}
+
+.header{background-color:white;width:100%;margin:0 auto;text-align:center;}/*原本有position:relative;仍占據空間但可微調，對我目前沒有用*/
+.tree{background-color:white;text-align:center;position:relative;width:90%;margin:0 auto;padding:20px 0;}
+	.block{border:2px solid #333;display:inline-block;font-size:20px;padding:3px;margin:3px;background-color:azure;}
+	.block:hover{background-color:brown;}
+a{text-decoration:none;color:blue;}
+
+.text{width:90%;margin: 0 auto;}
+.footer{background-color:gray;position:relative;width:100%;height:100px;margin:0 auto;text-align:center;color:white;}
+
+hr{width:95%;margin:0 auto;height:5px;border-width:4px 0 0 0;border-style:solid;border-color:silver;margin-top:5px;}
+
+.border{border:1px solid black;}
+/* 留白 */
+.mar0{margin:0;}.pad0{padding:0;}
+.mar5{margin:5px;}.pad5{padding:5px;}
+    .mart5{margin-top: 5px;}
+    .marb5{margin-bottom: 5px;}
+.mar10{margin:10px;}.pad10{padding:10px;}
+    .marr10{margin-right:10px;}
+.mar50{margin:50px;}.pad50{padding: 50px;}
+/* 文本位置 */
+.textleft{text-align: left;}.textcenter{text-align:center;}.textright{text-align: right;}
+
+.v-center{display:flex;justify-content:center;align-items:center;}/*为什么无效？？*/
+.center{margin:0 auto;}
+/* 背景色 */
+.backGray{background-color:gray;}
+.backAqua{background-color:aqua;}
+.backViolet{background-color:violet;}
+.backPink{background-color: pink;}
+/* 字体颜色font color */
+.fontGray{color:gray;}
+.fontBlack{color:black;}
+.fontBlue{color: blue;}
+.fontRed{color:red;}
+/* 字体大小font size */
+.font10{font-size: 10px;}.font15{font-size: 15px;}.font20{font-size: 20px;}.font30{font-size:30px;}.font50{font-size:50px;}
+.font1r{font-size: 1rem;}.font1p5r{font-size: 1.5rem;}.font2r{font-size: 2rem;}
+/* 字体强调 */
+.bold{font-weight: bold;}
+.underline{text-decoration: underline;}
+/* 宽度 */
+.width50pc{width:50%;}
+/* 图片文字对齐+换行 */
+.line div{display:flex;align-items:center;justify-content: center;flex-wrap:wrap;padding: 5px;}
+
+
+/*		@media screen and (max-width/min-width:xxpx;)*/
+
+#myBtn{
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    font-size: 15px;
+    border:none;
+    outline:none;
+    background-color: #af4e4c;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius:10px;
+    transition: background-color 0.3s;}
+#myBtn:hover{background-color:#555;}
+
+.tabl {display: table;width: 95%;margin:0 auto;}
+.row {display: table-row;}/*表格行，有多列。table-cell的父元素必须是它*/
+    .cell{display: table-cell;}
+.column{display:table-column;}
+.navi {display: table-cell;width: 20%;text-align: center;font-size: 1rem;}
+.navi  a{display:inline-block;width: 100%;text-decoration: none;color: black;}
+.navi a:hover{background-color: #ccc;}
+
+.contents{font-size:1rem;width:95%;margin:0 auto;}
+.part{font-weight:bold;margin:1.2rem;}
+.sect{display:table-cell;background-color:blue;color:white;padding:5px;border:1px solid white;}
+    .sect a{text-decoration: none;color: white;}
+    .sect a:hover{color:red;}
+.subsect {display: table-cell;width: 75%;padding: 2px 1px 2px 8px;border:1px solid white;}
+.subsect a:hover{color:blue;}/*下面用不同的颜色来区分不同的章节，默认是红*/
+.subsect a{color:red;}
+/* 没有宽度限制 */
+/* .cell{display:table-cell;border:1px solid white;} */
+
+/* 索引的空格在上面“留白”里找.marr10 */
+
+.contents2{width:30%;margin:15px auto;border:3px dashed black;padding:10px;}
+
+.subtitle{width:50%;background-color: lightblue;border-left:5px solid indigo;border-bottom: 1px solid indigo;}
+
