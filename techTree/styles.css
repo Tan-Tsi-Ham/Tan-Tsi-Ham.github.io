@@ -1,6 +1,48 @@
 body{background-color:aquamarine;font-size:17px;margin:0;}
 ul{list-style-type: none;}
 img{margin:-3px 1px;}
+/* 公式微调位置 */
+.m1a1{margin: -1px 1px;}
+.m2a1{margin: -2px 1px;}
+.m3a1{margin:-3px 1px;}
+.m4a1{margin:-4px 1px;}
+.m5a1{margin: -5px 1px;}
+.m6a1{margin: -6px 1px;}
+.m7a1{margin: -7px 1px;}
+.m8a1{margin: -8px 1px;}
+.m9a1{margin: -9px 1px;}
+.m10a1{margin: -10px 1px;}
+.m11a1{margin: -11px 1px;}
+.m12a1{margin: -12px 1px;}
+.m13a1{margin: -13px 1px;}
+.m14a1{margin: -14px 1px;}/* 商 */
+.m15a1{margin: -15px 1px;}
+.m16a1{margin: -16px 1px;}
+.m17a1{margin: -17px 1px;}
+.m18a1{margin: -18px 1px;}
+.m19a1{margin: -19px 1px;}
+.m20a1{margin: -20px 1px;}/* 积分 */
+.m21a1{margin: -21px 1px;}
+.m22a1{margin: -22px 1px;}
+.m23a1{margin: -23px 1px;}
+.m24a1{margin: -24px 1px;}
+.m25a1{margin: -25px 1px;}/* 求和 */
+.m26a1{margin: -26px 1px;}
+.m27a1{margin: -27px 1px;}
+.m28a1{margin: -28px 1px;}
+.m29a1{margin: -29px 1px;}
+.m30a1{margin: -30px 1px;}
+
+/* 公式微调行高 */
+.h1p5{line-height: 1.5;}
+.h2{line-height: 2;}.h2p1{line-height:2.1;}.h2p2{line-height:2.2;}
+    .h2p3 p{line-height:2.7;}
+.h2p4{line-height:2.4;}.h2p5{line-height: 2.5;}
+.h3{line-height: 3;}.h3p5{line-height: 3.5;}
+.h4{line-height: 4;}.h4p5{line-height: 4.5;}
+.h5{line-height: 5;}.h5p5{line-height: 5.5;}
+.h6{line-height: 6;}.h6p5{line-height: 6.5;}
+
 
 .header{background-color:white;width:100%;margin:0 auto;text-align:center;}/*原本有position:relative;仍占據空間但可微調，對我目前沒有用*/
 .tree{background-color:white;text-align:center;position:relative;width:90%;margin:0 auto;padding:20px 0;}
@@ -45,7 +87,7 @@ hr{width:95%;margin:0 auto;height:5px;border-width:4px 0 0 0;border-style:solid;
 .underline{text-decoration: underline;}
 /* 宽度 */
 .width50pc{width:50%;}
-/* 图片文字对齐+换行 */
+/* 图片文字对齐+换行；旧版里使用的 */
 .line div{display:flex;align-items:center;justify-content: center;flex-wrap:wrap;padding: 5px;}
 
 
@@ -83,7 +125,7 @@ hr{width:95%;margin:0 auto;height:5px;border-width:4px 0 0 0;border-style:solid;
     .sect a:hover{color:red;}
 .subsect {display: table-cell;width: 75%;padding: 2px 1px 2px 8px;border:1px solid white;}
 .subsect a:hover{color:blue;}/*下面用不同的颜色来区分不同的章节，默认是红*/
-.subsect a{color:red;}
+.subsect a{color:blue;}
 /* 没有宽度限制 */
 /* .cell{display:table-cell;border:1px solid white;} */
 
@@ -92,3 +134,4 @@ hr{width:95%;margin:0 auto;height:5px;border-width:4px 0 0 0;border-style:solid;
 .contents2{width:30%;margin:15px auto;border:3px dashed black;padding:10px;}
 
 .subtitle{width:50%;background-color: lightblue;border-left:5px solid indigo;border-bottom: 1px solid indigo;}
+
