@@ -351,7 +351,7 @@
 	</div></div> -->
 	<div class="row"><div class="sect">圆周运动中各物理量的关系</div><div class="subsect">
 		<p>
-			弧长<img src="review/archLength.svg">，
+			弧长<img src="review/archLength.svg">，关于时间求导得到<img src="review/curve_velocity.svg">和<img src="review/curve_acceleration.svg"><br>
 			切向加速度<img src="review/tangentAcceleration.svg" class="m14a1">，
 			法向加速度<img src="review/normalAcceleration.svg">．
 		</p>
@@ -411,46 +411,69 @@
 	<div class="row"><div class="sect">能量</div><div class="subsect">
 		<p>
 			<span class="bold">势能</span><br>
-			由（这里还在改）
+			内力中<span class="bold">保守力</span>（万有引力、重力、弹性力）做功会改变系统的势能<img src="review/potentialEnergy.svg" class="m6a1">，同时也会改变动能<img src="review/kineticEnergy_short.svg" class="m4a1">（动能定理）．其实就是动能与势能间相互转化（机械能守恒）<br>
+			<span class="fontRed">【注意】</span>势能是<span class="fontRed">系统的</span>能量，讨论单个质点的势能没有意义，<span class="fontRed">外力也不区分保守力与非保守力</span><br>
+			<span class="bold">动能</span><br>
+			其他力（外力和<span class="fontRed">内非</span>保守力）做功会<span class="fontRed">额外</span>改变系统的动能，正功则动能增加、负功则动能减少<br>
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">功能关系</div><div class="subsect">
 		<p>
-			
-			内力中保守力做功会改变系统的<span class="bold">势能</span>，势能只与做功的初末位置有关，与路径无关．<br>
-			<span class="fontRed">外</span>力做功会<span class="fontRed">额外</span>改变系统的<span class="bold">动能</span>，正功则动能增加、负功则动能减少<br>
-			<span class="fontRed">【注意】</span>势能是<span class="fontRed">系统的</span>能量，讨论单个质点的势能没有意义，<span class="fontRed">外力也不区分保守力与非保守力</span><br>
-			<!-- <span class="fontRed">【注意】</span>一个质点<span class="fontRed">或许</span>也可以看成“系统”．用“或许”是因为没有查到相关的表述，全是作者的一己之见．但作者个人不喜欢区分质点和质点系的功能关系，作者认为这两种情况是相统一的没必要区分开．<br> -->
-			<span class="bold">动能定理</span><br>
+			<span class="bold">动能定理</span> 合力做功改变动能<br>
 			
 			元功<img src="review/kineticEnergy_deri.svg" class="m14a1">，公式中的\(F\cos\theta\)是切向力，因为<a>点乘</a>的几何意义就是一个矢量的大小与另一个矢量<span class="fontRed">的投影的大小</span>相乘，运动的方向就是切向，力投影到切向．<br>
 			总功<img src="review/kineticEnergy_int.svg" class="m20a1"><br>
 			对于质点系，一切内力和外力都会改变系统的总动能：<img src="review/kinetcEnergy_sys.svg" class="m21a1"><br>
-			<span class="bold">保守力做功</span><br>
-			万有引力做功<img src="review/gravitationEnergy.svg" class="m16a1">、重力做功<img src="review/gravityEnergy.svg" class="m5a1">、弹力做功<img src="review/elasticEnergy.svg" class="m13a1">，由此归纳出保守力做功<img src="review/potentialEnergy.svg" class="m5a1">，在<span class="fontRed">一维</span>的情况下，还得到<img src="review/potential1D.svg" class="m14a1"><br>
-			<span class="bold">功能原理</span>内非保守力做功改变机械能<br>
-			<span class="bold">机械能守恒</span>内保守力做功改变势能<br>
-			<span class="bold">能量守恒</span>．
+			<span class="bold">保守力做功</span> 内保守力做功，动能势能相互转换<br>
+			保守力做功只与做功的初末位置有关，与做功的路径无关．当路径为一个闭环时，即始末位置重合时，功为零<img src="review/conservativeForce'sWork.svg" class="m18a1"><br>
+			万有引力做功<img src="review/gravitationEnergy.svg" class="m17a1"><br>
+			重力做功<img src="review/gravityEnergy.svg" class="m5a1">．<span class="fontRed">【注意】</span>质点系的重力势能看<a>质心</a>位置而不是最低点<br>
+			弹力做功<img src="review/elasticEnergy.svg" class="m13a1"><br>由此归纳出保守力做功<img src="review/potentialEnergy.svg" class="m5a1">，在<span class="fontRed">一维</span>的情况下，还得到<img src="review/potential1D.svg" class="m14a1"><br>
+			<span class="bold">功能原理</span> 外力和内非保守力做功改变动能进而改变机械能<br>
+			内力分为保守力和非保守力，因为保守力影响的势能是属于系统的，所以外力没有讨论的意义<br>
+			由动能定理可知<img src="review/kineticEnergy_long.svg" class="m5a1">，内保守力改变势能<img src="review/kinetic_potential.svg" class="m4a1">，移项之后得到功能原理<img src="review/work_energy_final.svg" class="m6a1"><br>
+			<span class="bold">机械能守恒</span> 内保守力做功，动能势能相互转换，机械能总量不变<br>
+			由功能关系可知，当<span class="fontRed">只有内保守力做功</span>，即外力和内非保守力都不做功，那机械能够的增量为0，即机械能不发生变化，<span class="fontRed">机械能守恒</span><br>
+			<span class="bold">能量守恒</span><br>
+			能量不会凭空产生或消失，只会从一种形式转化为另一种形式
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">碰撞</div><div class="subsect">
 		<p>
-			．
+			完全弹性碰撞，系统总动能没有损失，系统内各物体碰撞后即分开；完全非弹性碰撞，系统动能损失最大，系统里各物体粘一起接下来以同样的速度运动；其他情况介于二者之间，虽然碰撞后分离了，但也损失了部分动能．
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">质心</div><div class="subsect">
-		<p>
-			质心运动定理．
+		<p class="h4">
+			质心位置<img src="review/centroid.svg" class="m45a1">，对于密度均匀、形状对称分布的物体，其质心在几何中心．<br>
+			<span class="bold">质心运动定理</span><br>
+			为了书写方便，记总质量\(m'=\sum\limits_{i=1}^{n}m_i\)，则
+			<img src="review/centroid_sumMass.svg" class="m24a1">，关于时间求导得到动量<img src="review/centroid_momentum.svg" class="m24a1">，再关于时间求导得到力<img src="review/centroid_force.svg" class="m12a1">．
 		</p>
 	</div></div>
-	<div class="row"><div class="sect">刚体转动</div><div class="subsect">
+	<div class="row"><div class="sect">刚体</div><div class="subsect">
 		<p>
-			．
+			形状大小不变的<a>理想模型</a>．
 		</p>
 	</div></div>
-	<div class="row"><div class="sect">运用定义公式计算</div><div class="subsect">
+	<div class="row"><div class="sect">转动</div><div class="subsect">
 		<p>
-			力矩、力臂、转动定律、角动量、转动惯量、角动量定理、角动量守恒、功、能．
+			力矩<img src="review/moment.svg">，其中<img src="review/arm.svg">是力臂<br>
+			力矩为零的三种情况：<br>
+			1.<br>2.<br>3.<br>
+			<span class="bold">转动惯量</span><br>
+
+			<span class="bold">转动定律</span><br>
+			
+			<span class="bold">角动量</span><br>
+			角动量定理<br>
+
+			角动量守恒<br>
+
+			<span class="bold">力矩做功</span><br>
+
+			<span class="bold">转动动能</span><br>
+			
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">刚体的平面平行运动</div><div class="subsect">
