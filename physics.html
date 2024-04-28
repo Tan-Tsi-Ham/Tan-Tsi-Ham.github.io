@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- <meta http-equiv="refresh" content="1"> -->
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><!--设置中文-->
+	<title>TSIEX SIKAI: Physics</title>
+	<meta charset="utf-8">
+	<!-- <meta name="viewport" content="width=device-width,initial-scale=1.0"> -->
+
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+	<link rel="stylesheet" type="text/css" href="../styles.css">
+
+</head>
+
+<body>
+	<div class="header"><!--头部-->
+		<span class="font50"><a class="fontBlack" href="../Tsiex-Sikai.html">TSIEX SIKAI: Physics</a></span>
+		<!-- <p>人人都平等地享有认识世界的权利，因而诞生了这个网站。</p> -->
+		<p>目前主要参考我的教材《物理学》（ISBN 978-7-04-053823-6）进行编写。</p>
+		<p>内容比较多，按住左下角CTRL键不放，然后按F键可以打开搜索框快速查询。</p>
+		<!-- <p>目录参考<a href="https://www.phy.sdu.edu.cn/__local/3/E8/20/091E0452B7B8F62D3BBF83EEE93_D96B8090_858F2.pdf?e=.pdf">《理工科类大学物理课程教学基本要求》</a>编写。</p> -->
+		<nav class="tabl"><div class="row backAqua">
+			<div class="navi"><a href="../talk.html">页面介绍</a></div>
+			<!-- <div class="navi"><a href="formula.html">知识地图</a></div>
+			<div class="navi backViolet"><a href="calculus.html">理论目录</a></div>
+			<div class="navi"><a href="practice.html">习题集合</a></div>
+			<div class="navi"><a href="resource.html">参考资料</a></div> -->
+			<div class="navi backViolet"><a href="physics.html">知识大纲</a></div>
+			<div class="navi"><a href="theory.html">理论推导</a></div>
+			<div class="navi"><a href="practice.html">习题集合</a></div>
+			<div class="navi"><a href="resource.html">参考资料</a></div>
+		</div></nav>
+		<hr>
+	</div>
+<!-------------------------------------------------------------->
+	<!-- <div class="contents">
+
+		<div class="part">物理量</div>
+		<div class="tabl">
+			<div class="row"><div class="sect"><a href="SI.html">国际单位制</a></div><div class="subsect">
+				<span class="c1"><a href="">基本单位</a></span>
+				<span class="c1"><a href="">辅助单位</a></span>
+				<span class="c1"><a href="">导出单位</a></span>
+				<span class="c1"><a href="">词头</a></span>
+			</div></div>
+			<div class="row"><div class="sect">量纲</div><div class="subsect">
+			</div></div>
+		</div>
+
+		<div class="part">力学</div>
+		<div class="tabl">
+			<div class="row"><div class="sect"><a href="motion.html">质点运动</a></div><div class="subsect">
+				<span class="c1"><a href="">参考系</a></span>
+				<span class="c1"><a href="">质点</a></span>
+				<span class="c1"><a href="">伽利略变换</a></span>
+				<span class="c1"><a href="">惯性力</a></span>
+			</div></div>
+			<div class="row"><div class="sect">牛顿运动定律</div><div class="subsect">
+				<span class="c1"><a href="">〇</a></span>
+			</div></div>
+			<div class="row"><div class="sect"><a href="momentum.html">动量</a></div><div class="subsect">
+				<span class="c1"><a href="momentum.html">动量</a></span>
+				<span class="c1"><a href="momentum.html">冲量</a></span>
+				<span class="c1"><a href="momentum.html">动量定理</a></span>
+				<span class="c1"><a href="momentum.html">动量守恒定律</a></span>
+			</div></div>
+			<div class="row"><div class="sect">能量</div><div class="subsect">
+				<span class="c1"><a href="">〇</a></span>
+			</div></div>
+			<div class="row"><div class="sect">刚体转动</div><div class="subsect">
+				<span class="c1"><a href="">〇</a></span>
+			</div></div>
+		</div>
+
+		<div class="part">电磁学</div>
+		<div class="tabl">
+			<div class="row"><div class="sect">〇〇</div><div class="subsect">
+				<span class="c1"><a href="">〇</a></span>
+				<span class="c1"><a href="">〇</a></span>
+				<span class="c1"><a href="">〇</a></span>
+			</div></div>
+			<div class="row"><div class="sect">〇〇</div><div class="subsect">
+				<span class="c1"><a href="">〇</a></span>
+			</div></div>
+		</div>
+
+		<div class="part">热学</div>
+		<div class="tabl">
+			<div class="row"><div class="sect">〇〇</div><div class="subsect">
+				<span class="c1"><a href="">〇</a></span>
+				<span class="c1"><a href="">〇</a></span>
+				<span class="c1"><a href="">〇</a></span>
+			</div></div>
+			<div class="row"><div class="sect">〇〇</div><div class="subsect">
+				<span class="c1"><a href="">〇</a></span>
+			</div></div>
+		</div>
+
+		<div class="part">振动和波</div>
+		<div class="tabl">
+			<div class="row"><div class="sect">〇〇</div><div class="subsect">
+				<span class="c1"><a href="">〇</a></span>
+				<span class="c1"><a href="">〇</a></span>
+				<span class="c1"><a href="">〇</a></span>
+			</div></div>
+			<div class="row"><div class="sect">〇〇</div><div class="subsect">
+				<span class="c1"><a href="">〇</a></span>
+			</div></div>
+		</div>
+
+		<div class="part">光学</div>
+		<div class="tabl">
+			<div class="row"><div class="sect">〇〇</div><div class="subsect">
+				<span class="c1"><a href="">〇</a></span>
+				<span class="c1"><a href="">〇</a></span>
+				<span class="c1"><a href="">〇</a></span>
+			</div></div>
+			<div class="row"><div class="sect">〇〇</div><div class="subsect">
+				<span class="c1"><a href="">〇</a></span>
+			</div></div>
+		</div>
+
+		<div class="part">相对论</div>
+		<div class="tabl">
+			<div class="row"><div class="sect">〇〇</div><div class="subsect">
+				<span class="c1"><a href="">〇</a></span>
+				<span class="c1"><a href="">〇</a></span>
+				<span class="c1"><a href="">〇</a></span>
+			</div></div>
+			<div class="row"><div class="sect">〇〇</div><div class="subsect">
+				<span class="c1"><a href="">〇</a></span>
+			</div></div>
+		</div>
+
+		<div class="part">量子力学</div>
+		<div class="tabl">
+			<div class="row"><div class="sect">〇〇</div><div class="subsect">
+				<span class="c1"><a href="">〇</a></span>
+				<span class="c1"><a href="">〇</a></span>
+				<span class="c1"><a href="">〇</a></span>
+			</div></div>
+			<div class="row"><div class="sect">〇〇</div><div class="subsect">
+				<span class="c1"><a href="">〇</a></span>
+			</div></div>
+		</div>
+
+		<div class="part">分子与固体</div>
+		<div class="tabl">
+			<div class="row"><div class="sect">〇〇</div><div class="subsect">
+				<span class="c1"><a href="">〇</a></span>
+				<span class="c1"><a href="">〇</a></span>
+				<span class="c1"><a href="">〇</a></span>
+			</div></div>
+			<div class="row"><div class="sect">〇〇</div><div class="subsect">
+				<span class="c1"><a href="">〇</a></span>
+			</div></div>
+		</div>
+
+		<div class="part">和物理与粒子物理</div>
+		<div class="tabl">
+			<div class="row"><div class="sect">〇〇</div><div class="subsect">
+				<span class="c1"><a href="">〇</a></span>
+				<span class="c1"><a href="">〇</a></span>
+				<span class="c1"><a href="">〇</a></span>
+			</div></div>
+			<div class="row"><div class="sect">〇〇</div><div class="subsect">
+				<span class="c1"><a href="">〇</a></span>
+			</div></div>
+		</div>
+		
+		<div class="part">天体物理与宇宙学</div>
+		<div class="tabl">
+			<div class="row"><div class="sect">〇〇</div><div class="subsect">
+				<span class="c1"><a href="">〇</a></span>
+				<span class="c1"><a href="">〇</a></span>
+				<span class="c1"><a href="">〇</a></span>
+			</div></div>
+			<div class="row"><div class="sect">〇〇</div><div class="subsect">
+				<span class="c1"><a href="">〇</a></span>
+			</div></div>
+		</div>
+		
+		<div class="part">现代科学与高新技术</div>
+		<div class="tabl">
+			<div class="row"><div class="sect">〇〇</div><div class="subsect">
+				<span class="c1"><a href="">〇</a></span>
+				<span class="c1"><a href="">〇</a></span>
+				<span class="c1"><a href="">〇</a></span>
+			</div></div>
+			<div class="row"><div class="sect">〇〇</div><div class="subsect">
+				<span class="c1"><a href="">〇</a></span>
+			</div></div>
+		</div>
+
+		<div class="part">附录</div>
+		<div class="tabl textcenter">
+			<div class="sect">公式总览</div>
+			<div class="sect">学科史</div>
+			<div class="sect">知识地图</div>
+			<div class="sect">理想模型</div>
+		</div>
+
+	</div>
+	<div class="part"></div> -->
+<!-------------------------------------------------------------->
+<div class="contents h2p3"><!-- 有了h2p3，再也不用每个公式都调整了 -->
+
+<div class="part">〇、数学基础</div>
+<div class="tabl">
+	<div class="row"><div class="sect">合矢量的判断</div><div class="subsect">
+		<p>
+			连接一个矢量的头和另一个矢量的尾的矢量，就是合矢量．
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">正交分解</div><div class="subsect">
+		<p>
+			矢量可以分解成几个相互垂直的方向的分量来分析．
+			<!-- <img src="" alt="orthogonalDecomposition"> -->
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">矢量的大小：模</div><div class="subsect">
+		<p>
+			有向线段的长度，本质上是对初末位置使用<a>两点间距离公式</a>
+			<!-- <img src="" alt="vectorLength"><img src="" alt="vectorMagnitude"> -->
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">矢量的方向：方向余弦</div><div class="subsect">
+		<p>
+			<!-- <img src="" alt="vectorAngles"><img src="" alt="directionCosines"><br> -->
+			特别的，在二维空间中还可以用正切来表示方向
+			<!-- <img src="" alt="directionTangent"> -->
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">坐标系</div><div class="subsect">
+		<p>
+			．
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">导数</div><div class="subsect">
+		<p>
+			以增量的比值定义的物理量，当增量为具体值时，该物理量表示的是平均变化率；当增量极小时，此时的平均变化率可视为瞬时变化率，也就是导数值
+		</p>
+	</div></div>
+</div>
+
+<div class="part">一、预备</div>
+<div class="tabl">
+	<div class="row"><div class="sect">物理量</div><div class="subsect">
+		<p>
+			<span class="bold">基本量</span><br>
+			长度、质量、时间、电流、热力学温度、物质的量、发光强度．物理世界可以看成7维空间，7个基本量是它的相互独立的<a>基底</a>．<br>
+			<span class="bold">导出量</span><br>
+			由基本量定义．
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">国际单位制</div><div class="subsect">
+		<p>
+			<span class="bold">基本单位</span><br>
+			长度单位：米（m）、质量单位：千克（kg）、时间单位：秒（s）、电流强度单位：安培（A）、热力学温度单位：开尔文（K）、物质的量单位：摩尔（mol）、发光强度单位：坎德拉（cd）．<br>
+			<span class="bold">导出单位</span><br>
+			由基本单位按定义式的运算得出．<br>
+			【例如】速度定义为位移<span class="underline">比</span>时间，其中位移的基本单位是米（m），时间的基本单位是秒（s），按照定义式运算，则速度的导出单位是米<span class="underline">比</span>秒（m/s），习惯上叫做“米每秒”．
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">量纲</div><div class="subsect">
+		<p>
+			量纲用来表示导出量与基本量之间的函数关系，任意一个导出量的量纲为<img src="review/dimension.svg" alt="dimension">．七个底数是基本量的量纲，分别为长度、质量、时间、电流、温度、物质的量、发光强度．<br>
+			弧度和球面度没有量纲，或者说量纲为1．
+		</p>
+	</div></div>
+</div>
+
+<div class="part">二、力学</div>
+<div class="tabl">
+	<div class="row"><div class="sect">运动描述具有相对性</div><div class="subsect">
+		<p>
+			观察物体运动的位置及位置的变化时，选择不同的参考系，对物体的运动情况的描述有不同．<br>
+			<span class="fontRed">【注意】</span>“运动情况的描述”包括位置和位置的变化，也就是<a>位矢</a>和<a>位移</a>．选择不同的参考系看同一物体，哪怕位移相同，相对初位矢也不同．
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">参考系</div><div class="subsect">
+		<p><span class="bold">参考系</span>的选择是任意的，不同的选择对同一物体运动情况的描述不同.<br>
+			惯性参考系（伽利略变换）、非惯性参考系（惯性力）．
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">质点</div><div class="subsect">
+		<p>有些问题中能忽略物体的大小和形状，看成有质量的点．是<a>理想模型</a>．<br>当物体不能视为质点时，可视为质点系（多个质点）来分析．</p>
+	</div></div>
+	<div class="row"><div class="sect">位置矢量/位矢</div><div class="subsect">
+		<p>
+			表示相对位置，起始于参考系，终止于研究对象．<br>
+			<span class="bold">质点的运动方程</span><img src="review/motionEquation.svg" alt="motion equation" class="m6a1">本质上是<a>参数方程</a>，消去参数\(t\)后可得到<span class="bold">质点的轨迹方程</span>．<br>
+			在<a>解析几何</a>中可以用方程来表示图形．
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">位移矢量/位移</div><div class="subsect">
+		<p>
+			表示位置变化<img src="review/displacement.svg" alt="displacement">．
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">路程</div><div class="subsect">
+		<p>
+			运动轨迹的长度．一般情况下与位移的大小不相等，只有单向直线运动中，或极短时间内才相等<img src="review/relationshipBetweenDsAndDr.svg" alt="relationship between derivative path and derivative displacement" class="m5a1"><br>
+			<span class="fontRed">【注意】</span>区分<img src="review/distingush.svg" alt="distinguish" class="m5a1">，等号右边表示的是位移大小的增量。
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">速度</div><div class="subsect">
+		<p>
+			平均速度<img src="review/velocity_average.svg" alt="average velocity" class="m15a1">，
+			瞬时速度<img src="review/velocity_instance.svg" alt="instance velocity" class="m15a1"><br>
+			速度的方向<span class="fontRed">永远</span>指向运动轨迹的切线方向
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">速率</div><div class="subsect">
+		<p>
+			速率=路程÷时间，只有当路程=位移的大小时，才有速率=速度的大小．同样是单向直线运动或极短时间内
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">关联速度问题</div><div class="subsect">
+		<p>
+			．
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">加速度</div><div class="subsect">
+		<p>
+			平均加速度<img src="review/acceleration_average.svg" class="m15a1">，瞬时加速度<img src="review/acceleration_instance.svg" class="m15a1">
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">角坐标/角位置</div><div class="subsect">
+		<p>
+			即转过的角度\(\theta\)．
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">角速度</div><div class="subsect">
+		<p>
+			表面上看起来不像矢量<img src="review/angularVelocity_scaler.svg" class="m14a1">，但仍可以人为规定方向，使之变成矢量<img src="review/angularVelocity_vector.svg" class="m14a1">．方向根据<a>右手螺旋定则</a>判断，四指指向旋转方向，大拇指为物理量的方向
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">角加速度</div><div class="subsect">
+		<p>
+			<img src="review/angularAcceleration_scaler.svg" class="m14a1">，矢量形式<img src="review/angularAcceleration_vector.svg" class="m14a1">，角加速度的方向与角速度的增量<span class="fontRed">的方向</span>相同，无法直观判断，需要计算．
+		</p>
+	</div></div>
+	<!-- <div class="row"><div class="sect">线速度</div><div class="subsect">
+		<p>
+			．
+		</p>
+	</div></div> -->
+	<div class="row"><div class="sect">圆周运动中各物理量的关系</div><div class="subsect">
+		<p>
+			弧长<img src="review/archLength.svg">，关于时间求导得到<img src="review/curve_velocity.svg">和<img src="review/curve_acceleration.svg"><br>
+			切向加速度<img src="review/tangentAcceleration.svg" class="m14a1">，
+			法向加速度<img src="review/normalAcceleration.svg">．
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">几类特殊的运动（二级结论）</div><div class="subsect">
+		<p>
+			匀速直线运动、匀变速直线运动、匀速率圆周运动、匀变速率圆周运动．
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">一般的曲线运动</div><div class="subsect">
+		<p>
+			任意的曲线运动可以微分成无数小段的圆周运动来研究，曲线在某点的曲率半径就是近似圆周运动的半径．<br>
+			曲率半径怎么算？
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">牛顿运动定律</div><div class="subsect">
+		<p>
+			<span class="bold">牛顿第一定律：惯性定律</span><br>
+			物体不受力时，运动状态（<a>速度</a>）不变<br>
+			<span class="bold">牛顿第二定律</span><br>
+			<img src="review/Newton's2ndLaw.svg" class="m14a1">，这也是如今力的定义<br>
+			<span class="bold">牛顿第三定律</span><br>
+			<img src="review/Newton's3rdLaw.svg">
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">力</div><div class="subsect">
+		<p>
+			<span class="bold">万有引力定律</span><br>
+			<img src="review/gravitation.svg" class="m12a1">其实从严格来讲万有引力不是力，是空间的扭曲<br>
+			<span class="bold">重力</span><br>
+			重力<img src="review/gravity.svg" class="m5a1">是万有引力的分力，另一个分力是向心力<br>
+			<span class="bold">（弹簧）弹力</span><br>
+			<img src="review/hook'sLaw.svg" class="m1a1">其中\(k\)是劲度系数，更普适的情况应该用<a>杨氏模量</a><br>
+			<span class="bold">摩擦力</span><br>
+			静摩擦力往往使物体维持静止状态，通过受力平衡来分析．<br>
+			最大静摩擦力为<img src="review/maxStaticFriction.svg" class="m6a1">，通常比滑动摩擦力<img src="review/slidingFriction.svg" class="m6a1">大一点，即\(\mu_0>\mu\)，但一般忽略不计，即\(\mu_0\approx\mu\)
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">动量</div><div class="subsect">
+		<p>
+			<img src="review/momentum.svg"><br>
+			<span class="bold">动量定理</span><br>
+			导数形式：<img src="review/momentumDerivitive.svg">、微分形式：<img src="review/momentumDifferential.svg" class="m14a1">、积分形式：<img src="review/momentumIntergal.svg" class="m20a1">，其中冲量<img src="review/impulse.svg"><br>
+			对于质点系，由于相互作用力大小相等方向相反，所以内力合动量为零<img src="review/innerMomentumSum.svg" class="m24a1">．合动量为<span class="fontRed">外力的</span>合动量<br>
+			<span class="bold">动量守恒定律</span><br>
+			当物体不受外力时，动量守恒。当内力远大于外力时，可近似看成守恒。常常是碰撞的时候。<br>
+			<span class="fontRed">【注意】</span>仅冲量为零，只说明某一刻动量没有改变，无法说明一段时间内动量都没有变，即无法说明动量守恒。<br>
+			<span class="bold">分动量守恒</span>
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">功</div><div class="subsect">
+		<p>
+			元功<img src="review/derivativeWork.svg" class="m2a1">积分成功<br>
+			功关于时间求导得到功率，对标量求导<img src="review/power1.svg" class="m14a1">与对矢量求导<img src="review/power2.svg" class="m14a1">结果一样
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">能量</div><div class="subsect">
+		<p>
+			<span class="bold">势能</span><br>
+			内力中<span class="bold">保守力</span>（万有引力、重力、弹性力）做功会改变系统的势能<img src="review/potentialEnergy.svg" class="m6a1">，同时也会改变动能<img src="review/kineticEnergy_short.svg" class="m4a1">（动能定理）．其实就是动能与势能间相互转化（机械能守恒）<br>
+			<span class="fontRed">【注意】</span>势能是<span class="fontRed">系统的</span>能量，讨论单个质点的势能没有意义，<span class="fontRed">外力也不区分保守力与非保守力</span><br>
+			<span class="bold">动能</span><br>
+			其他力（外力和<span class="fontRed">内非</span>保守力）做功会<span class="fontRed">额外</span>改变系统的动能，正功则动能增加、负功则动能减少<br>
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">功能关系</div><div class="subsect">
+		<p>
+			<span class="bold">动能定理</span> 合力做功改变动能<br>
+			
+			元功<img src="review/kineticEnergy_deri.svg" class="m14a1">，公式中的\(F\cos\theta\)是切向力，因为<a>点乘</a>的几何意义就是一个矢量的大小与另一个矢量<span class="fontRed">的投影的大小</span>相乘，运动的方向就是切向，力投影到切向．<br>
+			总功<img src="review/kineticEnergy_int.svg" class="m20a1"><br>
+			对于质点系，一切内力和外力都会改变系统的总动能：<img src="review/kinetcEnergy_sys.svg" class="m21a1"><br>
+			<span class="bold">保守力做功</span> 内保守力做功，动能势能相互转换<br>
+			保守力做功只与做功的初末位置有关，与做功的路径无关．当路径为一个闭环时，即始末位置重合时，功为零<img src="review/conservativeForce'sWork.svg" class="m18a1"><br>
+			万有引力做功<img src="review/gravitationEnergy.svg" class="m17a1"><br>
+			重力做功<img src="review/gravityEnergy.svg" class="m5a1">．<span class="fontRed">【注意】</span>质点系的重力势能看<a>质心</a>位置而不是最低点<br>
+			弹力做功<img src="review/elasticEnergy.svg" class="m13a1"><br>由此归纳出保守力做功<img src="review/potentialEnergy.svg" class="m5a1">，在<span class="fontRed">一维</span>的情况下，还得到<img src="review/potential1D.svg" class="m14a1"><br>
+			<span class="bold">功能原理</span> 外力和内非保守力做功改变动能进而改变机械能<br>
+			内力分为保守力和非保守力，因为保守力影响的势能是属于系统的，所以外力没有讨论的意义<br>
+			由动能定理可知<img src="review/kineticEnergy_long.svg" class="m5a1">，内保守力改变势能<img src="review/kinetic_potential.svg" class="m4a1">，移项之后得到功能原理<img src="review/work_energy_final.svg" class="m6a1"><br>
+			<span class="bold">机械能守恒</span> 内保守力做功，动能势能相互转换，机械能总量不变<br>
+			由功能关系可知，当<span class="fontRed">只有内保守力做功</span>，即外力和内非保守力都不做功，那机械能够的增量为0，即机械能不发生变化，<span class="fontRed">机械能守恒</span><br>
+			<span class="bold">能量守恒</span><br>
+			能量不会凭空产生或消失，只会从一种形式转化为另一种形式
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">碰撞</div><div class="subsect">
+		<p>
+			完全弹性碰撞，系统总动能没有损失，系统内各物体碰撞后即分开；完全非弹性碰撞，系统动能损失最大，系统里各物体粘一起接下来以同样的速度运动；其他情况介于二者之间，虽然碰撞后分离了，但也损失了部分动能．
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">质心</div><div class="subsect">
+		<p class="h4">
+			质心位置<img src="review/centroid.svg" class="m45a1">，对于密度均匀、形状对称分布的物体，其质心在几何中心．<br>
+			<span class="bold">质心运动定理</span><br>
+			为了书写方便，记总质量\(m'=\sum\limits_{i=1}^{n}m_i\)，则
+			<img src="review/centroid_sumMass.svg" class="m24a1">，关于时间求导得到动量<img src="review/centroid_momentum.svg" class="m24a1">，再关于时间求导得到力<img src="review/centroid_force.svg" class="m12a1">．
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">刚体</div><div class="subsect">
+		<p>
+			形状大小不变的<a>理想模型</a>．
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">转动</div><div class="subsect">
+		<p>
+			力矩<img src="review/moment.svg">，其中<img src="review/arm.svg">是力臂<br>
+			力矩为零的三种情况：<br>
+			1.<br>2.<br>3.<br>
+			<span class="bold">转动惯量</span><br>
+
+			<span class="bold">转动定律</span><br>
+			
+			<span class="bold">角动量</span><br>
+			角动量定理<br>
+
+			角动量守恒<br>
+
+			<span class="bold">力矩做功</span><br>
+
+			<span class="bold">转动动能</span><br>
+			
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">刚体的平面平行运动</div><div class="subsect">
+		<p>
+			．
+		</p>
+	</div></div>
+</div>
+
+<div class="part">三、电磁学</div>
+<div class="tabl">
+	<div class="row"><div class="sect">电荷</div><div class="subsect">
+		<p>
+			．
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">电场</div><div class="subsect">
+		<p>
+			电场强度、电通量、高斯定理．
+		</p>
+	</div></div>
+</div>
+
+<div class="part">习题综合</div>
+<div class="tabl">
+	<div class="row"><div class="sect">运用定义公式计算</div><div class="subsect">
+		<p>
+			导数和积分．
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">联立公式计算</div><div class="subsect">
+		<p>
+			．
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">关联速度问题</div><div class="subsect">
+		<p>
+			．
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">碰撞问题</div><div class="subsect">
+		<p>
+			．
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">人船模型</div><div class="subsect">
+		<p>
+			．
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">变量代换</div><div class="subsect">
+		<p>
+			．
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">指数形函数积分</div><div class="subsect">
+		<p>
+			．
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">结果为无穷要估算</div><div class="subsect">
+		<p>
+			．
+		</p>
+	</div></div>
+	<div class="row"><div class="sect">不定积分与定积分的关系</div><div class="subsect">
+		<p>
+			．
+		</p>
+	</div></div>
+</div>
+
+<!-------------------------------------------------------------->
+	<div class="footer"><!--尾部-->
+		<div class="mar10 pad50">如果你有更好的建议，请告知我（<a href="">harold726@qq.com</a>）</div>
+	</div>
+
+<!-------------------------------------------------------------->
+    <button onclick="topFunction()" id="myBtn" title="toTop">返回顶部</button>
+
+    <script src="../script.js"></script>
+
+</body>
+</html>
