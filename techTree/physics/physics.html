@@ -278,7 +278,7 @@
 	<div class="row"><div class="sect">运动描述具有相对性</div><div class="subsect">
 		<p>
 			观察物体运动的位置及位置的变化时，选择不同的参考系，对物体的运动情况的描述有不同．<br>
-			“运动情况的描述”包括位置和位置的变化，也就是<a>位矢</a>和<a>位移</a>．选择不同的参考系看同一物体，哪怕位移相同，相对初位矢也不同．
+			<span class="fontRed">【注意】</span>“运动情况的描述”包括位置和位置的变化，也就是<a>位矢</a>和<a>位移</a>．选择不同的参考系看同一物体，哪怕位移相同，相对初位矢也不同．
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">参考系</div><div class="subsect">
@@ -387,7 +387,7 @@
 			<img src="review/hook'sLaw.svg" class="m1a1">其中\(k\)是劲度系数，更普适的情况应该用<a>杨氏模量</a><br>
 			<span class="bold">摩擦力</span><br>
 			静摩擦力往往使物体维持静止状态，通过受力平衡来分析．<br>
-			最大静摩擦力为<img src="review/maxStaticFriction.svg">，通常比滑动摩擦力<img src="review/slidingFriction.svg">大一点，即\(\mu_0>\mu\)，但一般忽略不计，即\(\mu_0\approx\mu\)
+			最大静摩擦力为<img src="review/maxStaticFriction.svg" class="m6a1">，通常比滑动摩擦力<img src="review/slidingFriction.svg" class="m6a1">大一点，即\(\mu_0>\mu\)，但一般忽略不计，即\(\mu_0\approx\mu\)
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">动量</div><div class="subsect">
@@ -408,20 +408,28 @@
 			功关于时间求导得到功率，对标量求导<img src="review/power1.svg" class="m14a1">与对矢量求导<img src="review/power2.svg" class="m14a1">结果一样
 		</p>
 	</div></div>
-	<!-- <div class="row"><div class="sect">能量</div><div class="subsect">
+	<div class="row"><div class="sect">能量</div><div class="subsect">
 		<p>
-			<span class="bold">动能</span><br>
-			由于运动而拥有的能量，
+			<span class="bold">势能</span><br>
+			由（这里还在改）
 		</p>
-	</div></div> -->
+	</div></div>
 	<div class="row"><div class="sect">功能关系</div><div class="subsect">
 		<p>
+			
+			内力中保守力做功会改变系统的<span class="bold">势能</span>，势能只与做功的初末位置有关，与路径无关．<br>
+			<span class="fontRed">外</span>力做功会<span class="fontRed">额外</span>改变系统的<span class="bold">动能</span>，正功则动能增加、负功则动能减少<br>
+			<span class="fontRed">【注意】</span>势能是<span class="fontRed">系统的</span>能量，讨论单个质点的势能没有意义，<span class="fontRed">外力也不区分保守力与非保守力</span><br>
+			<!-- <span class="fontRed">【注意】</span>一个质点<span class="fontRed">或许</span>也可以看成“系统”．用“或许”是因为没有查到相关的表述，全是作者的一己之见．但作者个人不喜欢区分质点和质点系的功能关系，作者认为这两种情况是相统一的没必要区分开．<br> -->
 			<span class="bold">动能定理</span><br>
-			<a>点乘</a>的几何意义就是一个矢量的大小与另一个矢量<span class="fontRed">的大小</span>相乘，所以公式中的\(F\cos\theta\)是切向力，元功<img src="review/kineticEnergy_deri.svg" class="m14a1">积分为总功<img src="review/kineticEnergy_int.svg" class="m20a1"><br>
+			
+			元功<img src="review/kineticEnergy_deri.svg" class="m14a1">，公式中的\(F\cos\theta\)是切向力，因为<a>点乘</a>的几何意义就是一个矢量的大小与另一个矢量<span class="fontRed">的投影的大小</span>相乘，运动的方向就是切向，力投影到切向．<br>
+			总功<img src="review/kineticEnergy_int.svg" class="m20a1"><br>
+			对于质点系，一切内力和外力都会改变系统的总动能：<img src="review/kinetcEnergy_sys.svg" class="m21a1"><br>
 			<span class="bold">保守力做功</span><br>
-			万有引力做功<img src="review/gravitationEnergy.svg">、重力做功<img src="review/gravityEnergy.svg">、弹力做功<img src="review/elasticEnergy.svg">，由此归纳出保守力做功<img src="review/potentialEnergy.svg">，在一维度
-			<span class="bold">机械能守恒</span><br>
-			<span class="bold">功能原理</span><br>
+			万有引力做功<img src="review/gravitationEnergy.svg" class="m16a1">、重力做功<img src="review/gravityEnergy.svg" class="m5a1">、弹力做功<img src="review/elasticEnergy.svg" class="m13a1">，由此归纳出保守力做功<img src="review/potentialEnergy.svg" class="m5a1">，在<span class="fontRed">一维</span>的情况下，还得到<img src="review/potential1D.svg" class="m14a1"><br>
+			<span class="bold">功能原理</span>内非保守力做功改变机械能<br>
+			<span class="bold">机械能守恒</span>内保守力做功改变势能<br>
 			<span class="bold">能量守恒</span>．
 		</p>
 	</div></div>
