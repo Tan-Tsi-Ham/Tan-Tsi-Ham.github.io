@@ -6,28 +6,25 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><!--设置中文-->
 	<title>TSIEX SIKAI: Physics</title>
 	<meta charset="utf-8">
-	<!-- <meta name="viewport" content="width=device-width,initial-scale=1.0"> -->
+	<meta name="viewport" content="width=device-width,initial-scale=1">
 
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 	<link rel="stylesheet" type="text/css" href="../styles.css">
+	<link rel="stylesheet" type="text/css" href="../formula.css">
 
 </head>
 
 <body>
 	<div class="header"><!--头部-->
-		<span class="font50"><a class="fontBlack" href="../Tsiex-Sikai.html">TSIEX SIKAI: Physics</a></span>
-		<!-- <p>人人都平等地享有认识世界的权利，因而诞生了这个网站。</p> -->
-		<p>目前主要参考我的教材《物理学》（ISBN 978-7-04-053823-6）进行编写。</p>
-		<p>内容比较多，按住左下角CTRL键不放，然后按F键可以打开搜索框快速查询。</p>
-		<!-- <p>目录参考<a href="https://www.phy.sdu.edu.cn/__local/3/E8/20/091E0452B7B8F62D3BBF83EEE93_D96B8090_858F2.pdf?e=.pdf">《理工科类大学物理课程教学基本要求》</a>编写。</p> -->
+		<div class="w90p center">
+			<span class="title"><a class="fontBlack" href="../Tsiex-Sikai.html">TSIEX SIKAI: Physics</a></span>
+			<p>目前主要参考我的教材《物理学》（ISBN 978-7-04-053823-6）进行编写。</p>
+			<p>内容比较多，按住左下角CTRL键不放，然后按F键可以打开搜索框快速查询。</p>
+		</div>
 		<nav class="tabl"><div class="row backAqua">
 			<div class="navi"><a href="../talk.html">页面介绍</a></div>
-			<!-- <div class="navi"><a href="formula.html">知识地图</a></div>
-			<div class="navi backViolet"><a href="calculus.html">理论目录</a></div>
-			<div class="navi"><a href="practice.html">习题集合</a></div>
-			<div class="navi"><a href="resource.html">参考资料</a></div> -->
 			<div class="navi backViolet"><a href="physics.html">知识大纲</a></div>
 			<div class="navi"><a href="theory.html">理论推导</a></div>
 			<div class="navi"><a href="practice.html">习题集合</a></div>
@@ -37,7 +34,7 @@
 	</div>
 <!-------------------------------------------------------------->
 
-<div class="contents h2p3"><!-- 有了h2p3，再也不用每个公式都调整了 -->
+<div class="frame">
 
 <div class="part">〇、数学基础</div>
 <div class="tabl">
@@ -49,20 +46,20 @@
 	<div class="row"><div class="sect">正交分解</div><div class="subsect">
 		<p>
 			矢量可以分解成几个相互垂直的方向的分量来分析．
-			<!-- <img src="" alt="orthogonalDecomposition"> -->
+			<!-- <span class="formula"><img src="" alt="orthogonalDecomposition"> -->
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">矢量的大小：模</div><div class="subsect">
 		<p>
 			有向线段的长度，本质上是对初末位置使用<a>两点间距离公式</a>
-			<!-- <img src="" alt="vectorLength"><img src="" alt="vectorMagnitude"> -->
+			<!-- <span class="formula"><img src="" alt="vectorLength"><span class="formula"><img src="" alt="vectorMagnitude"> -->
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">矢量的方向：方向余弦</div><div class="subsect">
 		<p>
-			<!-- <img src="" alt="vectorAngles"><img src="" alt="directionCosines"><br> -->
+			<!-- <span class="formula"><img src="" alt="vectorAngles"><span class="formula"><img src="" alt="directionCosines"><br> -->
 			特别的，在二维空间中还可以用正切来表示方向
-			<!-- <img src="" alt="directionTangent"> -->
+			<!-- <span class="formula"><img src="" alt="directionTangent"> -->
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">坐标系</div><div class="subsect">
@@ -106,13 +103,14 @@
 	</div></div>
 	<div class="row"><div class="sect">量纲</div><div class="subsect">
 		<p>
-			量纲用来表示导出量与基本量之间的函数关系，任意一个导出量的量纲为<img src="review/dimension.svg" alt="dimension">．七个底数是基本量的量纲，分别为长度、质量、时间、电流、温度、物质的量、发光强度．<br>
+			量纲用来表示导出量与基本量之间的函数关系，任意一个导出量的量纲为<span class="formula"><img src="review/dimension.svg"></span>．七个底数是基本量的量纲，分别为长度、质量、时间、电流、温度、物质的量、发光强度．<br>
 			弧度和球面度没有量纲，或者说量纲为1．
 		</p>
 	</div></div>
 </div>
 
 <div class="part">二、力学</div>
+<p>不知道为什么，力学这一章的格式有点问题。我翻看对照了整个晚上，明明代码都一样，不知道为什么渲染效果不一样。重新写的话会累死，以后慢慢改吧。大家凑合着看或者切换成电脑视角，电脑视角反而很正常。</p>
 <div class="tabl">
 	<div class="row"><div class="sect">运动描述具有相对性</div><div class="subsect">
 		<p>
@@ -131,25 +129,25 @@
 	<div class="row"><div class="sect">位置矢量/位矢</div><div class="subsect">
 		<p>
 			表示相对位置，起始于参考系，终止于研究对象．<br>
-			<span class="bold">质点的运动方程</span><img src="review/motionEquation.svg" alt="motion equation" class="m6a1">本质上是<a>参数方程</a>，消去参数\(t\)后可得到<span class="bold">质点的轨迹方程</span>．<br>
+			<span class="bold">质点的运动方程</span><span class="formula"><img src="review/motionEquation.svg"></span>本质上是<a>参数方程</a>，消去参数\(t\)后可得到<span class="bold">质点的轨迹方程</span>．<br>
 			在<a>解析几何</a>中可以用方程来表示图形．
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">位移矢量/位移</div><div class="subsect">
 		<p>
-			表示位置变化<img src="review/displacement.svg" alt="displacement">．
+			表示位置变化<span class="formula"><img src="review/displacement.svg"></span>．
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">路程</div><div class="subsect">
 		<p>
-			运动轨迹的长度．一般情况下与位移的大小不相等，只有单向直线运动中，或极短时间内才相等<img src="review/relationshipBetweenDsAndDr.svg" alt="relationship between derivative path and derivative displacement" class="m5a1"><br>
-			<span class="fontRed">【注意】</span>区分<img src="review/distingush.svg" alt="distinguish" class="m5a1">，等号右边表示的是位移大小的增量。
+			运动轨迹的长度．一般情况下与位移的大小不相等，只有单向直线运动中，或极短时间内才相等<span class="formula"><img src="review/relationshipBetweenDsAndDr.svg"></span><br>
+			<span class="fontRed">【注意】</span>区分<span class="formula"><img src="review/distingush.svg"></span>，等号右边表示的是位移大小的增量。
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">速度</div><div class="subsect">
 		<p>
-			平均速度<img src="review/velocity_average.svg" alt="average velocity" class="m15a1">，
-			瞬时速度<img src="review/velocity_instance.svg" alt="instance velocity" class="m15a1"><br>
+			平均速度<span class="formula"><img src="review/velocity_average.svg"></span>，
+			瞬时速度<span class="formula"><img src="review/velocity_instance.svg"></span><br>
 			速度的方向<span class="fontRed">永远</span>指向运动轨迹的切线方向
 		</p>
 	</div></div>
@@ -165,7 +163,7 @@
 	</div></div>
 	<div class="row"><div class="sect">加速度</div><div class="subsect">
 		<p>
-			平均加速度<img src="review/acceleration_average.svg" class="m15a1">，瞬时加速度<img src="review/acceleration_instance.svg" class="m15a1">
+			平均加速度<span class="formula"><img src="review/acceleration_average.svg"></span>，瞬时加速度<span class="formula"><img src="review/acceleration_instance.svg"></span>
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">角坐标/角位置</div><div class="subsect">
@@ -175,24 +173,19 @@
 	</div></div>
 	<div class="row"><div class="sect">角速度</div><div class="subsect">
 		<p>
-			表面上看起来不像矢量<img src="review/angularVelocity_scaler.svg" class="m14a1">，但仍可以人为规定方向，使之变成矢量<img src="review/angularVelocity_vector.svg" class="m14a1">．方向根据<a>右手螺旋定则</a>判断，四指指向旋转方向，大拇指为物理量的方向
+			表面上看起来不像矢量<span class="formula"><img src="review/angularVelocity_scaler.svg"></span>，但仍可以人为规定方向，使之变成矢量<span class="formula"><img src="review/angularVelocity_vector.svg"></span>．方向根据<a>右手螺旋定则</a>判断，四指指向旋转方向，大拇指为物理量的方向
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">角加速度</div><div class="subsect">
 		<p>
-			<img src="review/angularAcceleration_scaler.svg" class="m14a1">，矢量形式<img src="review/angularAcceleration_vector.svg" class="m14a1">，角加速度的方向与角速度的增量<span class="fontRed">的方向</span>相同，无法直观判断，需要计算．
+			<span class="formula"><img src="review/angularAcceleration_scaler.svg"></span>，矢量形式<span class="formula"><img src="review/angularAcceleration_vector.svg"></span>，角加速度的方向与角速度的增量<span class="fontRed">的方向</span>相同，无法直观判断，需要计算．
 		</p>
 	</div></div>
-	<!-- <div class="row"><div class="sect">线速度</div><div class="subsect">
-		<p>
-			．
-		</p>
-	</div></div> -->
 	<div class="row"><div class="sect">圆周运动中各物理量的关系</div><div class="subsect">
 		<p>
-			弧长<img src="review/archLength.svg">，关于时间求导得到<img src="review/curve_velocity.svg">和<img src="review/curve_acceleration.svg"><br>
-			切向加速度<img src="review/tangentAcceleration.svg" class="m14a1">，
-			法向加速度<img src="review/normalAcceleration.svg">．
+			弧长<span class="formula"><img src="review/archLength.svg"></span>，关于时间求导得到<span class="formula"><img src="review/curve_velocity.svg"></span>和<span class="formula"><img src="review/curve_acceleration.svg"></span><br>
+			切向加速度<span class="formula"><img src="review/tangentAcceleration.svg"></span>，
+			法向加速度<span class="formula"><img src="review/normalAcceleration.svg"></span>．
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">几类特殊的运动（二级结论）</div><div class="subsect">
@@ -211,30 +204,30 @@
 			<span class="bold">牛顿第一定律：惯性定律</span><br>
 			物体不受力时，运动状态（<a>速度</a>）不变<br>
 			<span class="bold">牛顿第二定律</span><br>
-			<img src="review/Newton's2ndLaw.svg" class="m14a1">，这也是如今力的定义<br>
+			<span class="formula"><img src="review/Newton's2ndLaw.svg"></span>，这也是如今力的定义<br>
 			<span class="bold">牛顿第三定律</span><br>
-			<img src="review/Newton's3rdLaw.svg">
+			<span class="formula"><img src="review/Newton's3rdLaw.svg"></span>
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">力</div><div class="subsect">
 		<p>
 			<span class="bold">万有引力定律</span><br>
-			<img src="review/gravitation.svg" class="m12a1">其实从严格来讲万有引力不是力，是空间的扭曲<br>
+			<span class="formula"><img src="review/gravitation.svg"></span>其实从严格来讲万有引力不是力，是空间的扭曲<br>
 			<span class="bold">重力</span><br>
-			重力<img src="review/gravity.svg" class="m5a1">是万有引力的分力，另一个分力是向心力<br>
+			重力<span class="formula"><img src="review/gravity.svg"></span>是万有引力的分力，另一个分力是向心力<br>
 			<span class="bold">（弹簧）弹力</span><br>
-			<img src="review/hook'sLaw.svg" class="m1a1">其中\(k\)是劲度系数，更普适的情况应该用<a>杨氏模量</a><br>
+			<span class="formula"><img src="review/hook'sLaw.svg"></span>其中\(k\)是劲度系数，更普适的情况应该用<a>杨氏模量</a><br>
 			<span class="bold">摩擦力</span><br>
 			静摩擦力往往使物体维持静止状态，通过受力平衡来分析．<br>
-			最大静摩擦力为<img src="review/maxStaticFriction.svg" class="m6a1">，通常比滑动摩擦力<img src="review/slidingFriction.svg" class="m6a1">大一点，即\(\mu_0>\mu\)，但一般忽略不计，即\(\mu_0\approx\mu\)
+			最大静摩擦力为<span class="formula"><img src="review/maxStaticFriction.svg"></span>，通常比滑动摩擦力<span class="formula"><img src="review/slidingFriction.svg"></span>大一点，即\(\mu_0>\mu\)，但一般忽略不计，即\(\mu_0\approx\mu\)
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">动量</div><div class="subsect">
 		<p>
-			<img src="review/momentum.svg"><br>
+			<span class="formula"><img src="review/momentum.svg"></span><br>
 			<span class="bold">动量定理</span><br>
-			导数形式：<img src="review/momentumDerivitive.svg">、微分形式：<img src="review/momentumDifferential.svg" class="m14a1">、积分形式：<img src="review/momentumIntergal.svg" class="m20a1">，其中冲量<img src="review/impulse.svg"><br>
-			对于质点系，由于相互作用力大小相等方向相反，所以内力合动量为零<img src="review/innerMomentumSum.svg" class="m24a1">．合动量为<span class="fontRed">外力的</span>合动量<br>
+			导数形式：<span class="formula"><img src="review/momentumDerivitive.svg"></span>、微分形式：<span class="formula"><img src="review/momentumDifferential.svg"></span>、积分形式：<span class="formula"><img src="review/momentumIntergal.svg"></span>，其中冲量<span class="formula"><img src="review/impulse.svg"></span><br>
+			对于质点系，由于相互作用力大小相等方向相反，所以内力合动量为零<span class="formula"><img src="review/innerMomentumSum.svg"></span>．合动量为<span class="fontRed">外力的</span>合动量<br>
 			<span class="bold">动量守恒定律</span><br>
 			当物体不受外力时，动量守恒。当内力远大于外力时，可近似看成守恒。常常是碰撞的时候。<br>
 			<span class="fontRed">【注意】</span>仅冲量为零，只说明某一刻动量没有改变，无法说明一段时间内动量都没有变，即无法说明动量守恒。<br>
@@ -243,14 +236,14 @@
 	</div></div>
 	<div class="row"><div class="sect">功</div><div class="subsect">
 		<p>
-			元功<img src="review/derivativeWork.svg" class="m2a1">积分成功<br>
-			功关于时间求导得到功率，对标量求导<img src="review/power1.svg" class="m14a1">与对矢量求导<img src="review/power2.svg" class="m14a1">结果一样
+			元功<span class="formula"><img src="review/derivativeWork.svg"></span>积分成功<br>
+			功关于时间求导得到功率，对标量求导<span class="formula"><img src="review/power1.svg"></span>与对矢量求导<span class="formula"><img src="review/power2.svg"></span>结果一样
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">能量</div><div class="subsect">
 		<p>
 			<span class="bold">势能</span><br>
-			内力中<span class="bold">保守力</span>（万有引力、重力、弹性力）做功会改变系统的势能<img src="review/potentialEnergy.svg" class="m6a1">，同时也会改变动能<img src="review/kineticEnergy_short.svg" class="m4a1">（动能定理）．其实就是动能与势能间相互转化（机械能守恒）<br>
+			内力中<span class="bold">保守力</span>（万有引力、重力、弹性力）做功会改变系统的势能<span class="formula"><img src="review/potentialEnergy.svg"></span>，同时也会改变动能<span class="formula"><img src="review/kineticEnergy_short.svg"></span>（动能定理）．其实就是动能与势能间相互转化（机械能守恒）<br>
 			<span class="fontRed">【注意】</span>势能是<span class="fontRed">系统的</span>能量，讨论单个质点的势能没有意义，<span class="fontRed">外力也不区分保守力与非保守力</span><br>
 			<span class="bold">动能</span><br>
 			其他力（外力和<span class="fontRed">内非</span>保守力）做功会<span class="fontRed">额外</span>改变系统的动能，正功则动能增加、负功则动能减少<br>
@@ -260,17 +253,17 @@
 		<p>
 			<span class="bold">动能定理</span> 合力做功改变动能<br>
 			
-			元功<img src="review/kineticEnergy_deri.svg" class="m14a1">，公式中的\(F\cos\theta\)是切向力，因为<a>点乘</a>的几何意义就是一个矢量的大小与另一个矢量<span class="fontRed">的投影的大小</span>相乘，运动的方向就是切向，力投影到切向．<br>
-			总功<img src="review/kineticEnergy_int.svg" class="m20a1"><br>
-			对于质点系，一切内力和外力都会改变系统的总动能：<img src="review/kinetcEnergy_sys.svg" class="m21a1"><br>
+			元功<span class="formula"><img src="review/kineticEnergy_deri.svg"></span>，公式中的\(F\cos\theta\)是切向力，因为<a>点乘</a>的几何意义就是一个矢量的大小与另一个矢量<span class="fontRed">的投影的大小</span>相乘，运动的方向就是切向，力投影到切向．<br>
+			总功<span class="formula"><img src="review/kineticEnergy_int.svg"></span><br>
+			对于质点系，一切内力和外力都会改变系统的总动能：<span class="formula"><img src="review/kinetcEnergy_sys.svg"></span><br>
 			<span class="bold">保守力做功</span> 内保守力做功，动能势能相互转换<br>
-			保守力做功只与做功的初末位置有关，与做功的路径无关．当路径为一个闭环时，即始末位置重合时，功为零<img src="review/conservativeForce'sWork.svg" class="m18a1"><br>
-			万有引力做功<img src="review/gravitationEnergy.svg" class="m17a1"><br>
-			重力做功<img src="review/gravityEnergy.svg" class="m5a1">．<span class="fontRed">【注意】</span>质点系的重力势能看<a>质心</a>位置而不是最低点<br>
-			弹力做功<img src="review/elasticEnergy.svg" class="m13a1"><br>由此归纳出保守力做功<img src="review/potentialEnergy.svg" class="m5a1">，在<span class="fontRed">一维</span>的情况下，还得到<img src="review/potential1D.svg" class="m14a1"><br>
+			保守力做功只与做功的初末位置有关，与做功的路径无关．当路径为一个闭环时，即始末位置重合时，功为零<span class="formula"><img src="review/conservativeForce'sWork.svg"></span><br>
+			万有引力做功<span class="formula"><img src="review/gravitationEnergy.svg"></span><br>
+			重力做功<span class="formula"><img src="review/gravityEnergy.svg"></span>．<span class="fontRed">【注意】</span>质点系的重力势能看<a>质心</a>位置而不是最低点<br>
+			弹力做功<span class="formula"><img src="review/elasticEnergy.svg"></span><br>由此归纳出保守力做功<span class="formula"><img src="review/potentialEnergy.svg"></span>，在<span class="fontRed">一维</span>的情况下，还得到<span class="formula"><img src="review/potential1D.svg"></span><br>
 			<span class="bold">功能原理</span> 外力和内非保守力做功改变动能进而改变机械能<br>
 			内力分为保守力和非保守力，因为保守力影响的势能是属于系统的，所以外力没有讨论的意义<br>
-			由动能定理可知<img src="review/kineticEnergy_long.svg" class="m5a1">，内保守力改变势能<img src="review/kinetic_potential.svg" class="m4a1">，移项之后得到功能原理<img src="review/work_energy_final.svg" class="m6a1"><br>
+			由动能定理可知<span class="formula"><img src="review/kineticEnergy_long.svg"></span>，内保守力改变势能<span class="formula"><img src="review/kinetic_potential.svg"></span>，移项之后得到功能原理<span class="formula"><img src="review/work_energy_final.svg"></span><br>
 			<span class="bold">机械能守恒</span> 内保守力做功，动能势能相互转换，机械能总量不变<br>
 			由功能关系可知，当<span class="fontRed">只有内保守力做功</span>，即外力和内非保守力都不做功，那机械能够的增量为0，即机械能不发生变化，<span class="fontRed">机械能守恒</span><br>
 			<span class="bold">能量守恒</span><br>
@@ -284,10 +277,10 @@
 	</div></div>
 	<div class="row"><div class="sect">质心</div><div class="subsect">
 		<p class="h4">
-			质心位置<img src="review/centroid.svg" class="m45a1">，对于密度均匀、形状对称分布的物体，其质心在几何中心．<br>
+			质心位置<span class="formula"><img src="review/centroid.svg"></span>，对于密度均匀、形状对称分布的物体，其质心在几何中心．<br>
 			<span class="bold">质心运动定理</span><br>
 			为了书写方便，记总质量\(m'=\sum\limits_{i=1}^{n}m_i\)，则
-			<img src="review/centroid_sumMass.svg" class="m24a1">，关于时间求导得到动量<img src="review/centroid_momentum.svg" class="m24a1">，再关于时间求导得到力<img src="review/centroid_force.svg" class="m12a1">．
+			<span class="formula"><img src="review/centroid_sumMass.svg"></span>，关于时间求导得到动量<span class="formula"><img src="review/centroid_momentum.svg"></span>，再关于时间求导得到力<span class="formula"><img src="review/centroid_force.svg"></span>．
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">刚体</div><div class="subsect">
@@ -297,43 +290,43 @@
 	</div></div>
 	<div class="row"><div class="sect">转动</div><div class="subsect">
 		<p>
-			力矩<img src="review/moment.svg">，其中<img src="review/arm.svg">是力臂<br>
+			力矩<span class="formula"><img src="review/moment.svg"></span>，其中<span class="formula"><img src="review/arm.svg"></span>是力臂<br>
 			力矩为零的三种情况：<br>
 			1.力所在的直线经过转轴时，根据公式力臂为零，所以力矩为零<br>
 			2.当转轴<span class="fontRed">固定</span>时，力与旋转面垂直时，即与转轴平行时，力矩为零<br>
 			3.系统的合内力为零（<a>牛顿第三定律</a>），所以合内力矩为零<br>
 			<span class="bold">转动惯量</span><br>
-			如果质点系中的质点离散分布，转动惯量为<img src="review/inertia.svg" class="m24a1">；如果是刚体这种质量连续分布的，采用积分计算<img src="review/inertia_int.svg" class="m16a1"><br>
+			如果质点系中的质点离散分布，转动惯量为<span class="formula"><img src="review/inertia.svg"></span>；如果是刚体这种质量连续分布的，采用积分计算<span class="formula"><img src="review/inertia_int.svg"></span><br>
 			<span class="fontRed">【注意】</span>只有几何形状简单、质量连续且均匀分布的刚体，才能用积分的方法计算；对于任意刚体的转动惯量，通常是用实验的方法测定出来的<br>
 			刚体的转动惯量与三个因素有关：<br>
 			1.与刚体的密度有关<br>
 			2.与刚体的几何形状（即密度分布）有关<br>
-			3.与转轴的位置有关（平行轴定理<img src="review/para.svg">，\(d\)为平行轴之间的距离，\(J_\mathrm{c}\)是物体<span class="fontRed">的转轴经过质心时的</span>转动惯量）<br>
+			3.与转轴的位置有关（平行轴定理<span class="formula"><img src="review/para.svg"></span>，\(d\)为平行轴之间的距离，\(J_\mathrm{c}\)是物体<span class="fontRed">的转轴经过质心时的</span>转动惯量）<br>
 			几种刚体的转动惯量<br>
-			细棒（转轴通过中心与轴垂直）:<img src="review/inertia_banq_center.svg" class="m14a1"><br>
-			细棒（转轴通过棒的一端与棒垂直）：<img src="review/inertia_banq_duan.svg" class="m14a1"><br>
-			圆环：<img src="review/inertia_ring.svg"><br>
-			圆柱：<img src="review/inertia_circle.svg" class="m12a1"><br>
-			圆筒：<img src="review/inertia_yuanToong.svg" class="m14a1"><br>
-			球：<img src="review/inertia_sphere.svg" class="m14a1"><br>
+			细棒（转轴通过中心与轴垂直）:<span class="formula"><img src="review/inertia_banq_center.svg"></span><br>
+			细棒（转轴通过棒的一端与棒垂直）：<span class="formula"><img src="review/inertia_banq_duan.svg"></span><br>
+			圆环：<span class="formula"><img src="review/inertia_ring.svg"></span><br>
+			圆柱：<span class="formula"><img src="review/inertia_circle.svg"></span><br>
+			圆筒：<span class="formula"><img src="review/inertia_yuanToong.svg"></span><br>
+			球：<span class="formula"><img src="review/inertia_sphere.svg"></span><br>
 			<span class="bold">转动定律</span><br>
-			<img src="review/rotationLaw.svg" class="m21a1">，合内力为零（<a>牛顿第三定律</a>），所以合内力矩为零，所以合力只考虑外力<br>
+			<span class="formula"><img src="review/rotationLaw.svg"></span>，合内力为零（<a>牛顿第三定律</a>），所以合内力矩为零，所以合力只考虑外力<br>
 			<span class="bold">角动量</span><br>
-			定义式<img src="review/angularMomentum1.svg">，与旋转的关系<img src="review/angularMomentum2.svg"><br>
+			定义式<span class="formula"><img src="review/angularMomentum1.svg"></span>，与旋转的关系<span class="formula"><img src="review/angularMomentum2.svg"></span><br>
 			角动量定理<br>
-			<img src="review/angularMoment_theorm.svg"><br>
+			<span class="formula"><img src="review/angularMoment_theorm.svg"></span><br>
 			角动量守恒<br>
 			合外力矩为零时，角动量守恒<br>
 			<span class="bold">力矩做功</span><br>
-			元功<img src="review/dWork_angularMoment.svg">，功率<img src="review/power_angularMoment.svg" class="m14a1"><br>
+			元功<span class="formula"><img src="review/dWork_angularMoment.svg"></span>，功率<span class="formula"><img src="review/power_angularMoment.svg"></span><br>
 			<span class="bold">转动动能</span><br>
-			<img src="review/rotation_kineticEnergy.svg"><br>
-			动能定理<img src="review/rotation_kineticEnergy_work.svg" class="m16a1">
+			<span class="formula"><img src="review/rotation_kineticEnergy.svg"></span><br>
+			动能定理<span class="formula"><img src="review/rotation_kineticEnergy_work.svg"></span>
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">刚体的平面平行运动</div><div class="subsect">
 		<p>
-			纯滚动的条件是<img src="review/rotation_velocity.svg">或<img src="review/rotation_acceleration.svg">．<br>
+			纯滚动的条件是<span class="formula"><img src="review/rotation_velocity.svg"></span>或<span class="formula"><img src="review/rotation_acceleration.svg"></span>．<br>
 			刚体运动=质心平动+转动<br>
 			系统的能量=平动的能量+转动的能量
 		</p>
@@ -352,7 +345,9 @@
 			<span class="bold">库仑定律</span><br>
 			在<span class="fontRed">真空</span>中，两个<span class="fontRed">静止</span>的<span class="fontRed">点电荷</span>之间的相互作用力，其大小与它们所带电量的乘积成正比，与它们之间距离的平方成反比<br>
 			作用力的方向沿着两点电荷的连线，同号电荷相斥，异号电荷相吸引<br>
-			<div class="textcenter"><img src="review/column'sLaw.svg" class="formula"></div><br>
+			
+			<span class="formula"><img src="review/column'sLaw.svg"></span>
+			
 			\(\vec{e}_r\)由施力物体指向受力物体，方便电荷值直接代入正负数<br>
 			\(\varepsilon_0\)是真空电容率/介电常数
 		</p>
@@ -364,12 +359,12 @@
 			<span class="bold">电场线</span><br>
 			<span class="bold">电场强度</span><br>
 			电场中某点处的电场强度等于位于该点处的单位试验电荷所受的力，<span class="fontRed">其方向为正电荷受力方向</span><br>
-			<div class="textcenter">定义式<img src="review/electricFieldMagnitude_definition.svg" class="m23a1 formula">、决定式<img src="review/electricFieldMagnitude_decision.svg" class="m23a1 formula"></div><br>
+			<div class="textcenter">定义式<span class="formula"><img src="review/electricFieldMagnitude_definition.svg"></span>、决定式<span class="formula"><img src="review/electricFieldMagnitude_decision.svg"></span></div><br>
 			试验电荷为点电荷且足够小，故对原电场几乎无影响<br>
 			<span class="bold">电场强度叠加原理</span><br>
 			点电荷系的电场中某点的电场强度为各点电荷单独在该点的电场强度的矢量和<br>
-			<span class="bold">电通量</span><img src="review/diannTongLianq.svg">面积矢量的方向不重要，取个好算的<br>
-			<span class="bold">高斯定理</span><img src="review/Gauss'Theorm.svg" class="m19a1">
+			<span class="bold">电通量</span><span class="formula"><img src="review/diannTongLianq.svg"></span>面积矢量的方向不重要，取个好算的<br>
+			<span class="bold">高斯定理</span><span class="formula"><img src="review/Gauss'Theorm.svg"></span>
 		</p>
 	</div></div>
 	<div class="row"><div class="sect">电偶极子</div><div class="subsect">
@@ -427,6 +422,8 @@
 			．
 		</p>
 	</div></div>
+</div>
+
 </div>
 
 <!-------------------------------------------------------------->
