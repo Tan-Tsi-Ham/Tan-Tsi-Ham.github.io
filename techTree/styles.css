@@ -31,18 +31,18 @@ img{margin:-3px 1px;max-height:100%;width:auto;}/* 这个不知道有什么用�
 .m27a1{margin: -27px 1px;}
 .m28a1{margin: -28px 1px;}
 .m29a1{margin: -29px 1px;}
-.m30a1{margin: -30px 1px;}
+.m45a1{margin: -45px 1px;}/* 求和比求和 */
 
 /* 公式微调行高 */
-.h1p5{line-height: 1.5;}
-.h2{line-height: 2;}.h2p1{line-height:2.1;}.h2p2{line-height:2.2;}
-    .h2p3 p{line-height:2.7;}
-.h2p4{line-height:2.4;}.h2p5{line-height: 2.5;}
-.h3{line-height: 3;}.h3p5{line-height: 3.5;}
-.h4{line-height: 4;}.h4p5{line-height: 4.5;}
-.h5{line-height: 5;}.h5p5{line-height: 5.5;}
-.h6{line-height: 6;}.h6p5{line-height: 6.5;}
-
+.h1p5{line-height: 1.5!important;}
+.h2{line-height: 2!important;}.h2p1{line-height:2.1;}.h2p2{line-height:2.2;}
+    .h2p3 p{line-height:2.7;}/* 伴随着contents出现，总框全局 */
+.h2p4{line-height:2.4!important;}.h2p5{line-height: 2.5!important;}
+.h3{line-height: 3!important;}.h3p5{line-height: 3.5!important;}
+.h4{line-height: 4!important;}.h4p5{line-height: 4.5!important;}
+.h5{line-height: 5!important;}.h5p5{line-height: 5.5!important;}
+.h6{line-height: 6!important;}.h6p5{line-height: 6.5!important;}
+.h7{line-height:7!important;}
 
 .header{background-color:white;width:100%;margin:0 auto;text-align:center;}/*原本有position:relative;仍占據空間但可微調，對我目前沒有用*/
 .tree{background-color:white;text-align:center;position:relative;width:90%;margin:0 auto;padding:20px 0;}
@@ -133,6 +133,7 @@ hr{width:95%;margin:0 auto;height:5px;border-width:4px 0 0 0;border-style:solid;
 /* 索引的空格在上面“留白”里找.marr10 */
 
 .contents2{width:30%;margin:15px auto;border:3px dashed black;padding:10px;}
-
+/* 这是旧版本的标题框 */
 .subtitle{width:50%;background-color: lightblue;border-left:5px solid indigo;border-bottom: 1px solid indigo;}
-
+/* 公式居中框 */
+.formula{padding:4px;border:2px solid black;}
