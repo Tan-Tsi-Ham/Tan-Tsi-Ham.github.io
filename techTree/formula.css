@@ -1,9 +1,9 @@
 /* span */
 .formula {
     display: block;
-    margin: 20px auto;
+    margin: 5px auto;
     text-align : center;
-    width: 90%;
+    width: 85%;
     padding: 15px;
     /* font-size: 0px; */
     overflow-x: auto;
@@ -18,5 +18,17 @@
 
 
 @media screen and (max-width:480px) {
-    .formula{width:85%;}
+    .formula{width:85%;margin:0 auto;}
+    /* .formula img{} */
+
+    /* img */
+/* img{max-width:100%;} */
+
+
+
+
+
+
+
+    
 }

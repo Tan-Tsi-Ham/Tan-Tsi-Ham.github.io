@@ -6,10 +6,10 @@ body{
 }
 
 /* 1header */
-.header{background-color:white;width:100%;margin:0 auto;text-align:center;color:black;}
+.header{background-color:white;margin:0 auto;text-align:center;color:black;}
     .title{font-size: 50px;font-weight: bold;}/* a隐藏超链接至树fontBlack *//* p普通说明 */
     /* nav导航栏 */
-    .tabl {display: table;width: 95%;margin:0 auto;}
+    .tabl {display: table;width: 95%;margin:0 auto;}/* tabl不仅是导航栏还是主要内容，目前是最优解，千万不要改 */
         .row {display: table-row;}/*表格一行，有多列*/
             .cell{display: table-cell;}
             .navi {display: table-cell;width: 20%;text-align: center;padding: 3px;}
@@ -17,18 +17,21 @@ body{
             .navi:hover{background-color: #ccc;}
     hr{width:100%;margin:0 auto;height:5px;border-width:4px 0 0 0;border-style:solid;border-color:silver;margin-top:5px;}
 /* 2content */
-.frame{/* 树内专用 */background-color: aquamarine;width:95%;margin: 2px auto;text-align: left;padding-top: 10px;padding-bottom: 50px;/* 字体颜色color放次级，因为二者不一样 */}
-    /* 小标题 */.part{font-weight:bold;margin:1.2rem;font-size: 1.5rem;}
+.frame{/* 树内专用 */background-color: aquamarine;width:100%;margin: 0 auto;text-align: left;padding-top: 10px;padding-bottom: 50px;text-align: left;/* 字体颜色color放次级，因为二者不一样 */}
+    /* 小标题 */
+    .part{font-weight:bold;margin:1.2rem;font-size: 1.5rem;}
     /* tabl row */
         .sect{display:table-cell;background-color:rgb(0, 115, 255);color:white;padding:5px;border:1px solid white;font-size: 1.2rem;}
         .sect a{text-decoration: none;color: white;}
         .sect a:hover{color:red;}
-        .subsect {display: table-cell;width: 75%;padding: 2px 1px 2px 8px;border:1px solid white;}
+        .subsect {display: table-cell;width: 75%;padding:8px;border:1px solid white;}
         .subsect a{color:blue;}
         .subsect a:hover{color:red;}
 /* 3footer */
 .footer{
-    background-color:gray;width:100%;margin:0 auto;text-align:center;color:white;}
+    background-color:gray;width:100%;margin:0 auto;text-align:center;color:white;
+    padding-top: 50px;padding-bottom: 50px;
+}
 
 /* 4button */
 #myBtn{
@@ -59,7 +62,7 @@ body{
     /* nav导航栏 */
     .navi {font-size: 1.2rem;padding: 10px;}
 /* 2content */
-
+    .subsect{max-width:300px;min-width:300px;}
 /* 3footer */
 
 /* 4button */
