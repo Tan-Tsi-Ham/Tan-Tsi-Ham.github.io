@@ -5,6 +5,16 @@ body{
     margin:0;/* 初始状态有空隙，外距0使铺满屏幕 */
 }
 
+/* 振假名、拼音 */
+.ruby{position:relative;}
+.ruby:before{
+    content:attr(data-ruby);
+    position:absolute;
+    top:-1em;
+    left:0;
+    font-size:0.8em;
+}/* 其实也可以用<rubt>下<rt>上</rt></ruby>来标注，但我不想标注的内容被复制，所以选择用css */
+
 /* 1header */
 .header{background-color:white;margin:0 auto;text-align:center;color:black;}
     .title{font-size: 50px;font-weight: bold;}/* a隐藏超链接至树fontBlack *//* p普通说明 */
@@ -17,11 +27,13 @@ body{
             .navi:hover{background-color: #ccc;}
     hr{width:100%;margin:0 auto;height:5px;border-width:4px 0 0 0;border-style:solid;border-color:silver;margin-top:5px;}
 /* 2content */
-.frame{/* 树内专用 */background-color: aquamarine;width:100%;margin: 0 auto;text-align: left;padding-top: 10px;padding-bottom: 50px;text-align: left;/* 字体颜色color放次级，因为二者不一样 */}
+.frame{/* 树内专用 */background-color: aquamarine;width:100%;margin: 0 auto;text-align: left;padding-top: 10px;padding-bottom: 50px;
+    /* frame之前有个text-align:left;本意是让文字局左，但好像让子元素局左了，我就删了，不知道有没有什么影响 */
+    /* 字体颜色color放次级，因为二者不一样 */}
     /* 小标题 */
     .part{font-weight:bold;margin:1.2rem;font-size: 1.5rem;}
     /* tabl row */
-        .sect{display:table-cell;background-color:rgb(0, 115, 255);color:white;padding:5px;border:1px solid white;font-size: 1.2rem;}
+        .sect{display:table-cell;background-color:rgb(0, 115, 255);color:white;padding:5px;border:1px solid white;font-size: 1.2rem; vertical-align: middle;}
         .sect a{text-decoration: none;color: white;}
         .sect a:hover{color:red;}
         .subsect {display: table-cell;width: 75%;padding:8px;border:1px solid white;}
@@ -70,10 +82,22 @@ body{
 }
 
 /* 5modifiction */
+/* 元素尺寸，包括图片 */
+.w100p{width:100%;}
 .w90p{width:90%;}
+.w80p{width:80%;}
+.w70p{width:70%;}
+.w60p{width:60%;}
+.w50p{width:50%;}
+.w40p{width:40%;}
+.w30p{width:30%;}
+.w20p{width:20%;}
+.w10p{width:10%;}
+
 
 ul{list-style-type: none;}
 img{margin:-3px 1px;max-height:100%;width:auto;}/* 这个不知道有什么用，如果手机界面太糟糕，则删掉它 */
+
 /* 公式微调位置 */
 .m1a1{margin: -1px 1px;}
 .m2a1{margin: -2px 1px;}
@@ -107,9 +131,9 @@ img{margin:-3px 1px;max-height:100%;width:auto;}/* 这个不知道有什么用�
 .m45a1{margin: -45px 1px;}/* 求和比求和 */
 
 /* 公式微调行高 */
+/* 现在估计没用 */
 .h1p5{line-height: 1.5!important;}
 .h2{line-height: 2!important;}.h2p1{line-height:2.1;}.h2p2{line-height:2.2;}
-    
 .h2p4{line-height:2.4!important;}.h2p5{line-height: 2.5!important;}
 .h3{line-height: 3!important;}.h3p5{line-height: 3.5!important;}
 .h4{line-height: 4!important;}.h4p5{line-height: 4.5!important;}
@@ -129,19 +153,30 @@ a{text-decoration:none;color:blue;}
 .border{border:1px solid black;}
 /* 留白 */
 .mar0{margin:0;}.pad0{padding:0;}
+.mar1{margin:1px;}.pad1{padding:1;}
+.mar2{margin:2px;}.pad2{padding: 2px;}
+.mar3{margin:3px;}.pad3{padding: 3px;}
+.mar4{margin:4px;}.pad4{padding: 4px;}
 .mar5{margin:5px;}.pad5{padding:5px;}
     .mart5{margin-top: 5px;}
     .marb5{margin-bottom: 5px;}
+.mar6{margin:6px;}.pad6{padding:6px;}
+.mar7{margin:7px;}.pad7{padding:7px;}
+.mar8{margin:8px;}.pad8{padding:8px;}
+.mar9{margin:9px;}.pad9{padding:9px;}
 .mar10{margin:10px;}.pad10{padding:10px;}
     .marr10{margin-right:10px;}
 .mar50{margin:50px;}.pad50{padding: 50px;}
 /* 文本位置 */
 .textleft{text-align: left;}.textcenter{text-align:center;}.textright{text-align: right;}
+/* 特殊的图片展示 */
+.textcenter img{width:80%;}
 
 .v-center{display:flex;justify-content:center;align-items:center;}/*为什么无效？？*/
 .center{margin:0 auto;}
 /* 背景色 */
 .backGray{background-color:gray;}
+.backAzure{background-color:azure;}
 .backAqua{background-color:aqua;}
 .backViolet{background-color:violet;}
 .backPink{background-color: pink;}
