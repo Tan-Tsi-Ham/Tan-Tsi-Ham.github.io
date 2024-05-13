@@ -8,6 +8,8 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 
+	<link rel="icon" type="image/svg" href="../../logo/logo.svg">
+
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
@@ -18,7 +20,7 @@
 
 <body>
     <div class="header">
-		<div class="textleft bold"><a class="fontBlack" href="../Tsiex-Sikai.html">石世界 TSIEX SIKAI</a></div>
+		<div class="textleft bold"><a class="fontBlack" href="../Tsiex-Sikai.html"><img class="logo" src="../../logo/logo.svg">石世界 TSIEX SIKAI</a></div>
         <div class="w90p center">
 			<span class="title"><a class="fontBlack" href="../Tsiex-Sikai.html">Calculus<br>微积分</a></span>
 			<!-- <p>\/信息说明</p> -->
@@ -94,18 +96,89 @@
 
 		<div class="row"><div class="sect">二阶常系数齐次线性微分方程</div>
 		<div class="subsect">
-			<p>\/内容</p>
+			<p><span class="formula"><img src="img/differentialEquation/tehJeng_chyiTsyh.svg"></span></p>
+			<p>解特征方程<span class="formula"><img src="img/differentialEquation/tehJengFangCherng.svg"></span></p>
+			<p>得到通解<span class="formula"><img src="img/differentialEquation/tehJeng_tongJiee.svg"></span></p>
 		</div></div>
 
 		<div class="row"><div class="sect">二阶常系数非齐次线性微分方程</div>
 		<div class="subsect">
-			<p>\/内容</p>
+			<p><span class="formula"><img src="img/differentialEquation/tehJeng_feiChyiTsyh.svg"></span></p>
+			<p>其解为“对应齐次方程的通解”+“非齐次方程的特解”，特解依据<span class="inline"><img src="../img.Math/f(x).svg"></span>猜形式，再采用待定系数法</p>
+			<p>
+				如果\(f(x)\)为多项式，特解设为多项式的一般形式；<br>
+				如果\(f(x)=x^ke^{\lambda x}\)，特解设为\(y_p=(Ax+B)x^ke^{\lambda x}\)；<br>
+				如果\(f(x)=\sin\omega x\)或\(f(x)=\cos\omega x\)，特解设为\((Ax+B)x^k(\sin\omega x+\cos\omega x)\)
+			</p>
 		</div></div>
 
 		</div>
 		<!--  -->
 		<div class="part">空间解析几何</div><div class="tabl">
-		<div class="row"><div class="sect">\/项目</div>
+		<div class="row"><div class="sect">向量</div>
+		<div class="subsect">
+			<p><span class="formula"><img src="img/analyticGeometry/1shianqLianq_tzuohBiau.svg"></span></p>
+			<p><span class="formula"><img src="img/analyticGeometry/2shianqLianq_tziDii.svg"></span></p>
+			<div class="bold border pad3 w50p backAzure">模长</div>
+			<p><span class="formula"><img src="img/analyticGeometry/3shianqLianq_moCharng.svg"></span></p>
+			<div class="bold border pad3 w50p backAzure">单位化</div>
+			<p><span class="formula"><img src="img/analyticGeometry/4shianqLianq_danWeyHuah.svg"></span></p>
+			<p>其中<span class="inline"><img src="img/analyticGeometry/cos_alpha.svg"></span>、<span class="inline"><img src="img/analyticGeometry/cos_beta.svg"></span>、<span class="inline"><img src="img/analyticGeometry/cos_gamma.svg"></span>是方向余弦</p>
+			<div class="bold border pad3 w50p backAzure">线性运算</div>
+			<p><span class="formula"><img src="img/analyticGeometry/5shianqLianq_shiannShinqYuennSuann.svg"></span></p>
+			<div class="bold border pad3 w50p backAzure">点乘</div>
+			<p><span class="formula"><img src="img/analyticGeometry/6shainqLianq_deanCherng.svg"></span></p>
+			<div class="bold border pad3 w50p backAzure">叉乘</div>
+			<p><span class="formula"><img src="img/analyticGeometry/7shianqLianq_chaCherng.svg"></span></p>
+			<div class="bold border pad3 w50p backAzure">混合积</div>
+			<p><span class="formula"><img src="img/analyticGeometry/8shianqLianq_huennHerJi.svg"></span></p>
+		</div></div>
+
+		<div class="row"><div class="sect">平面</div>
+		<div class="subsect">
+			<div class="bold border pad3 w50p backAzure">点法式</div>
+			<p><span class="formula"><img src="img/analyticGeometry/9pyingMiann_deanFaaShyh.svg"></span></p>
+			<div class="bold border pad3 w50p backAzure">一般式</div>
+			<p><span class="formula"><img src="img/analyticGeometry/10pyingMiann_iBanShyh.svg"></span></p>
+			<div class="bold border pad3 w50p backAzure">三点式</div>
+			<p><span class="formula"><img src="img/analyticGeometry/11pyingMiann_sanDeanShyh.svg"></span></p>
+			<div class="bold border pad3 w50p backAzure">截距式</div>
+			<p><span class="formula"><img src="img/analyticGeometry/12pyingMiann_jyeJyuhShyh.svg"></span></p>
+			<div class="bold border pad3 w50p backAzure">参数方程</div>
+			<!-- <p><span class="formula"><img src="img/analyticGeometry/4shianqLianq_danWeyHuah.svg"></span></p> -->
+		</div></div>
+
+		<div class="row"><div class="sect">直线</div>
+		<div class="subsect">
+			<div class="bold border pad3 w50p backAzure">点向式</div>
+			<p><span class="formula"><img src="img/analyticGeometry/13jyrShiann_deanShianqShyh.svg"></span></p>
+			<div class="bold border pad3 w50p backAzure">参数方程</div>
+			<p><span class="formula"><img src="img/analyticGeometry/14jyrShiann_tsanShuhFangCherng.svg"></span></p>
+			<div class="bold border pad3 w50p backAzure">一般式</div>
+			<!-- <p><span class="formula"><img src="img/analyticGeometry/4shianqLianq_danWeyHuah.svg"></span></p> -->
+		</div></div>
+
+		<div class="row"><div class="sect">夹角</div>
+		<div class="subsect">
+			<p>\/内容</p>
+		</div></div>
+
+		<div class="row"><div class="sect">距离</div>
+		<div class="subsect">
+			<p>\/内容</p>
+		</div></div>
+
+		<div class="row"><div class="sect">曲面</div>
+		<div class="subsect">
+			<p>\/内容</p>
+		</div></div>
+
+		<div class="row"><div class="sect">曲线</div>
+		<div class="subsect">
+			<p>\/内容</p>
+		</div></div>
+
+		<div class="row"><div class="sect">平面束</div>
 		<div class="subsect">
 			<p>\/内容</p>
 		</div></div>
