@@ -15,6 +15,8 @@ body{
     font-size:0.8em;
 }/* 其实也可以用<rubt>下<rt>上</rt></ruby>来标注，但我不想标注的内容被复制，所以选择用css */
 
+.logo{width:2rem;height:auto;padding: 1rem;vertical-align: middle;background-color:whitesmoke;}
+
 /* 1header */
 .header{background-color:white;margin:0 auto;text-align:center;color:black;}
     .title{font-size: 50px;font-weight: bold;}/* a隐藏超链接至树fontBlack *//* p普通说明 */
