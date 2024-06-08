@@ -1,0 +1,43 @@
+.cover{
+    background-color:lightyellow;
+    margin:1rem;
+    padding:1rem;
+}
+.page{
+    border:1px solid black;
+    margin:1rem;
+    padding: 2rem;;
+}
+.tips{
+    border:5px dotted red;
+    padding: 5px;
+    color:brown;
+    font-weight: bold;
+    text-align: center;
+}
+.tuaji{
+    /* border: 1px solid black; */
+    display:inline-block;
+    font-size: 2rem;
+    padding: 5px;
+    margin: 1rem;
+}
+.romaji{
+    /* border: 1px solid black; */
+    display: inline-block;
+}
+
+
+
+.inblo{
+    display:inline-block;
+}
+.pad5px{
+    padding: 5px;
+}
+.tleft{
+    text-align: left;
+}
+.tright{
+    text-align: right;
+}
