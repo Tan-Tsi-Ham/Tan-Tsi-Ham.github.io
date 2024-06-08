@@ -1,0 +1,203 @@
+/* 全局设置 */
+a{
+    text-decoration: none;
+}
+hr{
+    width:100%;
+    height:5px;
+    border-width:4px 0 0 0;
+    border-style:solid;
+    border-color:silver;
+}
+#myBtn{
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    font-size: 15px;
+    border:none;
+    outline:none;
+    background-color: #af4e4c;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius:10px;
+    transition: background-color 0.3s;}
+#myBtn:hover{background-color:#555;}
+
+/* 基本布局 */
+/* header */
+.header{
+    /* border:1px solid black; */
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+
+    background:aquamarine;
+}
+.logo{
+    width:2rem;
+    height:auto;
+    margin:0.5rem;
+
+    /* display:inline-block; */
+    vertical-align: middle;
+}
+.headline{
+    /* border:1px solid black; */
+    font-weight: bold;
+    font-size: 2rem;
+    vertical-align: middle;
+    text-align: center;
+}
+.headline2{
+    font-weight: bold;
+    vertical-align: middle;
+}
+.headline a,.headline2 a{color: black;}
+.slogan{text-align: center;}
+/* main */
+.main{
+    /* border:1px solid black; */
+    /* 避免被上面遮挡 */
+    margin-top:120px;
+    text-align: center;
+}
+.main2{
+    /* border:1px solid black; */
+    /* 避免被上面遮挡 */
+    margin-top:200px;
+}
+
+.block{
+    border:2px solid #333;
+    /* div本占一整行空间，现在一块而已 */
+    display:inline-block;
+    font-size:20px;
+    padding:3px;
+    margin:3px;
+    background-color:azure;
+}
+.block a{color:blue;}
+/* .block a::after{color:blue;} */
+.block a:hover{color:red;}
+/* footer */
+.foot{
+    /* border:2px solid red; */
+    background: gray;
+    padding:50px;
+    text-align: center;
+    color: white;
+}
+.footer{
+    /* border:2px solid red; */
+    background: gray;
+    padding:50px;
+    text-align: center;
+    color: white;
+    width:74%;
+}
+
+/* 2.subjects */
+.tabl {display: table;width: 95%;margin:0 auto;}
+.row {display: table-row;background-color: aqua;}
+.navi {display: table-cell;width: 20%;text-align: center;padding: 3px;}
+.navi  a{display:inline-block;width: 100%;text-decoration: none;color: black;}
+.navi:hover{background-color: #ccc;}
+@media screen and (max-width:480px) {
+    .navi {font-size: 1.2rem;padding: 10px;}
+}
+
+.right{
+    position:fixed;
+    background-color: white;
+    height:100%;
+    width:20%;
+    background-color: azure;
+    right:0;
+}
+.mid{
+    border:1px solid black;
+    /* margin-bottom: 1rem; */
+    padding-bottom: 2rem;
+    width:80%;
+}
+.mid,.right{
+    text-align: center;
+}
+.right a{
+    color:blue;
+}
+
+.mid h2{
+    /* border:1px solid black; */
+    text-align: left;
+    margin-left: 3rem;
+    font-size: 2rem;
+    margin-top: 0;
+    margin-bottom: 5px;
+    color: gray;
+    font-weight: lighter;
+}
+.mid h3{
+    text-align: left;
+    margin-left:2rem;
+}
+.mid p{
+    text-align: left;
+    margin-left:3rem;
+}
+
+/* 行内公式 */
+.inline{
+    padding: 2px;
+    vertical-align: middle;
+}
+/* 整行公式 */
+.formula{
+    /* border:1px solid black; */
+    padding:5px;
+    width:80%;
+    margin: 0 auto;
+    overflow-x:auto;
+}
+/* 暂时没搞明白这滚动条的格式 */
+/* .formula::-webkit-scrollbar{
+    width:100px;
+    background-color: yellow;
+    height:5px;
+}
+.formula::-webkit-scrollbar-thumb{
+    background-color: blue;
+}
+.formula::-webkit-scrollbar-thumb:hover{
+    background-color: #333;
+} */
+
+
+
+
+
+
+
+/* 零散的组件 */
+.border{border:1px solid black;}
+/* 文本-垂直居中对齐 */
+.vmid{vertical-align: middle;}
+/* 文本-水平居中对齐 */
+.hmid{text-align: center;}
+/* 块-水平居中
+注意与margin互斥
+注意有些元素本身就在中间（占一整行），记得用border看一下 */
+.hcenter{margin:0 auto;}
+
+/* 背景颜色 */
+.backViolet{background-color: violet;}
+
+/* 字体颜色 */
+.blue{color:blue;}
+
+/* 字体加粗 */
+.bold{font-weight: bold;}
