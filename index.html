@@ -1,32 +1,77 @@
 <!DOCTYPE html>
-
-<html>
-    
+<html lang="zh-CN">
 <head>
-
-    <!-- <meta http-equiv="refresh" content="10"> -->
-    <!-- 每10s自动刷新网页 -->
-
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><!--设置中文-->
-    <title>Tan Tsi Ham的世界</title>
-    <meta charset="utf-8">
-    <style>
-        div{
-            width:50%;
-            margin:0 auto;
-            padding: 10px;
-            border: 5px dashed red;
-        }
-    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>海墘网-HáiKyî</title>
+    <link rel="icon" href="logo/logo.png">
+    <link rel="stylesheet" href="main.css">
 </head>
-
 <body>
-    <div>
-    <a href="teo/index.html">潮汕话资源库</a>（我称其为“<a href="teo/index.html">东南海墘网</a>”）。这是我对自己母语与自己文化研究路上的尝试与探索，目前处于起步阶段，还有很多不足与缺漏的地方。如果有持共同愿景的同志愿意伸出援手，我将不胜感激。即使没有，也是理所当然。<br>
-    <br>
-    <a href="techTree/Tsiex-Sikai.html">科技树</a>。作者认为人人都平等地享有认识世界的权利，因此创建了这个网站，旨在为有志者提供学习的平台。
+    <nav>
+        <div class="logo"><img src="logo/logo32x32.png"><span>海墘</span></div>
+        
+        <ul class="nav-menu">
+            <li><a href="index.html"><span><ruby>头页<rt>thâu-hiex</rt></ruby></span></a></li>
+            <li><a href="2dictionary/dictionary.html"><ruby>辞典<rt>sîr-tián</rt></ruby></a></li>
+            <li><a href=""><ruby>智识<rt>tì-sek</rt></ruby></a></li>
+            <li><a href=""><ruby>故事<rt>kū-sīr</rt></ruby></a></li>
+            <li><a href=""><ruby>新闻<rt>sin-bǔn</rt></ruby></a></li>
+            <li><a href=""><ruby>资料<rt>tsir-liōu</rt></ruby></a></li>
+            <li class="dropdown">
+                <a><ruby>换语言<rt>wā gír-ngân</rt></ruby></a>
+                <div class="dropdown-content">
+                    <a href=""><ruby>普通话<rt>pǔtōnghuà</rt></ruby></a>
+                    <span><ruby>潮汕话<rt>Tiê-Swa-uē</rt></ruby></span>
+                    <a href="">English</a>
+                    <a href="">français</a>
+                    <a href=""><ruby>日本語<rt>にほんご</rt></ruby></a>
+                    <a href=""><ruby>韓國語<rt>한국어</rt></ruby></a>
+                    <a href="">Tiếng Việt</a>
+                    <a href="">ภาษาไทย</a>
+                </div>
+            </li>
+        </ul>
+        <button class="hamburger">☰</button>
+        <div class="contact">
+            📫 harold726@qq.com
+        </div>
+    </nav>
+
+    <main>
+        <div class="column-container">
+            <div class="column">
+                <div class="frame">
+                    <h2><a href="">网站更新</a></h2>
+                    <ul>
+                        <li>2025.02.06 建立网站</li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="column">
+                <div class="frame">
+                    <h2>自我介绍</h2>
+                    <ul>
+                        <li><a href="">阮是乜个</a></li>
+                        <li><a href="">网站咋呢用</a></li>
+                        <li><a href="">学罗马字</a></li>
+                        <li><a href="1introduction/hanzi.html">学汉字</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <div class="quote">
+        <p>三分天注定，七分靠拍拚。</p >
+        <p>Sar hun thyi tsù-tyā, chit hun kǒu phah-pyà.</p >
     </div>
+
+    <script src="script.js"></script>
+
 </body>
-
-
 </html>

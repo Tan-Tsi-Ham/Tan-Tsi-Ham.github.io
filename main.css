@@ -1,0 +1,233 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Microsoft YaHei', sans-serif;
+    line-height: 1.6;
+    background: #f0f8ff; /* 浅海蓝色背景 */
+    color: #333;
+}
+
+/* 海洋主题导航栏 */
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: #1a3657; /* 深海蓝色 */
+    padding: 1rem 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1000;
+}
+
+.logo {
+    /* border: 1px solid red; */
+    display: flex;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+}
+
+.logo img{
+    border: 1px solid white;
+    background: white;
+    margin-right: 0.5rem;
+}
+
+.nav-menu {
+    color: white;
+    display: flex;
+    gap: 2rem;
+}
+
+.nav-menu li {
+    list-style: none;
+    position: relative;
+}
+
+.nav-menu a {
+    color: #c7e0ff;
+    text-decoration: none;
+    padding: 1rem 1rem;
+    transition: all 0.3s;/*实现平滑动画效果*/
+}
+
+.nav-menu a:hover{
+    color: #fff;
+    background: #0077be; /* 海洋蓝 */
+    border-radius: 4px;
+}
+
+.nav-menu span{
+    color: #00a2ff;
+    font-weight: bold;
+    padding: 1rem 0.5rem;
+}
+
+/* 下拉菜单 */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: #fff;
+    min-width: 160px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    border-radius: 4px;
+    height: 8rem;
+    overflow: auto;
+    /* transition: max-height 0.3s ease-out; */
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-content span{
+    color: #1a3657;
+    display: block;
+    padding: 0.8rem 1rem;
+    background: #e6f3ff;
+}
+
+.dropdown-content a {
+    color: #1a3657;
+    display: block;
+    padding: 0.8rem 1rem;
+}
+
+.dropdown-content a:hover {
+    background: #e6f3ff;
+    color: black;
+    font-weight: bold;
+}
+
+.contact {
+    color: #c7e0ff;
+}
+
+/* 新增汉堡菜单样式 */
+.hamburger {
+    display: none;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+/* 主体内容 */
+main {
+    margin-top: 80px;
+    padding: 2rem 5%;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.column-container{
+    /* border:1px solid black; */
+    display: flex;
+    gap: 2rem;
+}
+
+.column {
+    /* border:1px solid black; */
+    flex: 1;
+}
+
+.column a{
+    text-decoration: none;
+}
+
+.column li a{
+    color: black;
+}
+
+.column li a:hover{
+    color: #0077be;
+    font-weight: bold;
+}
+
+/* 正文 */
+.content{
+    background: white;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,119,190,0.1);
+}
+
+/* 内容区块样式 */
+.frame {
+    background: #fff;
+    padding: 1.5rem;
+    border-radius: 8px;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 2px 8px rgba(0,119,190,0.1);
+    border: 1px solid #c7e0ff;
+}
+
+.column h2 {
+    color: #1a3657;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #0077be;
+}
+
+.column h2 a{
+    color: #1a3657;
+}
+
+.column h2 a:hover{
+    color:#0077be;
+}
+
+/* 海洋主题语录 */
+.quote {
+    /* border: 1px solid black; */
+    text-align: center;
+    padding: 2rem;
+    color: #1a3657;
+    font-style: italic;
+    background: #e6f3ff;
+    margin-top: auto;
+    border-top: 3px solid #0077be;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    main {
+        flex-direction: column;
+    }
+
+/* 新增汉堡菜单样式 */
+    .hamburger {
+        display: block;
+    }
+    
+    .nav-menu {
+        display: none;/* 移动端隐藏导航菜单 */
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background: #1a3657;
+        flex-direction: column;
+        padding: 1rem;
+    }
+    
+    .nav-menu.active {
+        display: flex;
+    }
+/* 正文 */
+    .column-container{
+        flex-direction: column;
+    }
+    .content{
+        padding: 1.5rem;
+    }
+}
