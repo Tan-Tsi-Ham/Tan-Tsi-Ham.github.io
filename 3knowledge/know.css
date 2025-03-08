@@ -1,0 +1,91 @@
+/* body {
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+    overflow-x: auto;
+} */
+
+.container {
+    max-width: 800px;
+    margin: 6rem auto;
+    padding: 0 1rem;
+    overflow: auto;
+}
+
+.era {
+    margin-bottom: 50px;
+}
+
+.era-title {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+    position: sticky;
+    left: 20px;
+}
+
+.conlist {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    gap: 40px;
+    /* margin: 80px 10% 60px 80px; */
+}
+
+.tech-node {
+    background: #fff;
+    border: 2px solid #4CAF50;
+    border-radius: 8px;
+    padding: 15px;
+    width: 200px;
+    cursor: pointer;
+    transition: transform 0.3s;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    display: block; /* a标签默认inline需要改为block */
+    text-decoration: none; /* 去除下划线 */
+    color: inherit; /* 继承父级颜色 */
+}
+
+.tech-node:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+.node-title {
+    font-weight: bold;
+    color: #2c662d;
+    margin-bottom: 10px;
+}
+
+.node-desc {
+    font-size: 0.9em;
+    color: #666;
+}
+
+.connection {
+    position: absolute;
+    height: 2px;
+    background: #888;
+    transform-origin: left;
+}
+
+.tooltip {
+    position: fixed;
+    background: rgba(0,0,0,0.8);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    pointer-events: none;
+    max-width: 300px;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    /* .container{
+        padding: 0 0.5rem;
+    } */
+    .conlist {
+        grid-template-columns: 1fr 1fr;
+        /* margin: 80px 35% 60px 50px; */
+    }
+}
