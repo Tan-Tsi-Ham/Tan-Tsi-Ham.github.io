@@ -1,5 +1,82 @@
 const techData = [
     {
+        era:"原始人现代化",
+        technologies: [
+            {
+                name: "time",
+                hanzi: "生物节律",
+                desc: "",
+                scr: ""
+            },
+            {
+                name: "feeling",
+                hanzi: "感官",
+                desc: "",
+                scr: ""
+            },
+            {
+                name: "signals",
+                hanzi: "符号",
+                desc: "",
+                scr: ""
+            },
+            {
+                name: "languages",
+                hanzi: "语言",
+                desc: "",
+                scr: ""
+            },
+            {
+                name: "physics",
+                hanzi: "物理",
+                desc: "",
+                scr: ""
+            },
+            {
+                name: "biology",
+                hanzi: "生物",
+                desc: "",
+                scr: ""
+            },
+            {
+                name: "economy",
+                hanzi: "经济",
+                desc: "",
+                scr: ""
+            },
+            {
+                name: "laws",
+                hanzi: "法律",
+                desc: "",
+                scr: ""
+            },
+            {
+                name: "tool",
+                hanzi: "工具",
+                desc: "",
+                scr: ""
+            },
+            {
+                name: "Internet",
+                hanzi: "网络",
+                desc: "",
+                scr: ""
+            },
+            {
+                name: "art",
+                hanzi: "艺术",
+                desc: "",
+                scr: ""
+            },
+            {
+                name: "philosophy",
+                hanzi: "哲学",
+                desc: "",
+                scr: ""
+            }
+        ]
+    },
+    {
         era: "数学",
         technologies: [
             { 

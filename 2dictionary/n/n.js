@@ -10,34 +10,24 @@ const dictData = [
     //     exampleRomazi:""
     // },
     {
-        romazi: "pa",
-        update: "2025.02.07",
-        pos: "名词",
-        hanzi: "疤",
-        descHanzi: "1.一撮受伤过的地方无便变到佮以前完全平样。此块𠀾平样的地方。",
-        exampleHanzi: "我以前跛着，了tsín就留块疤按呢。",
-        descRomazi: "1.Tseg choh siǔ-sye kuē kāi tī-hng bô-piàng pyì kàu kah yí-tsôy uân-chuân pêr-yē. Tsí kò bǒi pêr-yē kāi tī-hng.",
-        exampleRomazi: "Uá yí-tsôi puax tieh, liáu tsín tsǔ lâu kò pa a-ne."
+        romazi: "náng",
+        update: "2025.03.12",
+        pos: "代词",
+        hanzi: "咱",
+        descHanzi: "本字是“俺”，但意思佮普通话差别比较大",
+        exampleHanzi: "",
+        descRomazi: "",
+        exampleRomazi: ""
     },
     {
-        romazi:"pa-lói",
-        update:"2025.03.11",
-        pos:"名词",
-        hanzi:"",
-        descHanzi:"把无用的物件物伊有用。",
-        exampleHanzi:"只车无用，着pa-lói。",
-        descRomazi:"Pá bô-ēng kāi muex-kyǎ muex i ǔ-ēng.",
-        exampleRomazi:"Tsiah chia bô-ēng, tiox pa-lói."
-    },
-    {
-        romazi: "pā-pâ",
-        update: "2025.02.06",
-        pos: "名词",
-        hanzi: "爸爸",
-        descHanzi: "1.口语底叫父亲，也好简单叫做pa或pâ。",
-        exampleHanzi: "恁爸",
-        descRomazi: "1.Qáu-gír tói kiè pě-chin, iā hó kám-twa kiè tsò pa hog pâ.",
-        exampleRomazi: "nńg pa"
+        romazi: "nńg",
+        update: "2025.03.12",
+        pos: "代词",
+        hanzi: "恁",
+        descHanzi: "",
+        exampleHanzi: "",
+        descRomazi: "",
+        exampleRomazi: ""
     },
     // 更多数据可以在此添加...
 ];

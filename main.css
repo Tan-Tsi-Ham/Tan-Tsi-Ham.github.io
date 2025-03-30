@@ -198,6 +198,17 @@ main {
     border-top: 3px solid #0077be;
 }
 
+/* 表格 */
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+th,td{
+    border:1px solid black;
+    text-align: center;
+    padding: 8px;
+}
+
 /* 响应式设计 */
 @media (max-width: 768px) {
     main {
