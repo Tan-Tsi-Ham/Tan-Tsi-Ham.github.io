@@ -6,6 +6,14 @@
     overflow-x: auto;
 } */
 
+/* 只有knowledge.html使用的导航栏 */
+nav{
+    height: 5rem;
+    /* border: 1px solid red; */
+    color: white;
+}
+
+/* 正文 */
 .container {
     max-width: 800px;
     margin: 6rem auto;

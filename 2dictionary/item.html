@@ -1,12 +1,12 @@
+<!-- 模板页面 entry.html -->
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>新闻-海墘网-HáiKyî</title>
+    <title>条目</title>
     <link rel="icon" href="../logo/logo.png">
     <link rel="stylesheet" href="../main.css">
-    <link rel="stylesheet" href="dictionary.css">
+    <link rel="stylesheet" href="dict.css">
 </head>
 <body>
     <nav>
@@ -14,10 +14,10 @@
         
         <ul class="nav-menu">
             <li><a href="../index.html"><ruby>头页<rt>thâu-hiex</rt></ruby></a></li>
-            <li><a href="../2dictionary/dictionary.html"><ruby>辞典<rt>sîr-tián</rt></ruby></a></li>
+            <li><a href="dictionary.html"><span><ruby>辞典<rt>sîr-tián</rt></ruby></span></a></li>
             <li><a href="../3knowledge/knowledge.html"><ruby>智识<rt>tì-sek</rt></ruby></a></li>
             <li><a href="../4story/story.html"><ruby>故事<rt>kū-sīr</rt></ruby></a></li>
-            <li><a href="news.html"><span><ruby>新闻<rt>sin-bǔn</rt></ruby></span></a></li>
+            <li><a href="../5news/news.html"><ruby>新闻<rt>sin-bǔn</rt></ruby></a></li>
             <li><a href="../6sources/sources.html"><ruby>资料<rt>tsir-liōu</rt></ruby></a></li>
             <li class="dropdown">
                 <a><ruby>换语言<rt>wā gír-ngân</rt></ruby></a>
@@ -41,13 +41,12 @@
 
     <main class="big-page">
         <div class="column-container">
-            <div class="column-wide frame">
-                <h2>国内</h2>
+            <div class="frame column-wide" id="contentContainer">
+                <!-- <div id="contentContainer"></div> -->
             </div>
-            <div class="column-wide frame">
-                <h2>国外</h2>
-            </div>
+            <!-- <button class="back-btn" onclick="window.history.back()">返回列表</button> -->
         </div>
+        
     </main>
 
     <div class="quote">
@@ -56,5 +55,6 @@
     </div>
 
     <script src="../script.js"></script>
+    <script src="item.js"></script>
 </body>
 </html>

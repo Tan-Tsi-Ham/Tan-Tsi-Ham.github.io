@@ -119,49 +119,11 @@ nav {
     font-size: 1.5rem;
     cursor: pointer;
 }
+/* ----以上内容不再改 */
 
-/* 主体内容 */
-main {
-    margin-top: 80px;
-    padding: 2rem 5%;
-    display: flex;
-    flex-direction: column;
-    gap: 2rem;
-}
+/* 以下是通用部件 */
 
-.column-container{
-    /* border:1px solid black; */
-    display: flex;
-    gap: 2rem;
-}
-
-.column {
-    /* border:1px solid black; */
-    flex: 1;
-}
-
-.column a{
-    text-decoration: none;
-}
-
-.column li a{
-    color: black;
-}
-
-.column li a:hover{
-    color: #0077be;
-    font-weight: bold;
-}
-
-/* 正文 */
-.content{
-    background: white;
-    padding: 2rem;
-    border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(0,119,190,0.1);
-}
-
-/* 内容区块样式 */
+/* 加框框 */
 .frame {
     background: #fff;
     padding: 1.5rem;
@@ -171,20 +133,82 @@ main {
     border: 1px solid #c7e0ff;
 }
 
-.column h2 {
+/* 按钮 */
+.button-group a{
+    display: inline-block;
+    border: 1px solid gary;
+    border-radius: 8px;
+    text-align: center;
+    padding: 5px 10px;/* 高度+宽度 */
+    margin-bottom: 5px;
+    text-decoration: none;
+    color: black;
+    background: cornflowerblue;
+}
+.button-group a:hover{
+    background: cyan;
+    color: gray;
+}
+
+
+
+/* TYPE 1 分列式 */
+/* a<main class="big-page"> */
+.big-page {
+    /* border: 1px solid black; */
+    margin-top: 80px;
+    padding: 2rem 5%;
+}
+/* b<div class="column-container"> */
+.column-container{
+    /* border:1px solid black; */
+    display: flex;
+    gap: 2rem;
+}
+/* c<div class="column-wide"> */
+.column-wide {
+    /* border:1px solid black; */
+    flex: 1;
+}
+/* index.html专属设置 */
+.column-wide a{
+    text-decoration: none;
+}
+.column-wide li a{
+    color: black;
+}
+.column-wide li a:hover{
+    color: #0077be;
+    font-weight: bold;
+}
+.column-wide h2 {
     color: #1a3657;
     margin-bottom: 1rem;
     padding-bottom: 0.5rem;
     border-bottom: 2px solid #0077be;
 }
-
-.column h2 a{
+.column-wide h2 a{
     color: #1a3657;
 }
-
-.column h2 a:hover{
+.column-wide h2 a:hover{
     color:#0077be;
 }
+/* d<div class="frame"> */
+/* e正文 */
+
+
+
+/* 正文 */
+.content{
+    background: white;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,119,190,0.1);
+}
+
+
+/* TYPE 2 卡片式 */
+
 
 /* 海洋主题语录 */
 .quote {
@@ -209,9 +233,18 @@ th,td{
     padding: 8px;
 }
 
+/* 正文-中间显示 */
+/* .article{
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+} */
+
 /* 响应式设计 */
 @media (max-width: 768px) {
-    main {
+    .big-page {
         flex-direction: column;
     }
 
