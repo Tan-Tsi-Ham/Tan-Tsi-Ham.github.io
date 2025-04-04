@@ -1,0 +1,30 @@
+{
+  "phin5-kue2":{
+    "text":"phîn-kué | 苹果 | 蘋果",
+    "romazi":"phîn-kué",
+    "hanzis":"苹果",
+    "hanzit":"蘋果",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"名词",
+    "types":"",
+    "definition":["1.植物","sid-muex","2.苹果手机","Phîn-kué chiú-ki"],
+    "example":["1.我爱食苹果。","Uá ày tsiax phîn-kué.","2.苹果佮安卓𠀾平样。","Phîn-kué kah Android bǒi pêr-yē."],
+    "note":"",
+    "update":"2025.04.03"
+  },
+  "pheng5-iu2":{
+    "text":"phêng-iú | 朋友 | 朋友",
+    "romazi":"phêng-iú",
+    "hanzis":"朋友",
+    "hanzit":"朋友",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"名词",
+    "types":"",
+    "definition":["关系好的人。","Kuan-hǐ hó kāi nâng."],
+    "example":["咱是好朋友。","Náng sī hó phêng-iú."],
+    "note":"",
+    "update":"2025.04.03"
+  }
+}

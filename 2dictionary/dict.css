@@ -14,6 +14,9 @@
 .entry-item:hover {
     background-color: #e0e0e0;
 }
+a{
+    color: #2c3e50;
+}
 
 /* 条目页面，在item.js */
 .romazi,.hanzi-s,.hanzi-t,.variant {
@@ -60,7 +63,7 @@
 
 
  /* 响应式设计 */
-@media (min-width: 768px) {
+@media (min-width: 770px) {
     /* 条目页面，在item.js */
     #contentContainer{
         margin: auto 20%;

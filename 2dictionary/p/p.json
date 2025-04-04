@@ -1,30 +1,420 @@
 {
-  "phin5-kue2":{
-    "text":"phîn-kué | 苹果 | 蘋果",
-    "romazi":"phîn-kué",
-    "hanzis":"苹果",
-    "hanzit":"蘋果",
+  "pa1":{
+    "text":"pa | 疤 | 疤",
+    "romazi":"pa",
+    "hanzis":"疤",
+    "hanzit":"疤",
     "variant":"",
     "etymology":"",
     "partOfSpeech":"名词",
     "types":"",
-    "definition":["1.植物","sid-muex","2.苹果手机","Phîn-kué chiú-ki"],
-    "example":["1.我爱食苹果。","Uá ày tsiax phîn-kué.","2.苹果佮安卓𠀾平样。","Phîn-kué kah Android bǒi pêr-yē."],
+    "definition":["受伤之后留的痕迹。"],
+    "example":[""],
     "note":"",
     "update":"2025.04.03"
   },
-  "pheng5-iu2":{
-    "text":"phêng-iú | 朋友",
-    "romazi":"phêng-iú",
-    "hanzis":"朋友",
-    "hanzit":"朋友",
+  "pa1-loi2":{
+    "text":"pa-lói | 바뢰 | 바뢰",
+    "romazi":"pa-lói",
+    "hanzis":"",
+    "hanzit":"",
     "variant":"",
     "etymology":"",
-    "partOfSpeech":"名词",
+    "partOfSpeech":"动词",
     "types":"",
-    "definition":["关系好的人。","Kuan-hǐ hó kāi nâng."],
-    "example":["咱是好朋友。","Náng sī hó phêng-iú."],
+    "definition":[""],
+    "example":[""],
     "note":"",
     "update":"2025.04.03"
+  },
+  "Pa1-ki1-sir1-than2":{
+    "text":"Pakistan | 巴基斯坦 | 巴基斯坦"
+  },
+  "Pa1-sai1":{
+    "text":"Brasil | 巴西 | 巴西"
+  },
+  "pa2":{
+    "text":"pá | 饱 | 飽"
+  },
+  "pa2-ok":{
+    "text":"pá-ok | 把握 | 把握"
+  },
+  "pa3":{
+    "text":"pà | 豹 | 豹"
+  },
+  "Pa3-thau5":{
+    "text":"Pà-thâu | 坝头 | 壩頭"
+  },
+  "pa5":{
+    "text":"pâ | 爸 | 爸"
+  },
+  "pa6-kang1":{
+    "text":"pǎ-kang | 罢工 | 罷工"
+  },
+  "pan1":{
+    "text":"pan | 班 | 班"
+  },
+  "pan2":{
+    "text":"pán | 板 | 板"
+  },
+  "pan2-pun2":{
+    "text":"版本"
+  },
+  "pat":{
+    "text":"𧧸"
+  },
+  "pad-nang5":{
+    "text":"别人"
+  },
+  "pad-zid":{
+    "text":"别日"
+  },
+  "pang1":{
+    "text":"枋"
+  },
+  "pang1-tso6":{
+    "text":"帮助"
+  },
+  "pang2-ye7":{
+    "text":"榜样"
+  },
+  "pang3-phui3":{
+    "text":"放屁"
+  },
+  "pang3-kya2":{
+    "text":"放囝"
+  },
+  "pang3-chiu2":{
+    "text":"放手"
+  },
+  "pang3-sai2":{
+    "text":"放屎"
+  },
+  "pang3-song1":{
+    "text":"放松"
+  },
+  "pang3-zie7":{
+    "text":"pàng-ziē | 放尿 | 放尿"
+  },
+  "pak":{
+    "text":"pak | 北、剥、幅 | 北、剥、幅"
+  },
+  "pak-ki1":{
+    "text":"腹肌"
+  },
+  "pak-siah":{
+    "text":"剥削"
+  },
+  "pak-sia7":{
+    "text":"辐射"
+  },
+  "pang5-koy1":{
+    "text":"房间"
+  },
+  "pang6":{
+    "text":"棒"
+  },
+  "pag":{
+    "text":"缚"
+  },
+  "pai2":{
+    "text":"摆"
+  },
+  "pai3":{
+    "text":"拜"
+  },
+  "pai5":{
+    "text":"pâi | 排、牌 | 排、牌"
+  },
+  "pai5-tui7":{
+    "text":"排队"
+  },
+  "pai5pai1":{
+    "text":"拜拜"
+  },
+  "pai7":{
+    "text":"败"
+  },
+  "pau1":{
+    "text":"包"
+  },
+  "pau6-tsa3":{
+    "text":"爆炸"
+  },
+  "pau6-hir5":{
+    "text":"鲍鱼"
+  },
+  "pau6-lag":{
+    "text":"暴力"
+  },
+  "po1":{
+    "text":"波"
+  },
+  "po1-tou7":{
+    "text":"坡度"
+  },
+  "po1-li5":{
+    "text":"玻璃"
+  },
+  "po2-pi3":{
+    "text":"保庇"
+  },
+  "po2-ho7":{
+    "text":"保护"
+  },
+  "po2-hu6":{
+    "text":"保护"
+  },
+  "po3-kau3":{
+    "text":"报告"
+  },
+  "po3-tsua2":{
+    "text":"报纸"
+  },
+  "pox":{
+    "text":"薄"
+  },
+  "pong1":{
+    "text":"봉"
+  },
+  "pong3":{
+    "text":"봉"
+  },
+  "poih":{
+    "text":"八"
+  },
+  "poix":{
+    "text":"拔"
+  },
+  "poy2":{
+    "text":"뵐"
+  },
+  "poy5":{
+    "text":"爿"
+  },
+  "pou2":{
+    "text":"补"
+  },
+  "pou2-thau5":{
+    "text":"斧头"
+  },
+  "pou3":{
+    "text":"布"
+  },
+  "pou6-hun7":{
+    "text":"部分"
+  },
+  "pou7":{
+    "text":"pōu | 步、哺 | 步、哺"
+  },
+  "pe2":{
+    "text":"把"
+  },
+  "peh":{
+    "text":"peh | 伯、百 | 伯、百"
+  },
+  "pe5":{
+    "text":"pê | 爬、耙 | 爬、耙"
+  },
+  "pe6":{
+    "text":"父"
+  },
+  "pex":{
+    "text":"白"
+  },
+  "per3":{
+    "text":"柄"
+  },
+  "per5":{
+    "text":"pêr | 棚、平 | 棚、平"
+  },
+  "per7":{
+    "text":"病"
+  },
+  "peng1":{
+    "text":"벙"
+  },
+  "pek":{
+    "text":"pek | 逼、迫、煏 | 逼、迫、煏"
+  },
+  "pek-chek":{
+    "text":"煏恻"
+  },
+  "peng6-liad":{
+    "text":"并列"
+  },
+  "peng6-chya2":{
+    "text":"并且"
+  },
+  "pi2":{
+    "text":"比"
+  },
+  "pi2-sai3":{
+    "text":"比赛"
+  },
+  "pi3":{
+    "text":"背"
+  },
+  "pi5":{
+    "text":"脾"
+  },
+  "pi5-pe5":{
+    "text":"枇杷、琵琶"
+  },
+  "pi5-tsiu2":{
+    "text":"啤酒"
+  },
+  "pi6":{
+    "text":"pǐ | 币、被 | 币、被"
+  },
+  "pi7-qui1":{
+    "text":"避开"
+  },
+  "pyi1":{
+    "text":"pyi | 边、辫 | 邊、辮"
+  },
+  "pyi2":{
+    "text":"扁"
+  },
+  "pyi3":{
+    "text":"变"
+  },
+  "pyi6":{
+    "text":"辫"
+  },
+  "pin2":{
+    "text":"品"
+  },
+  "pin2-tsieh":{
+    "text":"品质"
+  },
+  "pin3":{
+    "text":"遍"
+  },
+  "pit":{
+    "text":"笔"
+  },
+  "pit-su1":{
+    "text":"必须"
+  },
+  "pid-ngiab":{
+    "text":"毕业"
+  },
+  "pya1":{
+    "text":"pya | 兵、冰 | 兵、冰"
+  },
+  "pian2":{
+    "text":"扁"
+  },
+  "pian3":{
+    "text":"piàn | 变、遍 | 變、遍"
+  },
+  "pian3-heng5":{
+    "text":"变形"
+  },
+  "pian3-tsieh":{
+    "text":"变质"
+  },
+  "pian3-sin1":{
+    "text":"变身"
+  },
+  "pian6-li6":{
+    "text":"便利"
+  },
+  "piang7":{
+    "text":"뱡"
+  },
+  "piau2-si7":{
+    "text":"表示"
+  },
+  "pie1":{
+    "text":"pie | 表 | 錶"
+  },
+  "pie2":{
+    "text":"表"
+  },
+  "pie3-pex":{
+    "text":"漂白"
+  },
+  "pu3":{
+    "text":"富"
+  },
+  "pu5":{
+    "text":"pû | 부、烳、瓠 | 부、烳、瓠"
+  },
+  "pu7-nng6":{
+    "text":"孵卵"
+  },
+  "pun1":{
+    "text":"分"
+  },
+  "pun2-lai5":{
+    "text":"本来"
+  },
+  "pun2-sin1":{
+    "text":"本身"
+  },
+  "pun3-tau2":{
+    "text":"畚斗"
+  },
+  "pun3-thang2":{
+    "text":"분桶"
+  },
+  "pun3-ki1":{
+    "text":"畚箕"
+  },
+  "pun5":{
+    "text":"歕"
+  },
+  "pun5-huang1":{
+    "text":"歕风"
+  },
+  "pun7":{
+    "text":"饭"
+  },
+  "pua3-chut":{
+    "text":"播出"
+  },
+  "puah":{
+    "text":"钵"
+  },
+  "puax":{
+    "text":"跋"
+  },
+  "pwa1":{
+    "text":"搬"
+  },
+  "pwa3":{
+    "text":"半"
+  },
+  "pwa5":{
+    "text":"盘"
+  },
+  "pue1":{
+    "text":"pue | 飞、杯 | 飛、杯"
+  },
+  "pue2":{
+    "text":"붜"
+  },
+  "pue3":{
+    "text":"背"
+  },
+  "pue5":{
+    "text":"赔"
+  },
+  "pue6":{
+    "text":"倍"
+  },
+  "pue7":{
+    "text":"焙"
+  },
+  "pui1-sye1":{
+    "text":"悲伤"
+  },
+  "pui5":{
+    "text":"肥"
+  },
+  "pui7":{
+    "text":"吠"
   }
 }
