@@ -1,63 +1,48 @@
-const dictData = [
-    // {
-    //     romazi:"",
-    //     update:"",
-    //     pos:"",
-    //     hanzi:"",
-    //     descHanzi:"",
-    //     exampleHanzi:"",
-    //     descRomazi:"",
-    //     exampleRomazi:""
-    // },
-    {
-        romazi:"mih-kâi",
-        update:"2025.03.12",
-        pos:"代词",
-        hanzi:"乜个",
-        descHanzi:"",
-        exampleHanzi:"",
-        descRomazi:"",
-        exampleRomazi:""
-    },
-    // 更多数据可以在此添加...
-];
 
-function createDict() {
-    const container = document.getElementById('dict');//外层
-    
-    dictData.forEach(romazi => {
-        const romaziDiv = document.createElement('article');//1层
-        romaziDiv.className = 'card';
-        
-        const head = document.createElement('header');//2层
-        head.className = 'card-head';
-        
-            head.innerHTML=`
-                <h1 class="romazi">${romazi.romazi}</h1>
-                <div class="update">${romazi.update}</div>
+// 初始化列表
+function initList() {
+    // 注意dict.js可能着复制多份，分予每个选项！
+    // 使用 fetch 加载 JSON 文件
+    fetch('m.json') // 运行网页的相对路径指向 data.json 文件。不是以js文件为起点！
+    .then(response => {
+        if (!response.ok) {
+            throw new Error('Network response was not ok');
+        }
+        return response.json(); // 解析 JSON 数据
+    })
+    .then(dictionaryData => {
+        // 两个方案，不知道哪个快一点
+
+        // 方案一：直接设置超链接跳转（可直接复制粘贴为无JavaScript）
+        let htmlContent='';
+        Object.keys(dictionaryData).forEach(entry => {
+            htmlContent+=`
+                <a href="../item.html?word=${encodeURIComponent(entry)}">
+                   <li class="entry-item"> ${dictionaryData[entry].text}</li>
+                </a>
             `;
-        
-        const content = document.createElement('section');//2层
-        content.className = 'card-body';
+        });
+        document.getElementById('entryList').innerHTML = htmlContent;
 
-            content.innerHTML=`
-                <h2 class="part-of-speech">${romazi.pos}</h2>
-                <span class="hanzi">${romazi.hanzi}</span>
-                <div class="dingyi">
-                    <p>${romazi.descHanzi}</p>
-                    <p class="example">${romazi.exampleHanzi}</p>
-                </div>
-                <div class="tyangi">
-                    <p>${romazi.descRomazi}</p>
-                    <p class="example">${romazi.exampleRomazi}</p>
-                </div>
-            `;
-
-        romaziDiv.appendChild(head);
-        romaziDiv.appendChild(content);
-        container.appendChild(romaziDiv);
+        // 方案二：用JavaScript执行跳转
+        // const list = document.getElementById('entryList');
+        // Object.keys(dictionaryData).forEach(entry => {
+        //     const li = document.createElement('li');
+        //     li.className = 'entry-item';
+        //     // li.textContent = entry;
+        //     const text=dictionaryData[entry].text;
+        //     li.onclick = () => {
+        //         // 通过URL参数传递条目名称
+        //         window.open(`../item.html?word=${encodeURIComponent(entry)}`,"_blank");
+        //     };
+        //     const span = document.createElement('span');
+        //     span.textContent = `${text}`;
+        //     li.appendChild(span);
+        //     list.appendChild(li);
+        // });
+    })
+    .catch(error => {
+        console.error('There has been a problem with your fetch operation:', error);
     });
 }
-
-// 初始化
-window.onload = createDict;
+window.onload = initList;

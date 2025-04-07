@@ -1,8 +1,8 @@
 {
-"pa1":{
-    "text":" | 疤 | ",
+    "qa1":{
+    "text":" | 脚 | ",
     "romazi":"",
-    "hanzis":"疤",
+    "hanzis":"脚",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -13,7 +13,35 @@
     "note":"",
     "update":""
   },
-"pa1-loi2":{
+"qa2":{
+    "text":" | 卡 | ",
+    "romazi":"",
+    "hanzis":"卡",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"qa3":{
+    "text":" | 敲 | ",
+    "romazi":"",
+    "hanzis":"敲",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"qah":{
     "text":" |  | ",
     "romazi":"",
     "hanzis":"",
@@ -24,13 +52,13 @@
     "types":"",
     "definition":[""],
     "example":[""],
-    "note":"修理",
+    "note":"一般疑问句",
     "update":""
   },
-"Pa1-ki1-sir1-than2":{
-    "text":" | 巴基斯坦 | ",
+"qam1-kang1":{
+    "text":" | 湛江 | ",
     "romazi":"",
-    "hanzis":"巴基斯坦",
+    "hanzis":"湛江",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -41,10 +69,10 @@
     "note":"",
     "update":""
   },
-"Pa1-sai1":{
-    "text":" | 巴西 | ",
+"qap":{
+    "text":" | 盖 | ",
     "romazi":"",
-    "hanzis":"巴西",
+    "hanzis":"盖",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -55,10 +83,10 @@
     "note":"",
     "update":""
   },
-"pa2":{
-    "text":" | 饱 | ",
+"qap-in3":{
+    "text":" | 盖印 | ",
     "romazi":"",
-    "hanzis":"饱",
+    "hanzis":"盖印",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -69,10 +97,10 @@
     "note":"",
     "update":""
   },
-"pa2-ok":{
-    "text":" | 把握 | ",
+"qan1":{
+    "text":" | 牵 | ",
     "romazi":"",
-    "hanzis":"把握",
+    "hanzis":"牵",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -83,10 +111,10 @@
     "note":"",
     "update":""
   },
-"pa3":{
-    "text":" | 豹 | ",
+"qan3-sye3":{
+    "text":" | 看相 | ",
     "romazi":"",
-    "hanzis":"豹",
+    "hanzis":"看相",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -97,10 +125,10 @@
     "note":"",
     "update":""
   },
-"Pa3-thau5":{
-    "text":" | 坝头 | ",
+"qang1":{
+    "text":" | 空 | ",
     "romazi":"",
-    "hanzis":"坝头",
+    "hanzis":"空",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -111,10 +139,10 @@
     "note":"",
     "update":""
   },
-"pa5":{
-    "text":" | 爸 | ",
+"qang1-que3":{
+    "text":" | 工课 | ",
     "romazi":"",
-    "hanzis":"爸",
+    "hanzis":"工课",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -125,10 +153,10 @@
     "note":"",
     "update":""
   },
-"pa6-kang1":{
-    "text":" | 罢工 | ",
+"qak":{
+    "text":" | 壳 | ",
     "romazi":"",
-    "hanzis":"罢工",
+    "hanzis":"壳",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -139,24 +167,10 @@
     "note":"",
     "update":""
   },
-"pan1":{
-    "text":" | 班 | ",
+"qak-tya7":{
+    "text":" | 确定 | ",
     "romazi":"",
-    "hanzis":"班",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"条件变调-阳上",
-    "update":""
-  },
-"pan2":{
-    "text":" | 板 | ",
-    "romazi":"",
-    "hanzis":"板",
+    "hanzis":"确定",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -167,10 +181,10 @@
     "note":"",
     "update":""
   },
-"pan2-pun2":{
-    "text":" | 版本 | ",
+"qai1-sim1":{
+    "text":" | 开心 | ",
     "romazi":"",
-    "hanzis":"版本",
+    "hanzis":"开心",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -181,10 +195,10 @@
     "note":"",
     "update":""
   },
-"pat":{
-    "text":" | 𧧸 | ",
+"qau1":{
+    "text":" | 抠 | ",
     "romazi":"",
-    "hanzis":"𧧸",
+    "hanzis":"抠",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -195,10 +209,10 @@
     "note":"",
     "update":""
   },
-"pad-nang5":{
-    "text":" | 别人 | ",
+"qau1-pe5":{
+    "text":" | 抠耙 | ",
     "romazi":"",
-    "hanzis":"别人",
+    "hanzis":"抠耙",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -209,10 +223,10 @@
     "note":"",
     "update":""
   },
-"pad-zid":{
-    "text":" | 别日 | ",
+"qau2-chi3":{
+    "text":" | 考试 | ",
     "romazi":"",
-    "hanzis":"别日",
+    "hanzis":"考试",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -223,10 +237,10 @@
     "note":"",
     "update":""
   },
-"pang1":{
-    "text":" | 枋 | ",
+"qau3":{
+    "text":" | 哭 | ",
     "romazi":"",
-    "hanzis":"枋",
+    "hanzis":"哭",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -237,10 +251,10 @@
     "note":"",
     "update":""
   },
-"pang1-tso6":{
-    "text":" | 帮助 | ",
+"Qo2-lag":{
+    "text":" | 可乐 | ",
     "romazi":"",
-    "hanzis":"帮助",
+    "hanzis":"可乐",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -251,483 +265,7 @@
     "note":"",
     "update":""
   },
-"pang2-ye7":{
-    "text":" | 榜样 | ",
-    "romazi":"",
-    "hanzis":"榜样",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pang3-phui3":{
-    "text":" | 放屁 | ",
-    "romazi":"",
-    "hanzis":"放屁",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pang3-kya2":{
-    "text":" | 放囝 | ",
-    "romazi":"",
-    "hanzis":"放囝",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pang3-chiu2":{
-    "text":" | 放手 | ",
-    "romazi":"",
-    "hanzis":"放手",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pang3-sai2":{
-    "text":" | 放屎 | ",
-    "romazi":"",
-    "hanzis":"放屎",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pang3-song1":{
-    "text":" | 放松 | ",
-    "romazi":"",
-    "hanzis":"放松",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pang3-zie7":{
-    "text":" | 放尿 | ",
-    "romazi":"",
-    "hanzis":"放尿",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pak":{
-    "text":" | 北、剥、幅 | ",
-    "romazi":"",
-    "hanzis":"北、剥、幅",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pak-ki1":{
-    "text":" | 腹肌 | ",
-    "romazi":"",
-    "hanzis":"腹肌",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"Pak-kya1":{
-    "text":" | 北京 | ",
-    "romazi":"",
-    "hanzis":"北京",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pak-siah":{
-    "text":" | 剥削 | ",
-    "romazi":"",
-    "hanzis":"剥削",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pak-sia7":{
-    "text":" | 辐射 | ",
-    "romazi":"",
-    "hanzis":"辐射",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pang5-koy1":{
-    "text":" | 房间 | ",
-    "romazi":"",
-    "hanzis":"房间",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pang6":{
-    "text":" | 棒 | ",
-    "romazi":"",
-    "hanzis":"棒",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pag":{
-    "text":" | 缚 | ",
-    "romazi":"",
-    "hanzis":"缚",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pai2":{
-    "text":" | 摆 | ",
-    "romazi":"",
-    "hanzis":"摆",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pai3":{
-    "text":" | 拜 | ",
-    "romazi":"",
-    "hanzis":"拜",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pai5":{
-    "text":" | 排、牌 | ",
-    "romazi":"",
-    "hanzis":"排、牌",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pai5-tui7":{
-    "text":" | 排队 | ",
-    "romazi":"",
-    "hanzis":"排队",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pai5pai1":{
-    "text":" | 拜拜 | ",
-    "romazi":"",
-    "hanzis":"拜拜",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"不变调",
-    "update":""
-  },
-"pai7":{
-    "text":" | 败 | ",
-    "romazi":"",
-    "hanzis":"败",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pau1":{
-    "text":" | 包 | ",
-    "romazi":"",
-    "hanzis":"包",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pau6-tsa3":{
-    "text":" | 爆炸 | ",
-    "romazi":"",
-    "hanzis":"爆炸",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pau6-hir5":{
-    "text":" | 鲍鱼 | ",
-    "romazi":"",
-    "hanzis":"鲍鱼",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pau6-lag":{
-    "text":" | 暴力 | ",
-    "romazi":"",
-    "hanzis":"暴力",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"po1":{
-    "text":" | 波 | ",
-    "romazi":"",
-    "hanzis":"波",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"po1-tou7":{
-    "text":" | 坡度 | ",
-    "romazi":"",
-    "hanzis":"坡度",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"po1-li5":{
-    "text":" | 玻璃 | ",
-    "romazi":"",
-    "hanzis":"玻璃",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"po2-pi3":{
-    "text":" | 保庇 | ",
-    "romazi":"",
-    "hanzis":"保庇",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"po2-ho7":{
-    "text":" | 保护 | ",
-    "romazi":"",
-    "hanzis":"保护",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"po2-hu6":{
-    "text":" | 保护 | ",
-    "romazi":"",
-    "hanzis":"保护",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"po3-kau3":{
-    "text":" | 报告 | ",
-    "romazi":"",
-    "hanzis":"报告",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"po3-tsua2":{
-    "text":" | 报纸 | ",
-    "romazi":"",
-    "hanzis":"报纸",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pox":{
-    "text":" | 薄 | ",
-    "romazi":"",
-    "hanzis":"薄",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pong1":{
+"qo3":{
     "text":" |  | ",
     "romazi":"",
     "hanzis":"",
@@ -738,10 +276,10 @@
     "types":"",
     "definition":[""],
     "example":[""],
-    "note":"扇耳光",
+    "note":"磕",
     "update":""
   },
-"pong3":{
+"qong2":{
     "text":" |  | ",
     "romazi":"",
     "hanzis":"",
@@ -752,13 +290,13 @@
     "types":"",
     "definition":[""],
     "example":[""],
-    "note":"爆炸",
+    "note":"",
     "update":""
   },
-"poih":{
-    "text":" | 八 | ",
+"qong3-tsyi3":{
+    "text":" | 控制 | ",
     "romazi":"",
-    "hanzis":"八",
+    "hanzis":"控制",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -769,21 +307,7 @@
     "note":"",
     "update":""
   },
-"poix":{
-    "text":" | 拔 | ",
-    "romazi":"",
-    "hanzis":"拔",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"poy2":{
+"qong6":{
     "text":" |  | ",
     "romazi":"",
     "hanzis":"",
@@ -794,13 +318,13 @@
     "types":"",
     "definition":[""],
     "example":[""],
-    "note":"翻过来",
+    "note":"咳嗽声",
     "update":""
   },
-"poy5":{
-    "text":" | 爿 | ",
+"qoi1":{
+    "text":" | 溪 | ",
     "romazi":"",
-    "hanzis":"爿",
+    "hanzis":"溪",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -811,203 +335,7 @@
     "note":"",
     "update":""
   },
-"pou2":{
-    "text":" | 补 | ",
-    "romazi":"",
-    "hanzis":"补",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pou2-thau5":{
-    "text":" | 斧头 | ",
-    "romazi":"",
-    "hanzis":"斧头",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pou3":{
-    "text":" | 布 | ",
-    "romazi":"",
-    "hanzis":"布",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pou6-hun7":{
-    "text":" | 部分 | ",
-    "romazi":"",
-    "hanzis":"部分",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pou7":{
-    "text":" | 步、哺 | ",
-    "romazi":"",
-    "hanzis":"步、哺",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pe2":{
-    "text":" | 把 | ",
-    "romazi":"",
-    "hanzis":"把",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"peh":{
-    "text":" | 百、伯 | ",
-    "romazi":"",
-    "hanzis":"百、伯",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pe5":{
-    "text":" | 爬、耙 | ",
-    "romazi":"",
-    "hanzis":"爬、耙",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pe6":{
-    "text":" | 父 | ",
-    "romazi":"",
-    "hanzis":"父",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pex":{
-    "text":" | 白 | ",
-    "romazi":"",
-    "hanzis":"白",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pex-tsya2":{
-    "text":" | 白䭕 | ",
-    "romazi":"",
-    "hanzis":"白䭕",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"per3":{
-    "text":" | 柄 | ",
-    "romazi":"",
-    "hanzis":"柄",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"per5":{
-    "text":" | 平、棚 | ",
-    "romazi":"",
-    "hanzis":"平、棚",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"per7":{
-    "text":" | 病 | ",
-    "romazi":"",
-    "hanzis":"病",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"peng1":{
+"qoi3":{
     "text":" |  | ",
     "romazi":"",
     "hanzis":"",
@@ -1018,13 +346,13 @@
     "types":"",
     "definition":[""],
     "example":[""],
-    "note":"中暑",
+    "note":"吃",
     "update":""
   },
-"pek":{
-    "text":" | 逼、煏、迫 | ",
+"qoi3-ti6":{
+    "text":" | 契弟 | ",
     "romazi":"",
-    "hanzis":"逼、煏、迫",
+    "hanzis":"契弟",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1035,24 +363,10 @@
     "note":"",
     "update":""
   },
-"pek-chek":{
-    "text":" | 煏恻 | ",
+"qoih":{
+    "text":" | 轧 | ",
     "romazi":"",
-    "hanzis":"煏恻",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"x",
-    "update":""
-  },
-"peng6-liad":{
-    "text":" | 并列 | ",
-    "romazi":"",
-    "hanzis":"并列",
+    "hanzis":"轧",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1063,10 +377,10 @@
     "note":"",
     "update":""
   },
-"peng6-chya2":{
-    "text":" | 并且 | ",
+"qoy3":{
+    "text":" | 盖 | ",
     "romazi":"",
-    "hanzis":"并且",
+    "hanzis":"盖",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1077,10 +391,10 @@
     "note":"",
     "update":""
   },
-"pi2":{
-    "text":" | 比 | ",
+"qou1":{
+    "text":" | 箍 | ",
     "romazi":"",
-    "hanzis":"比",
+    "hanzis":"箍",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1091,10 +405,10 @@
     "note":"",
     "update":""
   },
-"pi2-sai3":{
-    "text":" | 比赛 | ",
+"Qou2":{
+    "text":" | 许 | ",
     "romazi":"",
-    "hanzis":"比赛",
+    "hanzis":"许",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1105,10 +419,10 @@
     "note":"",
     "update":""
   },
-"pi3":{
-    "text":" | 背 | ",
+"qou2":{
+    "text":" | 苦 | ",
     "romazi":"",
-    "hanzis":"背",
+    "hanzis":"苦",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1119,10 +433,10 @@
     "note":"",
     "update":""
   },
-"pi5":{
-    "text":" | 脾 | ",
+"qou3":{
+    "text":" | 裤 | ",
     "romazi":"",
-    "hanzis":"脾",
+    "hanzis":"裤",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1133,10 +447,10 @@
     "note":"",
     "update":""
   },
-"pi5-pe5":{
-    "text":" | 琵琶、枇杷 | ",
+"qeh":{
+    "text":" | 客 | ",
     "romazi":"",
-    "hanzis":"琵琶、枇杷",
+    "hanzis":"客",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1147,10 +461,10 @@
     "note":"",
     "update":""
   },
-"pi5-tsiu2":{
-    "text":" | 啤酒 | ",
+"qer1":{
+    "text":" | 坑 | ",
     "romazi":"",
-    "hanzis":"啤酒",
+    "hanzis":"坑",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1161,10 +475,10 @@
     "note":"",
     "update":""
   },
-"pi6":{
-    "text":" | 币 | ",
+"qeng1":{
+    "text":" | 筐 | ",
     "romazi":"",
-    "hanzis":"币",
+    "hanzis":"筐",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1175,10 +489,10 @@
     "note":"",
     "update":""
   },
-"pi7":{
-    "text":" | 被 | ",
+"qeng2":{
+    "text":" | 肯 | ",
     "romazi":"",
-    "hanzis":"被",
+    "hanzis":"肯",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1189,10 +503,10 @@
     "note":"",
     "update":""
   },
-"pi7-qui1":{
-    "text":" | 避开 | ",
+"qeng3-tya7":{
+    "text":" | 肯定 | ",
     "romazi":"",
-    "hanzis":"避开",
+    "hanzis":"肯定",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1203,10 +517,10 @@
     "note":"",
     "update":""
   },
-"pyi1":{
-    "text":" | 边、辫 | ",
+"qeng3-tsok":{
+    "text":" | 庆祝 | ",
     "romazi":"",
-    "hanzis":"边、辫",
+    "hanzis":"庆祝",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1217,10 +531,10 @@
     "note":"",
     "update":""
   },
-"pyi2":{
-    "text":" | 扁 | ",
+"qek-swa3":{
+    "text":" | 曲线 | ",
     "romazi":"",
-    "hanzis":"扁",
+    "hanzis":"曲线",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1231,10 +545,10 @@
     "note":"",
     "update":""
   },
-"pyi3":{
-    "text":" | 变 | ",
+"qeng5-hir5":{
+    "text":" | 鲸鱼 | ",
     "romazi":"",
-    "hanzis":"变",
+    "hanzis":"鲸鱼",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1245,10 +559,10 @@
     "note":"",
     "update":""
   },
-"pyi6":{
-    "text":" | 辫 | ",
+"qeng6":{
+    "text":" | 虹 | ",
     "romazi":"",
-    "hanzis":"辫",
+    "hanzis":"虹",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1259,10 +573,10 @@
     "note":"",
     "update":""
   },
-"pin2":{
-    "text":" | 品 | ",
+"qi5-hu6":{
+    "text":" | 欺负 | ",
     "romazi":"",
-    "hanzis":"品",
+    "hanzis":"欺负",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1273,10 +587,10 @@
     "note":"",
     "update":""
   },
-"pin2-tsieh":{
-    "text":" | 品质 | ",
+"qi2":{
+    "text":" | 齿 | ",
     "romazi":"",
-    "hanzis":"品质",
+    "hanzis":"齿",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1287,10 +601,10 @@
     "note":"",
     "update":""
   },
-"pin3":{
-    "text":" | 遍 | ",
+"qi2-tong6":{
+    "text":" | 启动 | ",
     "romazi":"",
-    "hanzis":"遍",
+    "hanzis":"启动",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1301,10 +615,10 @@
     "note":"",
     "update":""
   },
-"pit":{
-    "text":" | 笔 | ",
+"qi2-lai7":{
+    "text":" | 起来 | ",
     "romazi":"",
-    "hanzis":"笔",
+    "hanzis":"起来",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1315,10 +629,10 @@
     "note":"",
     "update":""
   },
-"pit-su1":{
-    "text":" | 必须 | ",
+"qih-kak":{
+    "text":" | 缺角 | ",
     "romazi":"",
-    "hanzis":"必须",
+    "hanzis":"缺角",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1329,10 +643,10 @@
     "note":"",
     "update":""
   },
-"pid-ngiab":{
-    "text":" | 毕业 | ",
+"qi5-lin5":{
+    "text":" | 麒麟 | ",
     "romazi":"",
-    "hanzis":"毕业",
+    "hanzis":"麒麟",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1343,10 +657,10 @@
     "note":"",
     "update":""
   },
-"pya1":{
-    "text":" | 冰、兵 | ",
+"qi5-sid":{
+    "text":" | 其实 | ",
     "romazi":"",
-    "hanzis":"冰、兵",
+    "hanzis":"其实",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1357,91 +671,7 @@
     "note":"",
     "update":""
   },
-"pian2":{
-    "text":" | 扁 | ",
-    "romazi":"",
-    "hanzis":"扁",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pian3":{
-    "text":" | 变 | ",
-    "romazi":"",
-    "hanzis":"变",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pian3-heng5":{
-    "text":" | 变形 | ",
-    "romazi":"",
-    "hanzis":"变形",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pian3-tsieh":{
-    "text":" | 变质 | ",
-    "romazi":"",
-    "hanzis":"变质",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pian3-sin1":{
-    "text":" | 变身 | ",
-    "romazi":"",
-    "hanzis":"变身",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"pian6-li6":{
-    "text":" | 便利 | ",
-    "romazi":"",
-    "hanzis":"便利",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"piang7":{
+"qyi5":{
     "text":" |  | ",
     "romazi":"",
     "hanzis":"",
@@ -1452,13 +682,13 @@
     "types":"",
     "definition":[""],
     "example":[""],
-    "note":"拟声词",
+    "note":"拉着",
     "update":""
   },
-"piau2-si7":{
-    "text":" | 表示 | ",
+"qyi5-kya2":{
+    "text":" | 钳囝 | ",
     "romazi":"",
-    "hanzis":"表示",
+    "hanzis":"钳囝",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1469,10 +699,10 @@
     "note":"",
     "update":""
   },
-"pie1":{
-    "text":" | 表 | ",
+"qip":{
+    "text":" | 吸、级 | ",
     "romazi":"",
-    "hanzis":"表",
+    "hanzis":"吸、级",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1483,10 +713,10 @@
     "note":"",
     "update":""
   },
-"pie2":{
-    "text":" | 表 | ",
+"qim5":{
+    "text":" | 琴 | ",
     "romazi":"",
-    "hanzis":"表",
+    "hanzis":"琴",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1497,10 +727,10 @@
     "note":"",
     "update":""
   },
-"pie3-pex":{
-    "text":" | 漂白 | ",
+"qing1":{
+    "text":" | 轻 | ",
     "romazi":"",
-    "hanzis":"漂白",
+    "hanzis":"轻",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1511,10 +741,10 @@
     "note":"",
     "update":""
   },
-"pu3":{
-    "text":" | 富 | ",
+"qia5":{
+    "text":" | 骑 | ",
     "romazi":"",
-    "hanzis":"富",
+    "hanzis":"骑",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1525,24 +755,10 @@
     "note":"",
     "update":""
   },
-"pu5":{
-    "text":" | 부、부、瓠 | ",
+"qia5":{
+    "text":" | 擎 | ",
     "romazi":"",
-    "hanzis":"부、부、瓠",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"堆",
-    "update":""
-  },
-"pu7-nng6":{
-    "text":" | 孵卵 | ",
-    "romazi":"",
-    "hanzis":"孵卵",
+    "hanzis":"擎",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1553,10 +769,10 @@
     "note":"",
     "update":""
   },
-"pun1":{
-    "text":" | 分 | ",
+"qia6":{
+    "text":" | 企 | ",
     "romazi":"",
-    "hanzis":"分",
+    "hanzis":"企",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1567,10 +783,10 @@
     "note":"",
     "update":""
   },
-"pun2-lai5":{
-    "text":" | 本来 | ",
+"qiam1-hir1":{
+    "text":" | 谦虚 | ",
     "romazi":"",
-    "hanzis":"本来",
+    "hanzis":"谦虚",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1581,10 +797,10 @@
     "note":"",
     "update":""
   },
-"pun2-sin1":{
-    "text":" | 本身 | ",
+"qiam3":{
+    "text":" | 欠 | ",
     "romazi":"",
-    "hanzis":"本身",
+    "hanzis":"欠",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1595,10 +811,10 @@
     "note":"",
     "update":""
   },
-"pun3-tau2":{
-    "text":" | 畚斗 | ",
+"qiam6":{
+    "text":" | 俭 | ",
     "romazi":"",
-    "hanzis":"畚斗",
+    "hanzis":"俭",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1609,7 +825,35 @@
     "note":"",
     "update":""
   },
-"pun3-thang2":{
+"qiang3":{
+    "text":" | 勥 | ",
+    "romazi":"",
+    "hanzis":"勥",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"qiang5-tai6":{
+    "text":" | 强大 | ",
+    "romazi":"",
+    "hanzis":"强大",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"qiau1":{
     "text":" |  | ",
     "romazi":"",
     "hanzis":"",
@@ -1620,13 +864,13 @@
     "types":"",
     "definition":[""],
     "example":[""],
-    "note":"垃圾桶",
+    "note":"穷",
     "update":""
   },
-"pun3-ki1":{
-    "text":" | 畚箕 | ",
+"qiau3":{
+    "text":" | 翘 | ",
     "romazi":"",
-    "hanzis":"畚箕",
+    "hanzis":"翘",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1637,10 +881,10 @@
     "note":"",
     "update":""
   },
-"pun5":{
-    "text":" | 歕 | ",
+"qiong2-leng5":{
+    "text":" | 恐龙 | ",
     "romazi":"",
-    "hanzis":"歕",
+    "hanzis":"恐龙",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1651,10 +895,10 @@
     "note":"",
     "update":""
   },
-"pun5-huang1":{
-    "text":" | 歕风 | ",
+"qiok":{
+    "text":" | 克 | ",
     "romazi":"",
-    "hanzis":"歕风",
+    "hanzis":"克",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1665,10 +909,10 @@
     "note":"",
     "update":""
   },
-"pun7":{
-    "text":" | 饭 | ",
+"qie7":{
+    "text":" |  | ",
     "romazi":"",
-    "hanzis":"饭",
+    "hanzis":"",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1679,10 +923,10 @@
     "note":"",
     "update":""
   },
-"pua3-chut":{
-    "text":" | 播出 | ",
+"qiex":{
+    "text":" | 挈 | ",
     "romazi":"",
-    "hanzis":"播出",
+    "hanzis":"挈",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1693,10 +937,24 @@
     "note":"",
     "update":""
   },
-"puah":{
-    "text":" | 钵 | ",
+"qiu2":{
+    "text":" |  | ",
     "romazi":"",
-    "hanzis":"钵",
+    "hanzis":"",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"爪",
+    "update":""
+  },
+"qiu5":{
+    "text":" | 求 | ",
+    "romazi":"",
+    "hanzis":"求",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1707,10 +965,10 @@
     "note":"",
     "update":""
   },
-"puax":{
-    "text":" | 跋 | ",
+"qu1":{
+    "text":" | 区 | ",
     "romazi":"",
-    "hanzis":"跋",
+    "hanzis":"区",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1721,10 +979,24 @@
     "note":"",
     "update":""
   },
-"pwa1":{
-    "text":" | 搬 | ",
+"qu5":{
+    "text":" |  | ",
     "romazi":"",
-    "hanzis":"搬",
+    "hanzis":"",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"蹲",
+    "update":""
+  },
+"qun2":{
+    "text":" | 捆 | ",
+    "romazi":"",
+    "hanzis":"捆",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1735,10 +1007,10 @@
     "note":"",
     "update":""
   },
-"pwa3":{
-    "text":" | 半 | ",
+"qun3":{
+    "text":" | 困 | ",
     "romazi":"",
-    "hanzis":"半",
+    "hanzis":"困",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1749,10 +1021,10 @@
     "note":"",
     "update":""
   },
-"pwa5":{
-    "text":" | 盘 | ",
+"qut":{
+    "text":" | 窟 | ",
     "romazi":"",
-    "hanzis":"盘",
+    "hanzis":"窟",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1763,10 +1035,10 @@
     "note":"",
     "update":""
   },
-"pue1":{
-    "text":" | 飞、杯 | ",
+"qun5":{
+    "text":" | 群 | ",
     "romazi":"",
-    "hanzis":"飞、杯",
+    "hanzis":"群",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1777,10 +1049,10 @@
     "note":"",
     "update":""
   },
-"pue3":{
-    "text":" | 背 | ",
+"qun5":{
+    "text":" | 拳 | ",
     "romazi":"",
-    "hanzis":"背",
+    "hanzis":"拳",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1791,10 +1063,10 @@
     "note":"",
     "update":""
   },
-"pue5":{
-    "text":" | 赔 | ",
+"qua3":{
+    "text":" | 挂 | ",
     "romazi":"",
-    "hanzis":"赔",
+    "hanzis":"挂",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1805,10 +1077,10 @@
     "note":"",
     "update":""
   },
-"pue6":{
-    "text":" | 倍 | ",
+"quah":{
+    "text":" | 阔 | ",
     "romazi":"",
-    "hanzis":"倍",
+    "hanzis":"阔",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1819,10 +1091,10 @@
     "note":"",
     "update":""
   },
-"pue7":{
-    "text":" | 焙 | ",
+"qwa1":{
+    "text":" | 宽 | ",
     "romazi":"",
-    "hanzis":"焙",
+    "hanzis":"宽",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1833,10 +1105,10 @@
     "note":"",
     "update":""
   },
-"pui1-sye1":{
-    "text":" | 悲伤 | ",
+"qwa1-ne7":{
+    "text":" | 宽呢 | ",
     "romazi":"",
-    "hanzis":"悲伤",
+    "hanzis":"宽呢",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1847,10 +1119,10 @@
     "note":"",
     "update":""
   },
-"pui5":{
-    "text":" | 肥 | ",
+"quan1":{
+    "text":" | 圈 | ",
     "romazi":"",
-    "hanzis":"肥",
+    "hanzis":"圈",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -1861,10 +1133,234 @@
     "note":"",
     "update":""
   },
-"pui7":{
-    "text":" | 吠 | ",
+"quan2":{
+    "text":" | 款 | ",
     "romazi":"",
-    "hanzis":"吠",
+    "hanzis":"款",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"quan5-lag":{
+    "text":" | 权力 | ",
+    "romazi":"",
+    "hanzis":"权力",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"quan5-li6":{
+    "text":" | 权利 | ",
+    "romazi":"",
+    "hanzis":"权利",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"quang3-que3":{
+    "text":" | 旷课 | ",
+    "romazi":"",
+    "hanzis":"旷课",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"quang3-tswa5-tsui2":{
+    "text":" | 矿泉水 | ",
+    "romazi":"",
+    "hanzis":"矿泉水",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"que1":{
+    "text":" | 科 | ",
+    "romazi":"",
+    "hanzis":"科",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"que3":{
+    "text":" | 课 | ",
+    "romazi":"",
+    "hanzis":"课",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"queh":{
+    "text":" | 缺 | ",
+    "romazi":"",
+    "hanzis":"缺",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"qui1":{
+    "text":" | 开 | ",
+    "romazi":"",
+    "hanzis":"开",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"qui1-pun2":{
+    "text":" | 亏本 | ",
+    "romazi":"",
+    "hanzis":"亏本",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"qui3-tsoih":{
+    "text":" | 季节 | ",
+    "romazi":"",
+    "hanzis":"季节",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"qir3":{
+    "text":" | 去 | ",
+    "romazi":"",
+    "hanzis":"去",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"qirh":{
+    "text":" | 乞 | ",
+    "romazi":"",
+    "hanzis":"乞",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"qirt":{
+    "text":" | 乞 | ",
+    "romazi":"",
+    "hanzis":"乞",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"qirn5-lau5":{
+    "text":" | 勤劳 | ",
+    "romazi":"",
+    "hanzis":"勤劳",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"qirn5-chai3":{
+    "text":" | 芹菜 | ",
+    "romazi":"",
+    "hanzis":"芹菜",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"qng3":{
+    "text":" | 囥 | ",
+    "romazi":"",
+    "hanzis":"囥",
     "hanzit":"",
     "variant":"",
     "etymology":"",

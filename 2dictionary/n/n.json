@@ -1,8 +1,8 @@
 {
-"phah":{
-    "text":" | 拍 | ",
+    "nah-sap":{
+    "text":" | 垃圾 | ",
     "romazi":"",
-    "hanzis":"拍",
+    "hanzis":"垃圾",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -13,10 +13,10 @@
     "note":"",
     "update":""
   },
-"pha6":{
-    "text":" | 泡 | ",
+"na5-kiu5":{
+    "text":" | 篮球 | ",
     "romazi":"",
-    "hanzis":"泡",
+    "hanzis":"篮球",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -27,10 +27,10 @@
     "note":"",
     "update":""
   },
-"phar3":{
-    "text":" | 冇 | ",
+"na7-si7":{
+    "text":" | 若是 | ",
     "romazi":"",
-    "hanzis":"冇",
+    "hanzis":"若是",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -41,10 +41,10 @@
     "note":"",
     "update":""
   },
-"phang1":{
-    "text":" | 芳 | ",
+"nam5":{
+    "text":" | 南 | ",
     "romazi":"",
-    "hanzis":"芳",
+    "hanzis":"南",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -55,10 +55,10 @@
     "note":"",
     "update":""
   },
-"phak-sir6":{
-    "text":" | 博士 | ",
+"nam5":{
+    "text":" | 淋 | ",
     "romazi":"",
-    "hanzis":"博士",
+    "hanzis":"淋",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -69,24 +69,10 @@
     "note":"",
     "update":""
   },
-"phang5-phai3":{
-    "text":" | 庞派 | ",
+"nang2":{
+    "text":" | 咱 | ",
     "romazi":"",
-    "hanzis":"庞派",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"x",
-    "update":""
-  },
-"phang7":{
-    "text":" | 缝 | ",
-    "romazi":"",
-    "hanzis":"缝",
+    "hanzis":"咱",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -97,10 +83,10 @@
     "note":"",
     "update":""
   },
-"phag":{
-    "text":" | 曝 | ",
+"nang5":{
+    "text":" | 人 | ",
     "romazi":"",
-    "hanzis":"曝",
+    "hanzis":"人",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -111,38 +97,10 @@
     "note":"",
     "update":""
   },
-"phai2":{
-    "text":" | 歹 | ",
+"nai2-te5":{
+    "text":" | 奶茶 | ",
     "romazi":"",
-    "hanzis":"歹",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"x",
-    "update":""
-  },
-"phai2-kya2":{
-    "text":" | 歹囝 | ",
-    "romazi":"",
-    "hanzis":"歹囝",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"x",
-    "update":""
-  },
-"phai3":{
-    "text":" | 派 | ",
-    "romazi":"",
-    "hanzis":"派",
+    "hanzis":"奶茶",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -153,10 +111,10 @@
     "note":"",
     "update":""
   },
-"phau1-qi3":{
-    "text":" | 抛弃 | ",
+"nai6":{
+    "text":" | 耐 | ",
     "romazi":"",
-    "hanzis":"抛弃",
+    "hanzis":"耐",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -167,10 +125,10 @@
     "note":"",
     "update":""
   },
-"phau2":{
-    "text":" | 跑 | ",
+"nau2":{
+    "text":" | 脑 | ",
     "romazi":"",
-    "hanzis":"跑",
+    "hanzis":"脑",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -181,10 +139,10 @@
     "note":"",
     "update":""
   },
-"phau3":{
-    "text":" | 炮 | ",
+"no3-lag":{
+    "text":" | 努力 | ",
     "romazi":"",
-    "hanzis":"炮",
+    "hanzis":"努力",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -195,10 +153,10 @@
     "note":"",
     "update":""
   },
-"pho6":{
-    "text":" | 抱 | ",
+"no6":{
+    "text":" | 两 | ",
     "romazi":"",
-    "hanzis":"抱",
+    "hanzis":"两",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -209,10 +167,10 @@
     "note":"",
     "update":""
   },
-"phoi1":{
-    "text":" | 批 | ",
+"noi5-hua5":{
+    "text":" | 莲华 | ",
     "romazi":"",
-    "hanzis":"批",
+    "hanzis":"莲华",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -223,10 +181,10 @@
     "note":"",
     "update":""
   },
-"phoy7":{
-    "text":" | 办 | ",
+"noi5-hue1":{
+    "text":" | 莲花 | ",
     "romazi":"",
-    "hanzis":"办",
+    "hanzis":"莲花",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -237,10 +195,10 @@
     "note":"",
     "update":""
   },
-"phoy7-huap":{
-    "text":" | 办法 | ",
+"noi5-tsye7":{
+    "text":" | 莲上 | ",
     "romazi":"",
-    "hanzis":"办法",
+    "hanzis":"莲上",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -251,10 +209,10 @@
     "note":"",
     "update":""
   },
-"phou1":{
-    "text":" | 铺 | ",
+"noi5-e6":{
+    "text":" | 莲下 | ",
     "romazi":"",
-    "hanzis":"铺",
+    "hanzis":"莲下",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -265,10 +223,10 @@
     "note":"",
     "update":""
   },
-"phou2-thong1":{
-    "text":" | 普通 | ",
+"nou5":{
+    "text":" | 孥 | ",
     "romazi":"",
-    "hanzis":"普通",
+    "hanzis":"孥",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -279,10 +237,10 @@
     "note":"",
     "update":""
   },
-"phou3":{
-    "text":" | 铺 | ",
+"nou5-kya2":{
+    "text":" | 孥囝 | ",
     "romazi":"",
-    "hanzis":"铺",
+    "hanzis":"孥囝",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -293,7 +251,21 @@
     "note":"",
     "update":""
   },
-"phe6":{
+"ne1":{
+    "text":" | 呢 | ",
+    "romazi":"",
+    "hanzis":"呢",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"ne1":{
     "text":" |  | ",
     "romazi":"",
     "hanzis":"",
@@ -304,13 +276,13 @@
     "types":"",
     "definition":[""],
     "example":[""],
-    "note":"飘啊飘",
+    "note":"奶",
     "update":""
   },
-"pheng1":{
-    "text":" | 拼 | ",
+"neg":{
+    "text":" | 肉 | ",
     "romazi":"",
-    "hanzis":"拼",
+    "hanzis":"肉",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -321,10 +293,10 @@
     "note":"",
     "update":""
   },
-"pheng1-im1":{
-    "text":" | 拼音 | ",
+"neg-pya2":{
+    "text":" | 肉饼 | ",
     "romazi":"",
-    "hanzis":"拼音",
+    "hanzis":"肉饼",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -335,10 +307,10 @@
     "note":"",
     "update":""
   },
-"pheng5":{
-    "text":" | 凭 | ",
+"neg-pou2":{
+    "text":" | 肉脯 | ",
     "romazi":"",
-    "hanzis":"凭",
+    "hanzis":"肉脯",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -349,10 +321,10 @@
     "note":"",
     "update":""
   },
-"phneg5-lun6":{
-    "text":" | 评论 | ",
+"neg-kue2":{
+    "text":" | 肉粿 | ",
     "romazi":"",
-    "hanzis":"评论",
+    "hanzis":"肉粿",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -363,10 +335,10 @@
     "note":"",
     "update":""
   },
-"pheng5-an1":{
-    "text":" | 平安 | ",
+"neg-yi5":{
+    "text":" | 肉圆 | ",
     "romazi":"",
-    "hanzis":"平安",
+    "hanzis":"肉圆",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -377,217 +349,7 @@
     "note":"",
     "update":""
   },
-"pheng5-iu2":{
-    "text":" | 朋友 | ",
-    "romazi":"",
-    "hanzis":"朋友",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"phi2":{
-    "text":" | 痞 | ",
-    "romazi":"",
-    "hanzis":"痞",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"结痂",
-    "update":""
-  },
-"phi5-lau5":{
-    "text":" | 疲劳 | ",
-    "romazi":"",
-    "hanzis":"疲劳",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"phyi1":{
-    "text":" | 便 | ",
-    "romazi":"",
-    "hanzis":"便",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"phyi7":{
-    "text":" | 鼻 | ",
-    "romazi":"",
-    "hanzis":"鼻",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"phit":{
-    "text":" | 匹 | ",
-    "romazi":"",
-    "hanzis":"匹",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"phin5":{
-    "text":" | 瓶 | ",
-    "romazi":"",
-    "hanzis":"瓶",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"phin5-mo6":{
-    "text":" | 屏幕 | ",
-    "romazi":"",
-    "hanzis":"屏幕",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"phin5-tau6":{
-    "text":" | 频道 | ",
-    "romazi":"",
-    "hanzis":"频道",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"phin5-kue2":{
-    "text":" | 苹果 | ",
-    "romazi":"",
-    "hanzis":"苹果",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"phiah":{
-    "text":" | 僻 | ",
-    "romazi":"",
-    "hanzis":"僻",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"phya3":{
-    "text":" | 聘 | ",
-    "romazi":"",
-    "hanzis":"聘",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"phiau1":{
-    "text":" | 标 | ",
-    "romazi":"",
-    "hanzis":"标",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"phie3":{
-    "text":" | 票 | ",
-    "romazi":"",
-    "hanzis":"票",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"phie5":{
-    "text":" | 萍 | ",
-    "romazi":"",
-    "hanzis":"萍",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"phiu5":{
+"ni2":{
     "text":" |  | ",
     "romazi":"",
     "hanzis":"",
@@ -598,10 +360,206 @@
     "types":"",
     "definition":[""],
     "example":[""],
-    "note":"扔",
+    "note":"乌贼",
     "update":""
   },
-"phu2":{
+"ni2-mo5":{
+    "text":" | 染毛 | ",
+    "romazi":"",
+    "hanzis":"染毛",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"nih":{
+    "text":" | 𥍉 | ",
+    "romazi":"",
+    "hanzis":"𥍉",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"nih-mag":{
+    "text":" | 𥍉目 | ",
+    "romazi":"",
+    "hanzis":"𥍉目",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"ni5":{
+    "text":" | 年 | ",
+    "romazi":"",
+    "hanzis":"年",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"ni6":{
+    "text":" | 奶 | ",
+    "romazi":"",
+    "hanzis":"奶",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"ning2":{
+    "text":" | 恁 | ",
+    "romazi":"",
+    "hanzis":"恁",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"nia2":{
+    "text":" | 领 | ",
+    "romazi":"",
+    "hanzis":"领",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"nia2":{
+    "text":" | 令 | ",
+    "romazi":"",
+    "hanzis":"令",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"niam7":{
+    "text":" | 念 | ",
+    "romazi":"",
+    "hanzis":"念",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"niau3":{
+    "text":" | 皱 | ",
+    "romazi":"",
+    "hanzis":"皱",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"nie2":{
+    "text":" | 两 | ",
+    "romazi":"",
+    "hanzis":"两",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"nie5":{
+    "text":" | 娘 | ",
+    "romazi":"",
+    "hanzis":"娘",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"nie5":{
+    "text":" | 量 | ",
+    "romazi":"",
+    "hanzis":"量",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"nie7":{
+    "text":" | 让 | ",
+    "romazi":"",
+    "hanzis":"让",
+    "hanzit":"",
+    "variant":"",
+    "etymology":"",
+    "partOfSpeech":"",
+    "types":"",
+    "definition":[""],
+    "example":[""],
+    "note":"",
+    "update":""
+  },
+"nua2":{
     "text":" |  | ",
     "romazi":"",
     "hanzis":"",
@@ -612,13 +570,13 @@
     "types":"",
     "definition":[""],
     "example":[""],
-    "note":"肏",
+    "note":"葛优躺",
     "update":""
   },
-"phu5":{
-    "text":" | 浮 | ",
+"nua6":{
+    "text":" | 涎 | ",
     "romazi":"",
-    "hanzis":"浮",
+    "hanzis":"涎",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -629,10 +587,10 @@
     "note":"",
     "update":""
   },
-"phu5-tho5":{
-    "text":" | 葡萄 | ",
+"nng2":{
+    "text":" | 女 | ",
     "romazi":"",
-    "hanzis":"葡萄",
+    "hanzis":"女",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -643,24 +601,10 @@
     "note":"",
     "update":""
   },
-"phun1":{
-    "text":" |  | ",
+"nng2":{
+    "text":" | 软 | ",
     "romazi":"",
-    "hanzis":"",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"泔水",
-    "update":""
-  },
-"phun3":{
-    "text":" | 喷 | ",
-    "romazi":"",
-    "hanzis":"喷",
+    "hanzis":"软",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -671,10 +615,10 @@
     "note":"",
     "update":""
   },
-"phun5":{
-    "text":" | 盆、坟 | ",
+"nng2":{
+    "text":" | 恁 | ",
     "romazi":"",
-    "hanzis":"盆、坟",
+    "hanzis":"恁",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -685,10 +629,10 @@
     "note":"",
     "update":""
   },
-"phua3":{
-    "text":" | 破 | ",
+"nng3":{
+    "text":" | 钻 | ",
     "romazi":"",
-    "hanzis":"破",
+    "hanzis":"钻",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -699,10 +643,10 @@
     "note":"",
     "update":""
   },
-"phuah":{
-    "text":" | 泼 | ",
+"nng6":{
+    "text":" | 卵 | ",
     "romazi":"",
-    "hanzis":"泼",
+    "hanzis":"卵",
     "hanzit":"",
     "variant":"",
     "etymology":"",
@@ -713,136 +657,10 @@
     "note":"",
     "update":""
   },
-"Phwa1":{
-    "text":" | 潘 | ",
+"nng6-kue2":{
+    "text":" | 卵粿 | ",
     "romazi":"",
-    "hanzis":"潘",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"phwa3":{
-    "text":" | 判 | ",
-    "romazi":"",
-    "hanzis":"判",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"phwa6":{
-    "text":" | 伴 | ",
-    "romazi":"",
-    "hanzis":"伴",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"phuan3-tuan3":{
-    "text":" | 判断 | ",
-    "romazi":"",
-    "hanzis":"判断",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"phuan5":{
-    "text":" | 盘 | ",
-    "romazi":"",
-    "hanzis":"盘",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"phue3":{
-    "text":" | 配 | ",
-    "romazi":"",
-    "hanzis":"配",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"phue5":{
-    "text":" | 皮 | ",
-    "romazi":"",
-    "hanzis":"皮",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"phue6":{
-    "text":" | 被 | ",
-    "romazi":"",
-    "hanzis":"被",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"",
-    "update":""
-  },
-"phuex":{
-    "text":" | 诐 | ",
-    "romazi":"",
-    "hanzis":"诐",
-    "hanzit":"",
-    "variant":"",
-    "etymology":"",
-    "partOfSpeech":"",
-    "types":"",
-    "definition":[""],
-    "example":[""],
-    "note":"x",
-    "update":""
-  },
-"phui3":{
-    "text":" | 屁、呸 | ",
-    "romazi":"",
-    "hanzis":"屁、呸",
+    "hanzis":"卵粿",
     "hanzit":"",
     "variant":"",
     "etymology":"",

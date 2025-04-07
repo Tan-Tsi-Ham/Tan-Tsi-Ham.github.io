@@ -1,83 +1,48 @@
-const dictData = [
-    // {
-    //     romazi:"",
-    //     update:"",
-    //     pos:"",
-    //     hanzi:"",
-    //     descHanzi:"",
-    //     exampleHanzi:"",
-    //     descRomazi:"",
-    //     exampleRomazi:""
-    // },
-    {
-        romazi: "pa",
-        update: "2025.02.07",
-        pos: "名词",
-        hanzi: "疤",
-        descHanzi: "1.一撮受伤过的地方无便变到佮以前完全平样。此块𠀾平样的地方。",
-        exampleHanzi: "我以前跛着，了tsín就留块疤按呢。",
-        descRomazi: "1.Tseg choh siǔ-sye kuē kāi tī-hng bô-piàng pyì kàu kah yí-tsôy uân-chuân pêr-yē. Tsí kò bǒi pêr-yē kāi tī-hng.",
-        exampleRomazi: "Uá yí-tsôi puax tieh, liáu tsín tsǔ lâu kò pa a-ne."
-    },
-    {
-        romazi:"pa-lói",
-        update:"2025.03.11",
-        pos:"名词",
-        hanzi:"",
-        descHanzi:"把无用的物件物伊有用。",
-        exampleHanzi:"只车无用，着pa-lói。",
-        descRomazi:"Pá bô-ēng kāi muex-kyǎ muex i ǔ-ēng.",
-        exampleRomazi:"Tsiah chia bô-ēng, tiox pa-lói."
-    },
-    {
-        romazi: "pā-pâ",
-        update: "2025.02.06",
-        pos: "名词",
-        hanzi: "爸爸",
-        descHanzi: "1.口语底叫父亲，也好简单叫做pa或pâ。",
-        exampleHanzi: "恁爸",
-        descRomazi: "1.Qáu-gír tói kiè pě-chin, iā hó kám-twa kiè tsò pa hog pâ.",
-        exampleRomazi: "nńg pa"
-    },
-    // 更多数据可以在此添加...
-];
 
-function createDict() {
-    const container = document.getElementById('dict');//外层
-    
-    dictData.forEach(romazi => {
-        const romaziDiv = document.createElement('article');//1层
-        romaziDiv.className = 'card';
-        
-        const head = document.createElement('header');//2层
-        head.className = 'card-head';
-        
-            head.innerHTML=`
-                <h1 class="romazi">${romazi.romazi}</h1>
-                <div class="update">${romazi.update}</div>
+// 初始化列表
+function initList() {
+    // 注意dict.js可能着复制多份，分予每个选项！
+    // 使用 fetch 加载 JSON 文件
+    fetch('b.json') // 运行网页的相对路径指向 data.json 文件。不是以js文件为起点！
+    .then(response => {
+        if (!response.ok) {
+            throw new Error('Network response was not ok');
+        }
+        return response.json(); // 解析 JSON 数据
+    })
+    .then(dictionaryData => {
+        // 两个方案，不知道哪个快一点
+
+        // 方案一：直接设置超链接跳转（可直接复制粘贴为无JavaScript）
+        let htmlContent='';
+        Object.keys(dictionaryData).forEach(entry => {
+            htmlContent+=`
+                <a href="../item.html?word=${encodeURIComponent(entry)}">
+                   <li class="entry-item"> ${dictionaryData[entry].text}</li>
+                </a>
             `;
-        
-        const content = document.createElement('section');//2层
-        content.className = 'card-body';
+        });
+        document.getElementById('entryList').innerHTML = htmlContent;
 
-            content.innerHTML=`
-                <h2 class="part-of-speech">${romazi.pos}</h2>
-                <span class="hanzi">${romazi.hanzi}</span>
-                <div class="dingyi">
-                    <p>${romazi.descHanzi}</p>
-                    <p class="example">${romazi.exampleHanzi}</p>
-                </div>
-                <div class="tyangi">
-                    <p>${romazi.descRomazi}</p>
-                    <p class="example">${romazi.exampleRomazi}</p>
-                </div>
-            `;
-
-        romaziDiv.appendChild(head);
-        romaziDiv.appendChild(content);
-        container.appendChild(romaziDiv);
+        // 方案二：用JavaScript执行跳转
+        // const list = document.getElementById('entryList');
+        // Object.keys(dictionaryData).forEach(entry => {
+        //     const li = document.createElement('li');
+        //     li.className = 'entry-item';
+        //     // li.textContent = entry;
+        //     const text=dictionaryData[entry].text;
+        //     li.onclick = () => {
+        //         // 通过URL参数传递条目名称
+        //         window.open(`../item.html?word=${encodeURIComponent(entry)}`,"_blank");
+        //     };
+        //     const span = document.createElement('span');
+        //     span.textContent = `${text}`;
+        //     li.appendChild(span);
+        //     list.appendChild(li);
+        // });
+    })
+    .catch(error => {
+        console.error('There has been a problem with your fetch operation:', error);
     });
 }
-
-// 初始化
-window.onload = createDict;
+window.onload = initList;

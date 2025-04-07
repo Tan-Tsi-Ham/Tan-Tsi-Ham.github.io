@@ -3,7 +3,7 @@
 function initList() {
     // 注意dict.js可能着复制多份，分予每个选项！
     // 使用 fetch 加载 JSON 文件
-    fetch('p.json') // 运行网页的相对路径指向 data.json 文件。不是以js文件为起点！
+    fetch('qitha.json') // 运行网页的相对路径指向 data.json 文件。不是以js文件为起点！
     .then(response => {
         if (!response.ok) {
             throw new Error('Network response was not ok');
