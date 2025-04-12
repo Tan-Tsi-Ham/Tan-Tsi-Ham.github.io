@@ -150,6 +150,10 @@ nav {
     color: gray;
 }
 
+/* 文字居中 */
+.center{
+    text-align: center;
+}
 
 
 /* TYPE 1 分列式 */
@@ -200,12 +204,19 @@ nav {
 
 /* 正文 */
 .content{
-    background: white;
     padding: 2rem;
-    border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(0,119,190,0.1);
+    margin: auto 15%;
 }
-
+.content h1{
+    text-align: center;
+    border-bottom: 2px solid steelblue;
+    margin-bottom: 2rem;
+}
+/* .content p{
+    text-align: center;
+    color: #333;
+    font-size: 1rem;
+} */
 
 /* TYPE 2 卡片式 */
 
@@ -273,5 +284,6 @@ th,td{
     }
     .content{
         padding: 1.5rem;
+        margin: auto;
     }
 }
