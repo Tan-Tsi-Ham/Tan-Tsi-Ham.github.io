@@ -1,0 +1,735 @@
+ul{
+    list-style-type: none;
+}
+h1 rt{
+    font-size: 1rem;
+}
+
+
+nav{
+    margin-top: 1rem;
+}
+.nav-links{
+    display:flex;
+    /* text-align: center; */
+}
+.nav-links li{
+    margin:0 auto;
+}
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: block;
+    transition: all 0.3s ease;
+    border-radius: 4px;
+    font-weight: 500;
+}
+.nav-links a:hover,.highlight a{
+    background-color: rgb(240, 228, 8);
+    color: black;
+    font-weight: bold;
+}
+/* 新增汉堡菜单样式 */
+.nav-toggle {
+    display: none;
+    background: rgb(240, 228, 8);
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+}
+/* 正文 */
+.text {
+    padding: 60px 20px;
+    font-size: 1.2rem;
+    color: var(--primary-color);
+    grid-column: 1 / -1;
+}
+.text p{
+    text-indent: 2em;
+}
+/* 表格 */
+table{
+    width:100%;
+    border-collapse: collapse;
+    margin:20px 0;
+    color: #212529;
+}
+th,td{
+    text-align: center;
+    border: 1px solid #ddd;
+}
+
+
+:root {
+    --primary-color: #518463;
+    --secondary-color: #12a9db;
+    --light-color: #f8f9fa;
+    --dark-color: #212529;
+    --success-color: #2ecc71;
+    --warning-color: #f39c12;
+    --error-color: #e74c3c;
+    --gray-color: #6c757d;
+    --language-colors: {
+        putonghua: #212529,
+        english: #3498db,
+        francais: #9b59b6,
+        thai: #e74c3c,
+        tiengviet: #2ecc71,
+        melayu: #f39c12,
+        indonesia: #1abc9c
+    };
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', 'Microsoft YaHei', sans-serif;
+}
+
+body {
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    color: var(--dark-color);
+    line-height: 1.6;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    background: white;
+    border-radius: 16px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+header {
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    color: white;
+    padding: 30px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.header-content {
+    position: relative;
+    z-index: 2;
+}
+
+.header-pattern {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: 
+        radial-gradient(circle at 10% 20%, rgba(255,255,255,0.1) 0%, transparent 20%),
+        radial-gradient(circle at 90% 80%, rgba(255,255,255,0.1) 0%, transparent 20%);
+    z-index: 1;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+}
+
+.subtitle {
+    font-size: 1.1rem;
+    opacity: 0.9;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.search-container {
+    padding: 25px;
+    background-color: white;
+    border-bottom: 1px solid #e9ecef;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+.search-box {
+    display: flex;
+    gap: 15px;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+#search-input {
+    flex: 1;
+    padding: 16px 24px;
+    border: 2px solid #dee2e6;
+    border-radius: 50px;
+    font-size: 1.1rem;
+    transition: all 0.3s ease;
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+#search-input:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 4px rgba(67, 97, 238, 0.2);
+}
+
+#search-button {
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    color: white;
+    border: none;
+    border-radius: 50px;
+    padding: 0 30px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 10px rgba(67, 97, 238, 0.3);
+}
+
+#search-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 15px rgba(67, 97, 238, 0.4);
+}
+
+.search-options {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+
+.search-option-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+
+.search-option {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.95rem;
+    color: var(--gray-color);
+    background-color: #f1f3f9;
+    padding: 8px 15px;
+    border-radius: 30px;
+}
+
+.search-info {
+    margin-top: 15px;
+    font-size: 0.9rem;
+    color: var(--gray-color);
+    text-align: center;
+}
+
+.results-container {
+    padding: 20px 30px;
+    min-height: 400px;
+}
+
+.result-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 25px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #e9ecef;
+}
+
+.result-count {
+    font-size: 1rem;
+    color: var(--gray-color);
+    background-color: #f1f3f9;
+    padding: 5px 15px;
+    border-radius: 20px;
+}
+
+.word-list {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 20px;
+}
+
+.word-item {
+    padding: 20px;
+    background-color: white;
+    border-radius: 12px;
+    border-left: 4px solid var(--primary-color);
+    transition: all 0.3s ease;
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.word-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+.word-item::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 4px;
+    background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.word-item:hover::before {
+    opacity: 1;
+}
+
+.word-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 15px;
+}
+
+.word-title {
+    flex: 1;
+}
+
+.word-text {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--dark-color);
+    margin-bottom: 5px;
+}
+
+.hanzi {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--secondary-color);
+    margin-bottom: 8px;
+}
+
+.speech {
+    display: inline-block;
+    background-color: #e9ecef;
+    color: var(--gray-color);
+    padding: 3px 10px;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    margin-right: 8px;
+}
+
+.definition {
+    color: var(--gray-color);
+    font-style: italic;
+    font-size: 0.95rem;
+}
+
+.definition-list {
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.definition-item {
+    margin-bottom: 8px;
+    padding-left: 15px;
+    position: relative;
+    color: #444;
+    line-height: 1.6;
+}
+
+.definition-item::before {
+    content: '•';
+    position: absolute;
+    left: 0;
+    color: var(--primary-color);
+}
+
+/* 感觉没必要高亮，改后面的话要改的有点多哈 */
+/* .match-highlight {
+    background-color: rgba(255, 234, 167, 0.8);
+    padding: 0 4px;
+    border-radius: 4px;
+    font-weight: 600;
+} */
+
+.language-section {
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px dashed #e9ecef;
+}
+
+.language-title {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--gray-color);
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+}
+
+.language-title::before {
+    content: '';
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    margin-right: 8px;
+}
+
+.language-putonghua .language-title::before { background-color: #212529; }
+.language-english .language-title::before { background-color: #3498db; }
+.language-francais .language-title::before { background-color: #9b59b6; }
+.language-thai .language-title::before { background-color: #e74c3c; }
+.language-tiengviet .language-title::before { background-color: #2ecc71; }
+.language-melayu .language-title::before { background-color: #f39c12; }
+.language-indonesia .language-title::before { background-color: #1abc9c; }
+
+.language-content {
+    font-size: 0.95rem;
+    color: #555;
+    line-height: 1.6;
+}
+
+.no-results {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--gray-color);
+    font-size: 1.2rem;
+    grid-column: 1 / -1;
+}
+
+.no-results i {
+    font-size: 3rem;
+    color: #dee2e6;
+    margin-bottom: 20px;
+    display: block;
+}
+
+.loading {
+    text-align: center;
+    padding: 60px 20px;
+    font-size: 1.2rem;
+    color: var(--primary-color);
+    grid-column: 1 / -1;
+}
+
+.detail-view {
+    padding: 30px;
+    background-color: white;
+    border-radius: 16px;
+    margin-top: 20px;
+    display: none;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    border: 1px solid #e9ecef;
+}
+
+.detail-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 25px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #e9ecef;
+}
+
+.back-button {
+    background: none;
+    border: none;
+    color: var(--primary-color);
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    transition: all 0.2s ease;
+}
+
+.back-button:hover {
+    background-color: #f1f3f9;
+}
+
+.detail-word {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: var(--dark-color);
+    margin-bottom: 5px;
+}
+
+.detail-hanzi {
+    font-size: 2.8rem;
+    font-weight: 700;
+    color: var(--secondary-color);
+    margin-bottom: 15px;
+}
+
+.detail-meta {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+}
+
+.detail-speech {
+    background-color: #e9ecef;
+    color: var(--gray-color);
+    padding: 5px 15px;
+    border-radius: 20px;
+    font-size: 0.95rem;
+}
+
+.detail-definition {
+    color: var(--gray-color);
+    font-style: italic;
+    font-size: 1.1rem;
+}
+
+.detail-section {
+    margin-bottom: 30px;
+}
+
+.detail-section-title {
+    font-size: 1.3rem;
+    color: var(--primary-color);
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #e9ecef;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.detail-section-title::after {
+    content: '';
+    flex: 1;
+    height: 2px;
+    background: linear-gradient(90deg, var(--primary-color), transparent);
+}
+
+.definition-list-detail {
+    padding-left: 20px;
+}
+
+.definition-item-detail {
+    margin-bottom: 12px;
+    padding-left: 20px;
+    position: relative;
+    font-size: 1.1rem;
+    line-height: 1.7;
+}
+
+.definition-item-detail::before {
+    content: '•';
+    position: absolute;
+    left: 0;
+    color: var(--primary-color);
+    font-size: 1.5rem;
+    top: -5px;
+}
+
+.language-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.language-card {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 12px;
+    border-left: 4px solid;
+}
+
+.language-card-putonghua { border-left-color: #212529;}
+.language-card-english { border-left-color: #3498db; }
+.language-card-francais { border-left-color: #9b59b6; }
+.language-card-thai { border-left-color: #e74c3c; }
+.language-card-tiengviet { border-left-color: #2ecc71; }
+.language-card-melayu { border-left-color: #f39c12; }
+.language-card-indonesia { border-left-color: #1abc9c; }
+
+.language-card-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.language-card-title::before {
+    content: '';
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+}
+
+.language-card-putonghua .language-card-title::before { background-color: #212529; }
+.language-card-english .language-card-title::before { background-color: #3498db; }
+.language-card-francais .language-card-title::before { background-color: #9b59b6; }
+.language-card-thai .language-card-title::before { background-color: #e74c3c; }
+.language-card-tiengviet .language-card-title::before { background-color: #2ecc71; }
+.language-card-melayu .language-card-title::before { background-color: #f39c12; }
+.language-card-indonesia .language-card-title::before { background-color: #1abc9c; }
+
+.language-card-content {
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.examples-list {
+    padding-left: 20px;
+}
+
+.example-item {
+    margin-bottom: 15px;
+    padding-left: 20px;
+    position: relative;
+    font-size: 1.1rem;
+    line-height: 1.7;
+    font-style: italic;
+    color: #555;
+}
+
+.example-item::before {
+    content: '"';
+    position: absolute;
+    left: 0;
+    color: var(--primary-color);
+    font-size: 1.5rem;
+    top: -5px;
+}
+
+.note-section {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 12px;
+    border-left: 4px solid var(--warning-color);
+    margin-top: 20px;
+}
+
+.note-section h3 {
+    color: var(--warning-color);
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 25px;
+    color: var(--gray-color);
+    font-size: 0.95rem;
+    border-top: 1px solid #e9ecef;
+    background-color: #f8f9fa;
+}
+
+.match-type-tag {
+    display: inline-block;
+    padding: 3px 10px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
+.word-match {
+    background-color: rgba(67, 97, 238, 0.1);
+    color: var(--primary-color);
+}
+
+.hanzi-match {
+    background-color: rgba(155, 89, 182, 0.1);
+    color: #9b59b6;
+}
+
+.definition-match {
+    background-color: rgba(46, 204, 113, 0.1);
+    color: var(--success-color);
+}
+
+.example-match {
+    background-color: rgba(199, 227, 59, 0.1);
+    color: var(--warnning-color);
+}
+
+@media (max-width: 768px) {
+    .container {
+        border-radius: 12px;
+    }
+    
+    header {
+        padding: 25px 15px;
+    }
+    
+    h1 {
+        font-size: 2rem;
+    }
+    
+    .search-container {
+        padding: 20px 15px;
+    }
+    
+    .search-box {
+        flex-direction: column;
+    }
+    
+    #search-button {
+        padding: 16px;
+        width: 100%;
+    }
+    
+    .word-list {
+        grid-template-columns: 1fr;
+    }
+    
+    .results-container {
+        padding: 15px;
+    }
+    
+    .detail-view {
+        padding: 20px;
+    }
+    
+    .detail-word {
+        font-size: 2rem;
+    }
+    
+    .language-grid {
+        grid-template-columns: 1fr;
+    }
+/* 新增汉堡菜单样式 */
+    .nav-toggle {
+        display: block;
+    }
+    
+    .nav-links {
+        display: none;
+        flex-direction: column;
+    }
+    
+    .nav-links.active {
+        display: flex;
+    }
+    
+    .nav-links li {
+        margin: 5px 0;
+    }
+}
