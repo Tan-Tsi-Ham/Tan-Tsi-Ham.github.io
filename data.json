@@ -14274,24 +14274,6 @@
     "note": ""
   },
   {
-    "word": "tyě",
-    "hanzi": "丈",
-    "speech": "称呼",
-    "definition": [
-      "",
-      ""
-    ],
-    "putonghua": "",
-    "english": "",
-    "francais": "",
-    "thai": "",
-    "tiengviet": "",
-    "melayu": "",
-    "indonesia": "",
-    "example": [],
-    "note": ""
-  },
-  {
     "word": "tu",
     "hanzi": "堆",
     "speech": "名词",
@@ -56089,11 +56071,11 @@
   },
   {
     "word": "hydrogenium",
-    "hanzi": "H,氢/氫,qing",
+    "hanzi": "H氢/氫",
     "speech": "名词",
     "definition": [
-      "1号",
-      ""
+      "1号元素",
+      "1 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56107,11 +56089,11 @@
   },
   {
     "word": "helium",
-    "hanzi": "He,",
+    "hanzi": "He氦",
     "speech": "名词",
     "definition": [
-      "2号",
-      ""
+      "2号元素",
+      "2 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56125,11 +56107,11 @@
   },
   {
     "word": "lithium",
-    "hanzi": "Li",
+    "hanzi": "Li锂/鋰",
     "speech": "名词",
     "definition": [
-      "3号",
-      ""
+      "3号元素",
+      "3 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56143,11 +56125,11 @@
   },
   {
     "word": "beryllium",
-    "hanzi": "Be",
+    "hanzi": "Be铍/鈹",
     "speech": "名词",
     "definition": [
-      "4号",
-      ""
+      "4号元素",
+      "4 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56161,11 +56143,11 @@
   },
   {
     "word": "boronium",
-    "hanzi": "B",
+    "hanzi": "B硼",
     "speech": "名词",
     "definition": [
-      "5号",
-      ""
+      "5号元素",
+      "5 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56179,11 +56161,11 @@
   },
   {
     "word": "carbonium",
-    "hanzi": "C",
+    "hanzi": "C碳",
     "speech": "名词",
     "definition": [
-      "6号",
-      ""
+      "6号元素",
+      "6 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56197,11 +56179,11 @@
   },
   {
     "word": "nitrogenium",
-    "hanzi": "N",
+    "hanzi": "N氮",
     "speech": "名词",
     "definition": [
-      "7号",
-      ""
+      "7号元素",
+      "7 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56215,11 +56197,11 @@
   },
   {
     "word": "oxygenium",
-    "hanzi": "O",
+    "hanzi": "O氧",
     "speech": "名词",
     "definition": [
-      "8号",
-      ""
+      "8号元素",
+      "8 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56233,11 +56215,11 @@
   },
   {
     "word": "fluorum",
-    "hanzi": "F",
+    "hanzi": "F氟",
     "speech": "名词",
     "definition": [
-      "9号",
-      ""
+      "9号元素",
+      "9 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56251,11 +56233,11 @@
   },
   {
     "word": "neon",
-    "hanzi": "Ne",
+    "hanzi": "Ne氖",
     "speech": "名词",
     "definition": [
-      "10号",
-      ""
+      "10号元素",
+      "10 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56269,11 +56251,11 @@
   },
   {
     "word": "natrium",
-    "hanzi": "Na",
+    "hanzi": "Na钠/鈉",
     "speech": "名词",
     "definition": [
-      "11号",
-      ""
+      "11号元素",
+      "11 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56287,11 +56269,11 @@
   },
   {
     "word": "magnesium",
-    "hanzi": "Mg",
+    "hanzi": "Mg镁/鎂",
     "speech": "名词",
     "definition": [
-      "12号",
-      ""
+      "12号元素",
+      "12 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56305,11 +56287,11 @@
   },
   {
     "word": "aluminum",
-    "hanzi": "Al",
+    "hanzi": "Al铝/鋁",
     "speech": "名词",
     "definition": [
-      "13号",
-      ""
+      "13号元素",
+      "13 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56323,11 +56305,11 @@
   },
   {
     "word": "silicium",
-    "hanzi": "Si",
+    "hanzi": "Si硅/矽",
     "speech": "名词",
     "definition": [
-      "14号",
-      ""
+      "14号元素",
+      "14 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56341,11 +56323,11 @@
   },
   {
     "word": "phosphorus",
-    "hanzi": "P",
+    "hanzi": "P磷",
     "speech": "名词",
     "definition": [
-      "15号",
-      ""
+      "15号元素",
+      "15 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56359,11 +56341,11 @@
   },
   {
     "word": "sulphur",
-    "hanzi": "S",
+    "hanzi": "S硫",
     "speech": "名词",
     "definition": [
-      "16号",
-      ""
+      "16号元素",
+      "16 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56377,11 +56359,11 @@
   },
   {
     "word": "chlorum",
-    "hanzi": "Cl",
+    "hanzi": "Cl氯/氯",
     "speech": "名词",
     "definition": [
-      "17号",
-      ""
+      "17号元素",
+      "17 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56395,11 +56377,11 @@
   },
   {
     "word": "argon",
-    "hanzi": "Ar",
+    "hanzi": "Ar氩/氬",
     "speech": "名词",
     "definition": [
-      "18号",
-      ""
+      "18号元素",
+      "18 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56413,11 +56395,11 @@
   },
   {
     "word": "kalium",
-    "hanzi": "K",
+    "hanzi": "K钾/鉀",
     "speech": "名词",
     "definition": [
-      "19号",
-      ""
+      "19号元素",
+      "19 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56431,11 +56413,11 @@
   },
   {
     "word": "calcium",
-    "hanzi": "Ca",
+    "hanzi": "Ca钙/鈣",
     "speech": "名词",
     "definition": [
-      "20号",
-      ""
+      "20号元素",
+      "20 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56449,11 +56431,11 @@
   },
   {
     "word": "scandium",
-    "hanzi": "Sc",
+    "hanzi": "Sc钪/鈧",
     "speech": "名词",
     "definition": [
-      "21号",
-      ""
+      "21号元素",
+      "21 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56467,11 +56449,11 @@
   },
   {
     "word": "titanium",
-    "hanzi": "Ti",
+    "hanzi": "Ti钛/鈦",
     "speech": "名词",
     "definition": [
-      "22号",
-      ""
+      "22号元素",
+      "22 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56485,11 +56467,11 @@
   },
   {
     "word": "vanadum",
-    "hanzi": "V",
+    "hanzi": "V钒/釩",
     "speech": "名词",
     "definition": [
-      "23号",
-      ""
+      "23号元素",
+      "23 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56503,11 +56485,11 @@
   },
   {
     "word": "chromium",
-    "hanzi": "Cr",
+    "hanzi": "Cr铬/鉻",
     "speech": "名词",
     "definition": [
-      "24号",
-      ""
+      "24号元素",
+      "24 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56521,11 +56503,11 @@
   },
   {
     "word": "manganum",
-    "hanzi": "Mn",
+    "hanzi": "Mn锰/錳",
     "speech": "名词",
     "definition": [
-      "25号",
-      ""
+      "25号元素",
+      "25 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56539,11 +56521,11 @@
   },
   {
     "word": "ferrum",
-    "hanzi": "Fe",
+    "hanzi": "Fe铁/鐵",
     "speech": "名词",
     "definition": [
-      "26号",
-      ""
+      "26号元素",
+      "26 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56557,11 +56539,11 @@
   },
   {
     "word": "cobaltum",
-    "hanzi": "Co",
+    "hanzi": "Co钴/鈷",
     "speech": "名词",
     "definition": [
-      "27号",
-      ""
+      "27号元素",
+      "27 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56575,11 +56557,11 @@
   },
   {
     "word": "niccolum",
-    "hanzi": "Ni",
+    "hanzi": "Ni镍/鎳",
     "speech": "名词",
     "definition": [
-      "28号",
-      ""
+      "28号元素",
+      "28 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56593,11 +56575,11 @@
   },
   {
     "word": "cuprum",
-    "hanzi": "Cu",
+    "hanzi": "Cu铜/銅",
     "speech": "名词",
     "definition": [
-      "29号",
-      ""
+      "29号元素",
+      "29 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56611,11 +56593,11 @@
   },
   {
     "word": "zincum",
-    "hanzi": "Zi",
+    "hanzi": "Zn锌/鋅",
     "speech": "名词",
     "definition": [
-      "30号",
-      ""
+      "30号元素",
+      "30 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56629,11 +56611,11 @@
   },
   {
     "word": "gallium",
-    "hanzi": "Ga",
+    "hanzi": "Ga镓/鎵",
     "speech": "名词",
     "definition": [
-      "31号",
-      ""
+      "31号元素",
+      "31 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56647,11 +56629,11 @@
   },
   {
     "word": "germenium",
-    "hanzi": "Ge",
+    "hanzi": "Ge锗/鍺",
     "speech": "名词",
     "definition": [
-      "32号",
-      ""
+      "32号元素",
+      "32 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56665,11 +56647,11 @@
   },
   {
     "word": "arsenicum",
-    "hanzi": "As",
+    "hanzi": "As砷",
     "speech": "名词",
     "definition": [
-      "33号",
-      ""
+      "33号元素",
+      "33 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56683,11 +56665,11 @@
   },
   {
     "word": "selenium",
-    "hanzi": "Se",
+    "hanzi": "Se硒",
     "speech": "名词",
     "definition": [
-      "34号",
-      ""
+      "34号元素",
+      "34 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56701,11 +56683,11 @@
   },
   {
     "word": "bromum",
-    "hanzi": "Br",
+    "hanzi": "Br溴",
     "speech": "名词",
     "definition": [
-      "35号",
-      ""
+      "35号元素",
+      "35 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56719,11 +56701,11 @@
   },
   {
     "word": "krypton",
-    "hanzi": "Kr",
+    "hanzi": "Kr氪",
     "speech": "名词",
     "definition": [
-      "36号",
-      ""
+      "36号元素",
+      "36 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56737,11 +56719,11 @@
   },
   {
     "word": "rubidium",
-    "hanzi": "Rb",
+    "hanzi": "Rb铷/銣",
     "speech": "名词",
     "definition": [
-      "37号",
-      ""
+      "37号元素",
+      "37 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56755,11 +56737,11 @@
   },
   {
     "word": "strontium",
-    "hanzi": "Sr",
+    "hanzi": "Sr锶/鍶",
     "speech": "名词",
     "definition": [
-      "38号",
-      ""
+      "38号元素",
+      "38 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56773,11 +56755,11 @@
   },
   {
     "word": "yttrium",
-    "hanzi": "Y",
+    "hanzi": "Y钇/釔",
     "speech": "名词",
     "definition": [
-      "39号",
-      ""
+      "39号元素",
+      "39 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56791,11 +56773,11 @@
   },
   {
     "word": "zirconium",
-    "hanzi": "Zr",
+    "hanzi": "Zr锆/鋯",
     "speech": "名词",
     "definition": [
-      "40号",
-      ""
+      "40号元素",
+      "40 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56809,11 +56791,11 @@
   },
   {
     "word": "niubium",
-    "hanzi": "Nb",
+    "hanzi": "Nb铌/鈮",
     "speech": "名词",
     "definition": [
-      "41号",
-      ""
+      "41号元素",
+      "41 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56827,11 +56809,11 @@
   },
   {
     "word": "molybdenum",
-    "hanzi": "",
+    "hanzi": "Mo钼/鉬",
     "speech": "名词",
     "definition": [
-      "42号",
-      ""
+      "42号元素",
+      "42 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56845,11 +56827,11 @@
   },
   {
     "word": "technetium",
-    "hanzi": "",
+    "hanzi": "Tc锝/鍀",
     "speech": "名词",
     "definition": [
-      "43号",
-      ""
+      "43号元素",
+      "43 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56863,11 +56845,11 @@
   },
   {
     "word": "ruthenium",
-    "hanzi": "",
+    "hanzi": "Ru钌/釕",
     "speech": "名词",
     "definition": [
-      "44号",
-      ""
+      "44号元素",
+      "44 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56881,11 +56863,11 @@
   },
   {
     "word": "rhodium",
-    "hanzi": "",
+    "hanzi": "Rh铑/銠",
     "speech": "名词",
     "definition": [
-      "45号",
-      ""
+      "45号元素",
+      "45 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56899,11 +56881,11 @@
   },
   {
     "word": "palladium",
-    "hanzi": "",
+    "hanzi": "Pd钯/鈀",
     "speech": "名词",
     "definition": [
-      "46号",
-      "46 hō"
+      "46号元素",
+      "46 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56917,11 +56899,11 @@
   },
   {
     "word": "argentum",
-    "hanzi": "",
+    "hanzi": "Ag银/銀",
     "speech": "名词",
     "definition": [
-      "47号",
-      ""
+      "47号元素",
+      "47 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56935,11 +56917,11 @@
   },
   {
     "word": "cadmium",
-    "hanzi": "",
+    "hanzi": "Cd镉/鎘",
     "speech": "名词",
     "definition": [
-      "48号",
-      ""
+      "48号元素",
+      "48 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56953,11 +56935,11 @@
   },
   {
     "word": "indium",
-    "hanzi": "",
+    "hanzi": "In铟/銦",
     "speech": "名词",
     "definition": [
-      "49号",
-      ""
+      "49号元素",
+      "49 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56971,11 +56953,11 @@
   },
   {
     "word": "stannum",
-    "hanzi": "",
+    "hanzi": "Sn锡/錫",
     "speech": "名词",
     "definition": [
-      "50号",
-      ""
+      "50号元素",
+      "50 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -56989,11 +56971,11 @@
   },
   {
     "word": "stibium",
-    "hanzi": "",
+    "hanzi": "Sb锑/銻",
     "speech": "名词",
     "definition": [
-      "51号",
-      ""
+      "51号元素",
+      "51 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57007,11 +56989,11 @@
   },
   {
     "word": "tellurium",
-    "hanzi": "",
+    "hanzi": "Te碲",
     "speech": "名词",
     "definition": [
-      "52号",
-      ""
+      "52号元素",
+      "52 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57025,11 +57007,11 @@
   },
   {
     "word": "iodum",
-    "hanzi": "",
+    "hanzi": "I碘",
     "speech": "名词",
     "definition": [
-      "53号",
-      ""
+      "53号元素",
+      "53 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57043,11 +57025,11 @@
   },
   {
     "word": "xenon",
-    "hanzi": "",
+    "hanzi": "Xe氙",
     "speech": "名词",
     "definition": [
-      "54号",
-      ""
+      "54号元素",
+      "54 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57061,11 +57043,11 @@
   },
   {
     "word": "caesium",
-    "hanzi": "",
+    "hanzi": "Cs铯/銫",
     "speech": "名词",
     "definition": [
-      "55号",
-      ""
+      "55号元素",
+      "55 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57079,11 +57061,11 @@
   },
   {
     "word": "barium",
-    "hanzi": "",
+    "hanzi": "Ba钡/鋇",
     "speech": "名词",
     "definition": [
-      "56号",
-      ""
+      "56号元素",
+      "56 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57097,11 +57079,11 @@
   },
   {
     "word": "lanthanum",
-    "hanzi": "",
+    "hanzi": "La镧/鑭",
     "speech": "名词",
     "definition": [
-      "57号",
-      ""
+      "57号元素",
+      "57 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57115,11 +57097,11 @@
   },
   {
     "word": "cerium",
-    "hanzi": "",
+    "hanzi": "Ce铈/鈰",
     "speech": "名词",
     "definition": [
-      "58号",
-      ""
+      "58号元素",
+      "58 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57133,11 +57115,11 @@
   },
   {
     "word": "praseodymium",
-    "hanzi": "",
+    "hanzi": "Pr镨/鐠",
     "speech": "名词",
     "definition": [
-      "59号",
-      ""
+      "59号元素",
+      "59 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57151,11 +57133,11 @@
   },
   {
     "word": "neodymium",
-    "hanzi": "",
+    "hanzi": "Nd钕/釹",
     "speech": "名词",
     "definition": [
-      "60号",
-      ""
+      "60号元素",
+      "60 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57169,11 +57151,11 @@
   },
   {
     "word": "promethium",
-    "hanzi": "",
+    "hanzi": "Pm钷/鉕",
     "speech": "名词",
     "definition": [
-      "61号",
-      ""
+      "61号元素",
+      "61 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57187,11 +57169,11 @@
   },
   {
     "word": "samarium",
-    "hanzi": "",
+    "hanzi": "Sm钐/釤",
     "speech": "名词",
     "definition": [
-      "62号",
-      ""
+      "62号元素",
+      "62 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57205,11 +57187,11 @@
   },
   {
     "word": "europium",
-    "hanzi": "",
+    "hanzi": "Eu铕/銪",
     "speech": "名词",
     "definition": [
-      "63号",
-      ""
+      "63号元素",
+      "63 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57223,11 +57205,11 @@
   },
   {
     "word": "gadolinium",
-    "hanzi": "",
+    "hanzi": "Gd钆/釓",
     "speech": "名词",
     "definition": [
-      "64号",
-      ""
+      "64号元素",
+      "64 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57241,11 +57223,11 @@
   },
   {
     "word": "terbium",
-    "hanzi": "",
+    "hanzi": "Tb铽/鋱",
     "speech": "名词",
     "definition": [
-      "65号",
-      ""
+      "65号元素",
+      "65 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57259,11 +57241,11 @@
   },
   {
     "word": "dysprosium",
-    "hanzi": "",
+    "hanzi": "Dy镝/鏑",
     "speech": "名词",
     "definition": [
-      "66号",
-      ""
+      "66号元素",
+      "66 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57277,11 +57259,11 @@
   },
   {
     "word": "holmiume",
-    "hanzi": "",
+    "hanzi": "Ho钬/鈥",
     "speech": "名词",
     "definition": [
-      "67号",
-      ""
+      "67号元素",
+      "67 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57295,11 +57277,11 @@
   },
   {
     "word": "erbium",
-    "hanzi": "",
+    "hanzi": "Er铒/鉺",
     "speech": "名词",
     "definition": [
-      "68号",
-      ""
+      "68号元素",
+      "68 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57313,11 +57295,11 @@
   },
   {
     "word": "thulium",
-    "hanzi": "",
+    "hanzi": "Tm铥/銩",
     "speech": "名词",
     "definition": [
-      "69号",
-      ""
+      "69号元素",
+      "69 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57331,11 +57313,11 @@
   },
   {
     "word": "ytterbium",
-    "hanzi": "",
+    "hanzi": "Yb镱/鐿",
     "speech": "名词",
     "definition": [
-      "70号",
-      ""
+      "70号元素",
+      "70 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57349,11 +57331,11 @@
   },
   {
     "word": "lutetium",
-    "hanzi": "",
+    "hanzi": "Lu镥/鑥",
     "speech": "名词",
     "definition": [
-      "71号",
-      ""
+      "71号元素",
+      "71 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57367,11 +57349,11 @@
   },
   {
     "word": "hafnium",
-    "hanzi": "",
+    "hanzi": "Hf铪/鉿",
     "speech": "名词",
     "definition": [
-      "72号",
-      ""
+      "72号元素",
+      "72 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57385,11 +57367,11 @@
   },
   {
     "word": "tantalum",
-    "hanzi": "",
+    "hanzi": "Ta钽/鉭",
     "speech": "名词",
     "definition": [
-      "73号",
-      ""
+      "73号元素",
+      "73 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57403,11 +57385,11 @@
   },
   {
     "word": "wolframium",
-    "hanzi": "",
+    "hanzi": "W钨/鎢",
     "speech": "名词",
     "definition": [
-      "74号",
-      ""
+      "74号元素",
+      "74 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57421,11 +57403,11 @@
   },
   {
     "word": "rhenium",
-    "hanzi": "",
+    "hanzi": "Re铼/錸",
     "speech": "名词",
     "definition": [
-      "75号",
-      ""
+      "75号元素",
+      "75 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57439,11 +57421,11 @@
   },
   {
     "word": "osmium",
-    "hanzi": "",
+    "hanzi": "Os锇/鋨",
     "speech": "名词",
     "definition": [
-      "76号",
-      ""
+      "76号元素",
+      "76 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57457,11 +57439,11 @@
   },
   {
     "word": "iridium",
-    "hanzi": "",
+    "hanzi": "Ir铱/銥",
     "speech": "名词",
     "definition": [
-      "77号",
-      ""
+      "77号元素",
+      "77 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57475,11 +57457,11 @@
   },
   {
     "word": "platinum",
-    "hanzi": "",
+    "hanzi": "Pt铂/鉑",
     "speech": "名词",
     "definition": [
-      "78号",
-      ""
+      "78号元素",
+      "78 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57493,11 +57475,11 @@
   },
   {
     "word": "aurum",
-    "hanzi": "",
+    "hanzi": "Au金",
     "speech": "名词",
     "definition": [
-      "79号",
-      ""
+      "79号元素",
+      "79 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57511,11 +57493,11 @@
   },
   {
     "word": "hydeagyrum",
-    "hanzi": "",
+    "hanzi": "Hg汞",
     "speech": "名词",
     "definition": [
-      "80号",
-      ""
+      "80号元素",
+      "80 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57529,11 +57511,11 @@
   },
   {
     "word": "thallium",
-    "hanzi": "",
+    "hanzi": "Tl铊/鉈",
     "speech": "名词",
     "definition": [
-      "81号",
-      ""
+      "81号元素",
+      "81 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57547,11 +57529,11 @@
   },
   {
     "word": "plumbum",
-    "hanzi": "",
+    "hanzi": "Pb铅/鉛",
     "speech": "名词",
     "definition": [
-      "82号",
-      ""
+      "82号元素",
+      "82 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57565,11 +57547,11 @@
   },
   {
     "word": "bismutum",
-    "hanzi": "",
+    "hanzi": "Bi铋/鉍",
     "speech": "名词",
     "definition": [
-      "83号",
-      ""
+      "83号元素",
+      "83 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57583,11 +57565,11 @@
   },
   {
     "word": "polonium",
-    "hanzi": "",
+    "hanzi": "Po钋/釙",
     "speech": "名词",
     "definition": [
-      "84号",
-      ""
+      "84号元素",
+      "84 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57601,11 +57583,11 @@
   },
   {
     "word": "astatum",
-    "hanzi": "",
+    "hanzi": "At砹",
     "speech": "名词",
     "definition": [
-      "85号",
-      ""
+      "85号元素",
+      "85 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57619,11 +57601,11 @@
   },
   {
     "word": "radon",
-    "hanzi": "",
+    "hanzi": "Rn氡",
     "speech": "名词",
     "definition": [
-      "86号",
-      ""
+      "86号元素",
+      "86 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57637,11 +57619,11 @@
   },
   {
     "word": "francium",
-    "hanzi": "",
+    "hanzi": "Fr钫/鈁",
     "speech": "名词",
     "definition": [
-      "87号",
-      ""
+      "87号元素",
+      "87 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57655,11 +57637,11 @@
   },
   {
     "word": "radium",
-    "hanzi": "",
+    "hanzi": "Ra镭/鐳",
     "speech": "名词",
     "definition": [
-      "88号",
-      ""
+      "88号元素",
+      "88 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57673,11 +57655,11 @@
   },
   {
     "word": "actinium",
-    "hanzi": "",
+    "hanzi": "Ac锕/錒",
     "speech": "名词",
     "definition": [
-      "89号",
-      ""
+      "89号元素",
+      "89 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57691,11 +57673,11 @@
   },
   {
     "word": "thorium",
-    "hanzi": "",
+    "hanzi": "Th钍/釷",
     "speech": "名词",
     "definition": [
-      "90号",
-      ""
+      "90号元素",
+      "90 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57709,11 +57691,11 @@
   },
   {
     "word": "protactinium",
-    "hanzi": "",
+    "hanzi": "Pa镤/鏷",
     "speech": "名词",
     "definition": [
-      "91号",
-      ""
+      "91号元素",
+      "91 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57727,11 +57709,11 @@
   },
   {
     "word": "uranium",
-    "hanzi": "",
+    "hanzi": "U铀/鈾",
     "speech": "名词",
     "definition": [
-      "92号",
-      ""
+      "92号元素",
+      "92 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57745,11 +57727,11 @@
   },
   {
     "word": "neptunium",
-    "hanzi": "",
+    "hanzi": "Np镎/錼",
     "speech": "名词",
     "definition": [
-      "93号",
-      ""
+      "93号元素",
+      "93 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57763,11 +57745,11 @@
   },
   {
     "word": "plutonium",
-    "hanzi": "",
+    "hanzi": "Pu钚/鈽",
     "speech": "名词",
     "definition": [
-      "94号",
-      ""
+      "94号元素",
+      "94 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57781,11 +57763,11 @@
   },
   {
     "word": "americium",
-    "hanzi": "",
+    "hanzi": "Am镅/鋂",
     "speech": "名词",
     "definition": [
-      "95号",
-      ""
+      "95号元素",
+      "95 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57799,11 +57781,11 @@
   },
   {
     "word": "curium",
-    "hanzi": "",
+    "hanzi": "Cm锯/鋦",
     "speech": "名词",
     "definition": [
-      "96号",
-      ""
+      "96号元素",
+      "96 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57817,11 +57799,11 @@
   },
   {
     "word": "berkelium",
-    "hanzi": "",
+    "hanzi": "Bk锫/鉳",
     "speech": "名词",
     "definition": [
-      "97号",
-      ""
+      "97号元素",
+      "97 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57835,11 +57817,11 @@
   },
   {
     "word": "californium",
-    "hanzi": "",
+    "hanzi": "Cf锎/鉲",
     "speech": "名词",
     "definition": [
-      "98号",
-      ""
+      "98号元素",
+      "98 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57853,11 +57835,11 @@
   },
   {
     "word": "einsteinium",
-    "hanzi": "",
+    "hanzi": "Es锿/鑀",
     "speech": "名词",
     "definition": [
-      "99号",
-      ""
+      "99号元素",
+      "99 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57871,11 +57853,11 @@
   },
   {
     "word": "fermium",
-    "hanzi": "",
+    "hanzi": "Fm镄/鐨",
     "speech": "名词",
     "definition": [
-      "100号",
-      ""
+      "100号元素",
+      "100 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57889,11 +57871,11 @@
   },
   {
     "word": "mendelevium",
-    "hanzi": "",
+    "hanzi": "Md钔/鍆",
     "speech": "名词",
     "definition": [
-      "101号",
-      ""
+      "101号元素",
+      "101 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57907,11 +57889,11 @@
   },
   {
     "word": "nobelium",
-    "hanzi": "",
+    "hanzi": "No锘/鍩",
     "speech": "名词",
     "definition": [
-      "102号",
-      ""
+      "102号元素",
+      "102 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57925,11 +57907,11 @@
   },
   {
     "word": "lawrencium",
-    "hanzi": "",
+    "hanzi": "Lr铹/鐒",
     "speech": "名词",
     "definition": [
-      "103号",
-      ""
+      "103号元素",
+      "103 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57943,11 +57925,11 @@
   },
   {
     "word": "rutherfordium",
-    "hanzi": "",
+    "hanzi": "Rf𬬻/鑪",
     "speech": "名词",
     "definition": [
-      "104号",
-      ""
+      "104号元素",
+      "104 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57961,11 +57943,11 @@
   },
   {
     "word": "dubnium",
-    "hanzi": "",
+    "hanzi": "Db𬭊/𨧀",
     "speech": "名词",
     "definition": [
-      "105号",
-      ""
+      "105号元素",
+      "105 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57979,11 +57961,11 @@
   },
   {
     "word": "seaborgium",
-    "hanzi": "",
+    "hanzi": "Sg𬭳/𨭎",
     "speech": "名词",
     "definition": [
-      "106号",
-      ""
+      "106号元素",
+      "106 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -57997,11 +57979,11 @@
   },
   {
     "word": "bohrium",
-    "hanzi": "",
+    "hanzi": "Bh𬭛/𨨏",
     "speech": "名词",
     "definition": [
-      "107号",
-      ""
+      "107号元素",
+      "107 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -58015,11 +57997,11 @@
   },
   {
     "word": "hassium",
-    "hanzi": "",
+    "hanzi": "Hs𬭶/𨭆",
     "speech": "名词",
     "definition": [
-      "108号",
-      ""
+      "108号元素",
+      "108 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -58033,11 +58015,11 @@
   },
   {
     "word": "meitherium",
-    "hanzi": "",
+    "hanzi": "Mt鿏/䥑",
     "speech": "名词",
     "definition": [
-      "109号",
-      ""
+      "109号元素",
+      "109 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -58051,11 +58033,11 @@
   },
   {
     "word": "darmstradtium",
-    "hanzi": "",
+    "hanzi": "Ds𫟼/鐽",
     "speech": "名词",
     "definition": [
-      "110号",
-      ""
+      "110号元素",
+      "110 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -58069,11 +58051,11 @@
   },
   {
     "word": "roentgenium",
-    "hanzi": "",
+    "hanzi": "Rg𬬭/錀",
     "speech": "名词",
     "definition": [
-      "111号",
-      ""
+      "111号元素",
+      "111 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -58087,11 +58069,29 @@
   },
   {
     "word": "copernicium",
-    "hanzi": "",
+    "hanzi": "Cn鿔/鎶",
     "speech": "名词",
     "definition": [
-      "112号",
-      ""
+      "112号元素",
+      "112 hō nguân-sù"
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "nihonium",
+    "hanzi": "Nh鿭/鉨",
+    "speech": "名词",
+    "definition": [
+      "113号元素",
+      "113 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -58105,11 +58105,29 @@
   },
   {
     "word": "flerovium",
-    "hanzi": "",
+    "hanzi": "Fl𫓧/鈇",
     "speech": "名词",
     "definition": [
-      "114号",
-      ""
+      "114号元素",
+      "114 hō nguân-sù"
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "moscovium",
+    "hanzi": "Mc镆/鏌",
+    "speech": "名词",
+    "definition": [
+      "115号元素",
+      "115 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -58123,11 +58141,47 @@
   },
   {
     "word": "livermorium",
-    "hanzi": "",
+    "hanzi": "Lv𫟷/鉝",
     "speech": "名词",
     "definition": [
-      "116号",
-      ""
+      "116号元素",
+      "116 hō nguân-sù"
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "tennessine",
+    "hanzi": "Ts鿬",
+    "speech": "名词",
+    "definition": [
+      "117号元素",
+      "117 hō nguân-sù"
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "oganesson",
+    "hanzi": "Og鿫/鿫",
+    "speech": "名词",
+    "definition": [
+      "118号元素",
+      "118 hō nguân-sù"
     ],
     "putonghua": "",
     "english": "",
@@ -59705,6 +59759,24 @@
     "example": [],
     "note": ""
   },
+    {
+    "word": "kyá",
+    "hanzi": "囝",
+    "speech": "名词",
+    "definition": [
+      "亲情，生的人。",
+      "Chin-tsyâ, ser kāi nâng."
+    ],
+    "putonghua": "儿子，女儿。",
+    "english": "Son or daughter.",
+    "francais": "Enfant.",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
   {
     "word": "niê",
     "hanzi": "娘",
@@ -60228,24 +60300,6 @@
     "note": ""
   },
   {
-    "word": "î",
-    "hanzi": "姨",
-    "speech": "名词",
-    "definition": [
-      "亲情，母的姊妹。也叫阿姨。",
-      "Chin-tsyâ, bó kâi tsí-muě. Iā kiè a-î."
-    ],
-    "putonghua": "姨妈。",
-    "english": "Aunt who is Mother's sister.",
-    "francais": "",
-    "thai": "",
-    "tiengviet": "",
-    "melayu": "",
-    "indonesia": "",
-    "example": [],
-    "note": ""
-  },
-  {
     "word": "ang",
     "hanzi": "翁",
     "speech": "名词",
@@ -60296,6 +60350,24 @@
     "tiengviet": "Mẹ.",
     "melayu": "Ibu.",
     "indonesia": "Ibu.",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "î",
+    "hanzi": "姨",
+    "speech": "名词",
+    "definition": [
+      "亲情，母的姊妹。也叫阿姨。",
+      "Chin-tsyâ, bó kâi tsí-muě. Iā kiè a-î."
+    ],
+    "putonghua": "姨妈。",
+    "english": "Aunt who is Mother's sister.",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
     "example": [],
     "note": ""
   },

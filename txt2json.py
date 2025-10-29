@@ -12,6 +12,7 @@ def extract_to_json(input_file, output_file):
             if line:  # 跳过空行
                 # pattern = r'\\entry(\{[,a-zA-Zệáàâǎāóòôǒōéèêěēíìîǐīúùûǔūḿńǹ(m̀)(m̂)(m̌)(m̄)(n̂)(ň)(n̄)\s-]+\})(\{[,\S\s]+\}|\{\})(\{[\S省市县区街道古社镇村国洲动名形容副量拟声态神仙台语气头尾连词]+\}|\{\})(\{[0-9\S，。]+\}|\{\})(\{[ō\S\s,.-]+\}|\{\})'
                 pattern = r'\\entry\{(.*?)\}\{(.*?)\}\{(.*?)\}\{(.*?)\}\{(.*?)\}\\mo\{(.*?)\}\{(.*?)\}\{(.*?)\}\{(.*?)\}\{(.*?)\}\{(.*?)\}\{(.*?)\}\{(.*?)\}'
+                # pattern = r'\\entry\{(.*?)\}\{(.*?)\}\{(.*?)\}\{(.*?)\}\{(.*?)\}'
                 match = re.search(pattern, line)
                 
                 if match:
@@ -34,6 +35,25 @@ def extract_to_json(input_file, output_file):
                         ],
                         "note":match.group(13)
                     }
+                    # data = {
+                    #     "word":match.group(1),
+                    #     "hanzi":match.group(2),
+                    #     "speech":match.group(3),
+                    #     "definition":[
+                    #         match.group(4),
+                    #         match.group(5)
+                    #     ],
+                    #     "putonghua":"",
+                    #     "english":"",
+                    #     "francais":"",
+                    #     "thai":"",
+                    #     "tiengviet":"",
+                    #     "melayu":"",
+                    #     "indonesia":"",
+                    #     "example":[
+                    #     ],
+                    #     "note":""
+                    # }
                     data_list.append(data)
     
     # 保存为JSON文件

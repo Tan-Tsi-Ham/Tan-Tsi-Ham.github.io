@@ -50,6 +50,12 @@ nav{
 .text p{
     text-indent: 2em;
 }
+.text div{
+    margin-top: 1rem;
+    padding:2px;
+    border-left: 3px solid rgb(0, 0, 0);
+    /* border-top: 1px solid black; */
+}
 /* 表格 */
 table{
     width:100%;
