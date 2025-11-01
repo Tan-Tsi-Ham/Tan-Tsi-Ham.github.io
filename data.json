@@ -3589,7 +3589,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "分发，分配。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -3600,8 +3600,8 @@
     "note": ""
   },
   {
-    "word": "pun-tsyî",
-    "hanzi": "分钱",
+    "word": "pun tsyî",
+    "hanzi": "分钱/分錢",
     "speech": "动词",
     "definition": [
       "",
@@ -3615,6 +3615,52 @@
     "melayu": "",
     "indonesia": "",
     "example": [],
+    "note": ""
+  },
+  {
+    "word": "pun a",
+    "hanzi": "分桠/分椏",
+    "speech": "动词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "开叉。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [
+      "此条河在下畔分做3桠。",
+      "Tsí tiâu hô tǒ ě pôy pun tsò 3 a.",
+      "这条河在下游分成3条支流。",
+      "This river in its lower portion divides into 3 branches."
+    ],
+    "note": ""
+  },
+  {
+    "word": "pun-a",
+    "hanzi": "分桠/分椏",
+    "speech": "动词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "开叉。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [
+      "水到此块分桠。",
+      "Tsuí kàu tsí kò pun-a.",
+      "水留到这里开始分叉。",
+      "The stream there divides into two branches."
+    ],
     "note": ""
   },
   {
@@ -18544,11 +18590,11 @@
     "hanzi": "𥍉",
     "speech": "动词",
     "definition": [
-      "",
-      ""
+      "目猛猛张金张眯。",
+      "Mag mé-mé tye kim tye mi."
     ],
-    "putonghua": "",
-    "english": "",
+    "putonghua": "眨眼睛。",
+    "english": "Wink.",
     "francais": "",
     "thai": "",
     "tiengviet": "",
@@ -20574,6 +20620,29 @@
     "note": ""
   },
   {
+    "word": "lox-sì",
+    "hanzi": "落势/落勢",
+    "speech": "形容词",
+    "definition": [
+      "位置会适合。",
+      "Ūi-tì ǒi sek-hax."
+    ],
+    "putonghua": "姿势恰当。",
+    "english": "Be into shape.",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [
+      "惦摆袂落势。",
+      "Tiām pái bǒi lox-sì.",
+      "摆的位置总是不合适。",
+      "Have not yet brought it into shape."
+    ],
+    "note": ""
+  },
+  {
     "word": "lox-hǒu",
     "hanzi": "落雨",
     "speech": "动词",
@@ -21968,6 +22037,24 @@
       ""
     ],
     "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "luí",
+    "hanzi": "蕊、蕾",
+    "speech": "量词",
+    "definition": [
+      "花形的物件。",
+      "Hue hêng kâi muex-kyǎ."
+    ],
+    "putonghua": "朵。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -27454,11 +27541,11 @@
     "hanzi": "拐",
     "speech": "动词",
     "definition": [
-      "",
-      ""
+      "只脚受伤，咯行毋自然。",
+      "Tsiah qa siǔ-sye, lo kyâ m̄ tsǐr-ziân."
     ],
-    "putonghua": "",
-    "english": "",
+    "putonghua": "瘸着脚走路。跛行。",
+    "english": "Limp.",
     "francais": "",
     "thai": "",
     "tiengviet": "",
@@ -31140,6 +31227,29 @@
     "note": ""
   },
   {
+    "word": "qui-a",
+    "hanzi": "开桠/開椏",
+    "speech": "动词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "发芽。",
+    "english": "Sprout.",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [
+      "枝尾开桠。",
+      "Ki bué qui-a.",
+      "茎部末端长新芽了。",
+      "The twigs are sprouting."
+    ],
+    "note": ""
+  },
+  {
     "word": "quì-lad",
     "hanzi": "气力",
     "speech": "名词",
@@ -33478,6 +33588,29 @@
     "indonesia": "",
     "example": [],
     "note": ""
+  },
+  {
+    "word": "tsong-kú",
+    "hanzi": "终古",
+    "speech": "形容词",
+    "definition": [
+      "一直，惦惦。",
+      "Tseg-tid, tiām-tiām."
+    ],
+    "putonghua": "总是。",
+    "english": "Always.",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [
+      "此个字呾来终久拗毋转。",
+      "Tsí kâi zī tàr lâi tsong-kú á m̄ tńg.",
+      "读这个字的时候总是拐不回正确的发音。",
+      "He never gets the pronunciation of this word right."
+    ],
+    "note": "来自AMF词典。有同音字“古”和“久”，查来感觉“古”更合适一点吧。"
   },
   {
     "word": "tsong-hax",
@@ -39550,11 +39683,11 @@
     "hanzi": "跄",
     "speech": "动词",
     "definition": [
-      "",
-      ""
+      "咯行长短脚。",
+      "Lo kyâ tn̂g tó qa."
     ],
-    "putonghua": "",
-    "english": "",
+    "putonghua": "踉踉跄跄。",
+    "english": "Walk as one does when one leg is shorter than the other.",
     "francais": "",
     "thai": "",
     "tiengviet": "",
@@ -42037,7 +42170,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "荡。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -42949,14 +43082,14 @@
   },
   {
     "word": "sì-tsyà",
-    "hanzi": "四正",
+    "hanzi": "势正/勢正",
     "speech": "形容词",
     "definition": [
-      "",
-      ""
+      "位置会着，合规矩。",
+      "Ūi-tì ǒi tiex, hax kui-kír."
     ],
-    "putonghua": "",
-    "english": "",
+    "putonghua": "整整齐齐。",
+    "english": "Be into a correct shape.",
     "francais": "",
     "thai": "",
     "tiengviet": "",
@@ -48478,11 +48611,11 @@
     "hanzi": "hyì",
     "speech": "动词",
     "definition": [
-      "",
-      ""
+      "双手惦振动。",
+      "Sang chiú tiām tin-tǎng."
     ],
-    "putonghua": "",
-    "english": "",
+    "putonghua": "手抖动。",
+    "english": "Waving or shakeing the hands.",
     "francais": "",
     "thai": "",
     "tiengviet": "",
@@ -50976,6 +51109,24 @@
     "note": ""
   },
   {
+    "word": "hîr-a",
+    "hanzi": "鱼鸦/魚鴉",
+    "speech": "名词",
+    "definition": [
+      "学名Pandion haliaetus。",
+      "Hag-miâ Pandion haliaetus."
+    ],
+    "putonghua": "鹗、鴀、鱼鹰、王鴡、雎鸠、西部鱼鹰。",
+    "english": "Osprey, sea hawk, river hawk, fish hawk.",
+    "francais": "Balbuzard pêcheur.",
+    "thai": "",
+    "tiengviet": "Ó cá.",
+    "melayu": "Burung Helang Tiram.",
+    "indonesia": "Elang tiram.",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "hngh",
     "hanzi": "hngh",
     "speech": "动词",
@@ -51048,30 +51199,35 @@
     "note": ""
   },
   {
-    "word": "a-",
-    "hanzi": "阿",
-    "speech": "词头",
-    "definition": [
-      "叫人的时候用，后爿加称呼或人名",
-      "kiè nâng kâi sî-hāu ēng, ǎu-pôy kia cheng-hu hog nâng miâ"
-    ],
-    "putonghua": "",
-    "english": "",
-    "francais": "",
-    "thai": "",
-    "tiengviet": "",
-    "melayu": "",
-    "indonesia": "",
-    "example": [],
-    "note": ""
-  },
-  {
     "word": "a",
     "hanzi": "抑",
     "speech": "连词",
     "definition": [
-      "或者是",
-      ""
+      "表示选择。",
+      "Piáu-sī suán-tox."
+    ],
+    "putonghua": "或者，还是（哪个）。",
+    "english": "Or, otherwise.",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [
+      "爱到抑未？",
+      "Ày kàu a buē？",
+      "块到了（还是）没有？",
+      "Are we/you about to arrive?"
+    ],
+    "note": ""
+  },
+ {
+    "word": "a",
+    "hanzi": "a",
+    "speech": "语气词",
+    "definition": [
+      "平常语气。",
+      "Phêng-syê gír-qì."
     ],
     "putonghua": "",
     "english": "",
@@ -51081,6 +51237,52 @@
     "melayu": "",
     "indonesia": "",
     "example": [],
+    "note": "不知道这个语气词究竟有没有，感觉和“哩”好像。"
+  },
+  {
+    "word": "-a-",
+    "hanzi": "啊",
+    "speech": "词中",
+    "definition": [
+      "放动词lìng中表示重复的动作。",
+      "Pàng tǒng-sîr lìng-tang piáu-sī têng-hok kâi tǒng-tsak."
+    ],
+    "putonghua": "做了做。",
+    "english": "Placed between two verbs indicates continuance or repetition of the action.",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [
+      "伊想啊想走掉去。",
+      "I syě-a-syě tsáu tiāu--qìr.",
+      "他想了想，最后决定跑掉了。",
+      "He thinks again and again, deciding to leave away."
+    ],
+    "note": ""
+  },
+  {
+    "word": "a-",
+    "hanzi": "阿",
+    "speech": "词头",
+    "definition": [
+      "提示爱叫人。",
+      "Thî-sī ày kiè nâng."
+    ],
+    "putonghua": "提示将叫某人。",
+    "english": "@somebody.",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [
+      "叫阿弟来食。",
+      "Kiè a-tǐ lâi tsiax.",
+      "叫弟弟来吃饭。",
+      "Ask your brother to come and have a meal."
+    ],
     "note": ""
   },
   {
@@ -51120,45 +51322,9 @@
     "note": ""
   },
   {
-    "word": "a-nôu",
-    "hanzi": "阿孥",
-    "speech": "语气词",
-    "definition": [
-      "",
-      ""
-    ],
-    "putonghua": "",
-    "english": "",
-    "francais": "",
-    "thai": "",
-    "tiengviet": "",
-    "melayu": "",
-    "indonesia": "",
-    "example": [],
-    "note": ""
-  },
-  {
     "word": "a-ne",
     "hanzi": "按呢",
     "speech": "代词",
-    "definition": [
-      "",
-      ""
-    ],
-    "putonghua": "",
-    "english": "",
-    "francais": "",
-    "thai": "",
-    "tiengviet": "",
-    "melayu": "",
-    "indonesia": "",
-    "example": [],
-    "note": ""
-  },
-  {
-    "word": "A-tsiu",
-    "hanzi": "Asia,亚洲/亞洲",
-    "speech": "洲",
     "definition": [
       "",
       ""
@@ -51178,17 +51344,22 @@
     "hanzi": "桠杈/椏杈",
     "speech": "名词",
     "definition": [
-      "",
-      ""
+      "一端分桠的长竹篙。",
+      "Tseg tuan pun-a kâi tn̂g tek-ko."
     ],
-    "putonghua": "",
-    "english": "",
+    "putonghua": "晾衣架。",
+    "english": "A crotched stick, used as a support.",
     "francais": "",
     "thai": "",
     "tiengviet": "",
     "melayu": "",
     "indonesia": "",
-    "example": [],
+    "example": [
+      "无桠杈做呢nê衫？",
+      "Bô a-che tsò-nî nê sar?",
+      "没有晾衣架怎么晾衣服？",
+      "Without crotches how can the clothes be hung out to dry?"
+    ],
     "note": ""
   },
   {
@@ -51253,14 +51424,23 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "掰。",
     "english": "",
     "francais": "",
     "thai": "",
     "tiengviet": "",
     "melayu": "",
     "indonesia": "",
-    "example": [],
+    "example": [
+      "1.拗折。",
+      "Á tsix.",
+      "掰断。",
+      "To break by bending.",
+      "2.Á tňg.",
+      "拗断。",
+      "掰成两端段。",
+      "To snap off."
+    ],
     "note": ""
   },
   {
@@ -51268,11 +51448,11 @@
     "hanzi": "拗手把",
     "speech": "动词",
     "definition": [
-      "",
-      ""
+      "用力把对方只手zix落去，比睇底人力大。",
+      "Ēng lad pá tuì-huang tsiah chiú zix lox--qìr, pí thóy tī-nâng lad tuā."
     ],
-    "putonghua": "",
-    "english": "",
+    "putonghua": "掰手腕。",
+    "english": "To test the strength by seizing each other's wrists.",
     "francais": "",
     "thai": "",
     "tiengviet": "",
@@ -51286,11 +51466,97 @@
     "hanzi": "詏",
     "speech": "动词",
     "definition": [
+      "有呾做无，无呾做有。",
+      "Ǔ tàr tsò bô, bô tàr tsò ǔ."
+    ],
+    "putonghua": "争吵，辩论。",
+    "english": "To argue.",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [
+      "詏赢，詏输。",
+      "À yâ, à su.",
+      "吵赢了，吵输了。",
+      "Out argue, or worsted in argument."
+    ],
+    "note": ""
+  },
+ {
+    "word": "ǎ",
+    "hanzi": "ǎ",
+    "speech": "语气词",
+    "definition": [
       "",
       ""
     ],
     "putonghua": "",
     "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [
+      "爱也有ǎ，就是……",
+      "Ày iā ǔ ǎ, tsǔ-sī ..."
+    ],
+    "note": ""
+  },
+  {
+    "word": "ā",
+    "hanzi": "ā",
+    "speech": "语气词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [
+      "Ā，还无爱行动抑咪？",
+      "Ā, hwa bô-ày kyâ-tǒng a-mǐ?"
+    ],
+    "note": ""
+  },
+  {
+    "word": "āh",
+    "hanzi": "啊",
+    "speech": "语气词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [
+      "咪啊！",
+      "Mǐ āh!"
+    ],
+    "note": ""
+  },
+  {
+    "word": "à-pě",
+    "hanzi": "亚父",
+    "speech": "名词",
+    "definition": [
+      "人，佮父平好。",
+      "Nâng, kah pě pêr hó."
+    ],
+    "putonghua": "义父。",
+    "english": "The best next to a father.",
     "francais": "",
     "thai": "",
     "tiengviet": "",
@@ -51315,6 +51581,27 @@
     "melayu": "",
     "indonesia": "",
     "example": [],
+    "note": ""
+  },
+  {
+    "word": "a-nôu",
+    "hanzi": "阿孥",
+    "speech": "语气词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "哎呀。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [
+      "阿孥！做呢块形按呢？",
+      "A-nôu! Tsò-nî kò hêng a-ne?"
+    ],
     "note": ""
   },
   {
@@ -51373,14 +51660,14 @@
   },
   {
     "word": "ah-phiàn",
-    "hanzi": "鸦片/鴉片,opium,英语",
+    "hanzi": "鸦片/鴉片",
     "speech": "名词",
     "definition": [
       "",
       ""
     ],
-    "putonghua": "",
-    "english": "",
+    "putonghua": "鸦片。",
+    "english": "Opium.",
     "francais": "",
     "thai": "",
     "tiengviet": "",
@@ -52813,7 +53100,7 @@
   },
   {
     "word": "ou-a",
-    "hanzi": "乌鸦",
+    "hanzi": "乌鸦/烏鴉",
     "speech": "名词",
     "definition": [
       "",
@@ -62174,10 +62461,10 @@
   {
     "word": "Tn̂g-swa",
     "hanzi": "唐山",
-    "speech": "",
+    "speech": "名词",
     "definition": [
-      "中国",
-      ""
+      "番客叫中国。",
+      "Huan-qek kiè Tong-kok."
     ],
     "putonghua": "",
     "english": "",
@@ -62191,10 +62478,10 @@
   },
   {
     "word": "Siam",
-    "hanzi": "Siam-lô,暹罗/暹羅",
+    "hanzi": "暹罗/暹羅",
     "speech": "古国",
     "definition": [
-      "",
+      "Siam-lô.",
       ""
     ],
     "putonghua": "",
@@ -62209,10 +62496,10 @@
   },
   {
     "word": "Asia",
-    "hanzi": "A-tsiu,亚洲/亞洲",
+    "hanzi": "亚洲/亞洲",
     "speech": "洲",
     "definition": [
-      "",
+      "A-tsiu.",
       ""
     ],
     "putonghua": "",
@@ -62227,10 +62514,10 @@
   },
   {
     "word": "Zhōngguó",
-    "hanzi": "Tong-kok,中国/中國",
+    "hanzi": "中国/中國",
     "speech": "国",
     "definition": [
-      "",
+      "Tong-kok.",
       ""
     ],
     "putonghua": "",
@@ -62245,10 +62532,10 @@
   },
   {
     "word": "Thai",
-    "hanzi": "Thài-kok,泰国/泰國",
+    "hanzi": "泰国/泰國",
     "speech": "国",
     "definition": [
-      "",
+      "Thài-kok.",
       ""
     ],
     "putonghua": "",
@@ -62263,10 +62550,10 @@
   },
   {
     "word": "Singapore",
-    "hanzi": "Sin-kia-po,新加坡",
+    "hanzi": "新加坡",
     "speech": "国",
     "definition": [
-      "",
+      "Sin-kia-po.",
       ""
     ],
     "putonghua": "",
@@ -62281,11 +62568,11 @@
   },
   {
     "word": "Malaysia",
-    "hanzi": "Má-lâi-sai-a,马来西亚/馬來西亞",
+    "hanzi": "马来西亚/馬來西亞",
     "speech": "国",
     "definition": [
-      "",
-      ""
+      "Bé-lâi-sai-a.",
+      "Má-lâi-si-a."
     ],
     "putonghua": "",
     "english": "",
@@ -62298,11 +62585,11 @@
     "note": ""
   },
   {
-    "word": "Nihon,Nippon",
-    "hanzi": "Zid-pún,日本",
+    "word": "Nippon",
+    "hanzi": "日本",
     "speech": "国",
     "definition": [
-      "",
+      "Zid-pún.",
       ""
     ],
     "putonghua": "",
@@ -62317,10 +62604,10 @@
   },
   {
     "word": "Hangul",
-    "hanzi": "Hân-kok,韩国",
+    "hanzi": "韩国",
     "speech": "国",
     "definition": [
-      "",
+      "Hân-kok.",
       ""
     ],
     "putonghua": "",
@@ -62335,10 +62622,10 @@
   },
   {
     "word": "Chosen",
-    "hanzi": "Tsiau-sian,朝鲜",
+    "hanzi": "朝鲜",
     "speech": "国",
     "definition": [
-      "",
+      "Tsiau-sian.",
       ""
     ],
     "putonghua": "",
@@ -62353,10 +62640,10 @@
   },
   {
     "word": "Việt Nam",
-    "hanzi": "Uad-nâm,越南",
+    "hanzi": "越南",
     "speech": "国",
     "definition": [
-      "",
+      "Uad-nâm.",
       ""
     ],
     "putonghua": "",
@@ -62371,10 +62658,10 @@
   },
   {
     "word": "Běijīng",
-    "hanzi": "Pak-kya,北京",
+    "hanzi": "北京",
     "speech": "市",
     "definition": [
-      "",
+      "Pak-kya.",
       ""
     ],
     "putonghua": "",
@@ -62389,10 +62676,10 @@
   },
   {
     "word": "Guǎngdōng",
-    "hanzi": "Kńg-tang,广东/廣東",
+    "hanzi": "广东/廣東",
     "speech": "省",
     "definition": [
-      "",
+      "Kńg-tang.",
       ""
     ],
     "putonghua": "",
@@ -62407,10 +62694,10 @@
   },
   {
     "word": "Shàntóu",
-    "hanzi": "Swa-thâu,汕头/汕頭",
+    "hanzi": "汕头/汕頭",
     "speech": "市",
     "definition": [
-      "",
+      "Swa-thâu.",
       ""
     ],
     "putonghua": "",
@@ -62425,10 +62712,10 @@
   },
   {
     "word": "Chénghǎi",
-    "hanzi": "Thêng-hái,澄海",
+    "hanzi": "澄海",
     "speech": "区",
     "definition": [
-      "",
+      "Thêng-hái.",
       ""
     ],
     "putonghua": "",
@@ -62443,10 +62730,10 @@
   },
   {
     "word": "Fèngxiáng",
-    "hanzi": "Hǒng-siâng,凤翔",
+    "hanzi": "凤翔",
     "speech": "街道",
     "definition": [
-      "",
+      "Hǒng-siâng.",
       ""
     ],
     "putonghua": "",
@@ -62461,10 +62748,10 @@
   },
   {
     "word": "Bàtóu",
-    "hanzi": "Pà-thâu,坝头/壩頭",
+    "hanzi": "坝头/壩頭",
     "speech": "古镇",
     "definition": [
-      "",
+      "Pà-thâu.",
       ""
     ],
     "putonghua": "",
@@ -62479,10 +62766,10 @@
   },
   {
     "word": "Guǎngyì",
-    "hanzi": "Kuáng-iah,广益/廣益",
+    "hanzi": "广益/廣益",
     "speech": "街道",
     "definition": [
-      "",
+      "Kuáng-iah.",
       ""
     ],
     "putonghua": "",
@@ -62497,10 +62784,82 @@
   },
   {
     "word": "Bùměi",
-    "hanzi": "Pou-bué,埔美",
+    "hanzi": "埔美",
     "speech": "社区",
     "definition": [
-      "",
+      "Pou-bué.",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Chénghuá",
+    "hanzi": "澄华",
+    "speech": "街道",
+    "definition": [
+      "Thêng-huâ.",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Shànghuá",
+    "hanzi": "上华",
+    "speech": "镇",
+    "definition": [
+      "Siǎng-huâ.",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Xiàchén",
+    "hanzi": "下陈",
+    "speech": "村",
+    "definition": [
+      "Ě-tân.",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Júchí",
+    "hanzi": "菊池",
+    "speech": "村",
+    "definition": [
+      "Kek-tî.",
       ""
     ],
     "putonghua": "",
@@ -62515,10 +62874,28 @@
   },
   {
     "word": "Liánxià",
-    "hanzi": "Nôi-ě,莲下/蓮下",
+    "hanzi": "莲下/蓮下",
     "speech": "镇",
     "definition": [
-      "",
+      "Nôi-ě.",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Jiànyáng",
+    "hanzi": "建阳",
+    "speech": "村",
+    "definition": [
+      "Kiǎn-iâng.",
       ""
     ],
     "putonghua": "",
@@ -62533,10 +62910,10 @@
   },
   {
     "word": "Wāntóu",
-    "hanzi": "Uan-thâu,湾头/灣頭",
+    "hanzi": "湾头/灣頭",
     "speech": "古镇",
     "definition": [
-      "",
+      "Uan-thâu.",
       ""
     ],
     "putonghua": "",
@@ -62551,10 +62928,244 @@
   },
   {
     "word": "Nánwān",
-    "hanzi": "Nâm-uan,南湾/南灣",
+    "hanzi": "南湾/南灣",
     "speech": "村",
     "definition": [
-      "",
+      "Nâm-uan.",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Běiwān",
+    "hanzi": "北湾/北灣",
+    "speech": "村",
+    "definition": [
+      "Pak-uan.",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Dōngwān",
+    "hanzi": "东湾/東灣",
+    "speech": "村",
+    "definition": [
+      "Tang-uan.",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Hǎihòu",
+    "hanzi": "海后",
+    "speech": "村",
+    "definition": [
+      "Hái-ǎu.",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Běicūn",
+    "hanzi": "北村",
+    "speech": "村",
+    "definition": [
+      "Pak-chng.",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Liánshàng",
+    "hanzi": "莲上",
+    "speech": "镇",
+    "definition": [
+      "Nôi-tsyē.",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Yǒngsīn",
+    "hanzi": "永新",
+    "speech": "村",
+    "definition": [
+      "Ióng-sin.",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Túchéng",
+    "hanzi": "涂城",
+    "speech": "村",
+    "definition": [
+      "Thôu-syâ.",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Zhúlín",
+    "hanzi": "竹林",
+    "speech": "村",
+    "definition": [
+      "Tek-nâ.",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Xīnán",
+    "hanzi": "溪南",
+    "speech": "镇",
+    "definition": [
+      "Qoi-nâm.",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Dōnglǐ",
+    "hanzi": "东里",
+    "speech": "镇",
+    "definition": [
+      "Tang-léng.",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Yánhóng",
+    "hanzi": "盐鸿",
+    "speech": "镇",
+    "definition": [
+      "Iâm-hông.",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Liánhuá",
+    "hanzi": "莲华",
+    "speech": "镇",
+    "definition": [
+      "Nôi-huâ.",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Lóngdū",
+    "hanzi": "隆都",
+    "speech": "镇",
+    "definition": [
+      "Lông-tou.",
       ""
     ],
     "putonghua": "",
@@ -62569,10 +63180,10 @@
   },
   {
     "word": "Cháozhōu",
-    "hanzi": "Tiê-tsiu,潮州",
+    "hanzi": "潮州",
     "speech": "市",
     "definition": [
-      "",
+      "Tiê-tsiu.",
       ""
     ],
     "putonghua": "",
@@ -62587,10 +63198,10 @@
   },
   {
     "word": "Cháoān",
-    "hanzi": "Tiê-an,潮安",
+    "hanzi": "潮安",
     "speech": "区",
     "definition": [
-      "",
+      "Tiê-an.",
       ""
     ],
     "putonghua": "",
@@ -62605,10 +63216,10 @@
   },
   {
     "word": "Jiēyáng",
-    "hanzi": "Kit-yê,揭阳/揭陽",
+    "hanzi": "揭阳/揭陽",
     "speech": "市",
     "definition": [
-      "",
+      "Kit-yê.",
       ""
     ],
     "putonghua": "",
@@ -62623,10 +63234,10 @@
   },
   {
     "word": "Shànwěi",
-    "hanzi": "Swà-bué,汕尾",
+    "hanzi": "汕尾",
     "speech": "市",
     "definition": [
-      "",
+      "Swà-bué.",
       ""
     ],
     "putonghua": "",
@@ -62641,10 +63252,100 @@
   },
   {
     "word": "Méizhōu",
-    "hanzi": "Buê-tsiu,梅州",
+    "hanzi": "梅州",
     "speech": "市",
     "definition": [
-      "",
+      "Buê-tsiu.",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Shēnzhèn",
+    "hanzi": "深圳",
+    "speech": "市",
+    "definition": [
+      "Chim-tsùn.",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Fútián",
+    "hanzi": "福田",
+    "speech": "区",
+    "definition": [
+      "Hok-thiân.",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Nánshān",
+    "hanzi": "南山",
+    "speech": "区",
+    "definition": [
+      "Nâm-san.",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Yántián",
+    "hanzi": "盐田",
+    "speech": "区",
+    "definition": [
+      "Iâm-thiân.",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Guǎngzhōu",
+    "hanzi": "广州",
+    "speech": "市",
+    "definition": [
+      "Kńg-tsiu.",
       ""
     ],
     "putonghua": "",
