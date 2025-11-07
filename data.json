@@ -1681,7 +1681,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "咀嚼。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -2221,7 +2221,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "热。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -2232,14 +2232,14 @@
     "note": ""
   },
   {
-    "word": "peng-tiex",
+    "word": "peng-tieh",
     "hanzi": "peng着",
     "speech": "动词",
     "definition": [
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "中暑。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -3463,7 +3463,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "葫芦瓜。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -4157,7 +4157,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "菠菜。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -4618,6 +4618,24 @@
     "note": ""
   },
   {
+    "word": "phang-sǎi",
+    "hanzi": "芳柿",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "柿子。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "pháng",
     "hanzi": "纺",
     "speech": "动词",
@@ -4694,8 +4712,8 @@
     "hanzi": "曝",
     "speech": "动词",
     "definition": [
-      "乞阳光照着",
-      "qirh iâng-kuang tsiè tieh"
+      "乞阳光照着。",
+      "qirh iâng-kuang tsiè tieh。"
     ],
     "putonghua": "",
     "english": "",
@@ -5198,8 +5216,8 @@
     "hanzi": "痞",
     "speech": "名词",
     "definition": [
-      "硬块，受伤后伤口撮血凝的",
-      "ngě kò, siǔ-sye ǎu sye-qáu kn̂g kāi"
+      "硬块，受伤后伤口撮血凝的。",
+      "Ngě kò, siǔ-sye ǎu sye-qáu kn̂g kāi."
     ],
     "putonghua": "",
     "english": "",
@@ -6533,7 +6551,43 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "墨鱼。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "bag-táu",
+    "hanzi": "墨斗",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "木工打线工具。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "bag-kyá",
+    "hanzi": "菝囝",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "芭乐、番石榴。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -7228,6 +7282,24 @@
     "note": ""
   },
   {
+    "word": "bé-ka",
+    "hanzi": "马鲛",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "bé-kyá",
     "hanzi": "马囝",
     "speech": "名词",
@@ -7339,6 +7411,24 @@
     "word": "bih",
     "hanzi": "覕",
     "speech": "动词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "bih-chix",
+    "hanzi": "瘪蠘",
+    "speech": "名词",
     "definition": [
       "",
       ""
@@ -9737,7 +9827,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "鳗鱼。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -9935,7 +10025,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "干燥。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -9989,7 +10079,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "干燥得蔫了。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -10327,6 +10417,42 @@
     "word": "tǎr",
     "hanzi": "淡",
     "speech": "形容词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "tǎr-kah",
+    "hanzi": "淡甲",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "tǎr-chài",
+    "hanzi": "淡菜",
+    "speech": "名词",
     "definition": [
       "",
       ""
@@ -11980,6 +12106,24 @@
     "note": ""
   },
   {
+    "word": "tōy-hîr",
+    "hanzi": "橂鱼",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "豆腐鱼、龙头鱼。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "tóu",
     "hanzi": "肚",
     "speech": "名词",
@@ -12329,7 +12473,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "用手抓握着捏。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -12342,6 +12486,24 @@
   {
     "word": "teng",
     "hanzi": "灯",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "teng-lô",
+    "hanzi": "钉螺",
     "speech": "名词",
     "definition": [
       "",
@@ -13896,6 +14058,24 @@
       ""
     ],
     "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "tiàu-kue",
+    "hanzi": "吊瓜",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "表面光滑的黄瓜。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -15652,6 +15832,24 @@
     "note": ""
   },
   {
+    "word": "thang",
+    "hanzi": "蛏",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "tháng",
     "hanzi": "桶",
     "speech": "名词",
@@ -16444,6 +16642,24 @@
     "note": ""
   },
   {
+    "word": "thóu-sak",
+    "hanzi": "土虱",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "thóu-uē",
     "hanzi": "土话",
     "speech": "名词",
@@ -16560,6 +16776,42 @@
       ""
     ],
     "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "thē",
+    "hanzi": "thē",
+    "speech": "形容词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "湿漉漉。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "thē-hîr",
+    "hanzi": "thē鱼",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "豆腐鱼、龙头鱼。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -16740,6 +16992,24 @@
       ""
     ],
     "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "thì-phuê-teg",
+    "hanzi": "thì皮teg",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "马面鲀、马面鱼。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -18172,6 +18442,24 @@
     "note": ""
   },
   {
+    "word": "nǎi",
+    "hanzi": "奈",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "náu",
     "hanzi": "脑",
     "speech": "名词",
@@ -18215,7 +18503,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "菱角。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -18227,13 +18515,13 @@
   },
   {
     "word": "nôi-kǎu",
-    "hanzi": "莲kǎu",
+    "hanzi": "莲䕧",
     "speech": "名词",
     "definition": [
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "莲藕。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -18551,6 +18839,24 @@
   },
   {
     "word": "ní",
+    "hanzi": "ní",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "ní",
     "hanzi": "染",
     "speech": "动词",
     "definition": [
@@ -18702,6 +19008,24 @@
       ""
     ],
     "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "nǐ-kue",
+    "hanzi": "奶瓜",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "木瓜。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -19854,6 +20178,24 @@
       ""
     ],
     "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "lag-sou",
+    "hanzi": "落苏",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "茄子。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -21093,6 +21435,24 @@
     "note": ""
   },
   {
+    "word": "lêng-tsix",
+    "hanzi": "龙舌",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "lêng-uax",
     "hanzi": "灵活",
     "speech": "形容词",
@@ -21353,6 +21713,24 @@
       ""
     ],
     "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "lîm-qîm",
+    "hanzi": "林檎",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "释迦果、番荔枝。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -23109,6 +23487,24 @@
     "note": ""
   },
   {
+    "word": "kan-puě",
+    "hanzi": "干贝",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "干贝。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "kan-qóu",
     "hanzi": "艰苦",
     "speech": "形容词",
@@ -23235,6 +23631,24 @@
     "note": ""
   },
   {
+    "word": "kang-tâng",
+    "hanzi": "kang-tâng",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "土豆、马铃薯。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "kang-hu",
     "hanzi": "工夫",
     "speech": "形容词",
@@ -23242,7 +23656,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "得体。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -23297,6 +23711,24 @@
       ""
     ],
     "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "kak-kue",
+    "hanzi": "角瓜",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "棱状丝瓜。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -23721,9 +24153,63 @@
     "note": ""
   },
   {
+    "word": "kâu-lag",
+    "hanzi": "猴栗",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "栗子。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "kâu-tsuí",
+    "hanzi": "猴水",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "小章鱼。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "kǎu",
     "hanzi": "厚",
     "speech": "形容词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "kǎu-hax",
+    "hanzi": "厚合",
+    "speech": "名词",
     "definition": [
       "",
       ""
@@ -23746,7 +24232,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "蚯蚓。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -23758,7 +24244,7 @@
   },
   {
     "word": "kǎu-uex",
-    "hanzi": "厚秽",
+    "hanzi": "垢秽",
     "speech": "形容词",
     "definition": [
       "人孬，袂舒服",
@@ -23812,13 +24298,13 @@
   },
   {
     "word": "ko-lě",
-    "hanzi": "ko-lě",
+    "hanzi": "高丽",
     "speech": "名词",
     "definition": [
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "卷心菜。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -24189,6 +24675,24 @@
     "note": ""
   },
   {
+    "word": "koi-nňg-kué",
+    "hanzi": "鸡卵果",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "百香果。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "kói",
     "hanzi": "改",
     "speech": "动词",
@@ -24462,6 +24966,24 @@
     "word": "kou-kòi",
     "hanzi": "估计",
     "speech": "动词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "kou-hîr",
+    "hanzi": "姑鱼",
+    "speech": "名词",
     "definition": [
       "",
       ""
@@ -25258,7 +25780,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "痛心。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -27527,6 +28049,24 @@
       ""
     ],
     "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "kuai-hîr",
+    "hanzi": "鲑鱼",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "河豚。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -30867,6 +31407,24 @@
     "note": ""
   },
   {
+    "word": "quah-mag",
+    "hanzi": "阔目",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "qwa-nē",
     "hanzi": "qwa呢",
     "speech": "副词",
@@ -31790,6 +32348,42 @@
     "note": ""
   },
   {
+    "word": "n̂g-thi",
+    "hanzi": "黄thi",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "n̂g-chyê",
+    "hanzi": "黄鲿",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "ňg",
     "hanzi": "ňg",
     "speech": "动词",
@@ -32045,6 +32639,24 @@
     "word": "ngói",
     "hanzi": "研",
     "speech": "动词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "ngóu-sún",
+    "hanzi": "午笋",
+    "speech": "名词",
     "definition": [
       "",
       ""
@@ -33591,7 +34203,7 @@
   },
   {
     "word": "tsong-kú",
-    "hanzi": "终古",
+    "hanzi": "终古/終古",
     "speech": "形容词",
     "definition": [
       "一直，惦惦。",
@@ -33605,7 +34217,7 @@
     "melayu": "",
     "indonesia": "",
     "example": [
-      "此个字呾来终久拗毋转。",
+      "此个字呾来终古拗毋转。",
       "Tsí kâi zī tàr lâi tsong-kú á m̄ tńg.",
       "读这个字的时候总是拐不回正确的发音。",
       "He never gets the pronunciation of this word right."
@@ -34657,6 +35269,42 @@
     "note": ""
   },
   {
+    "word": "tsyî-lô",
+    "hanzi": "钱螺",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "tsyî-lô-kôi",
+    "hanzi": "钱螺鲑",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "tsyî-lêng",
     "hanzi": "檐龙",
     "speech": "名词",
@@ -34682,7 +35330,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "荸荠、马蹄。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -35078,7 +35726,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "妖精。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -35089,14 +35737,14 @@
     "note": ""
   },
   {
-    "word": "tsya-neg",
-    "hanzi": "精肉",
-    "speech": "名词",
+    "word": "tsya",
+    "hanzi": "腈",
+    "speech": "形容词",
     "definition": [
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "瘦肉。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -36457,6 +37105,24 @@
     "note": ""
   },
   {
+    "word": "tsuí-ser",
+    "hanzi": "水生",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "牡蛎、生蚝。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "tsuì",
     "hanzi": "醉",
     "speech": "形容词",
@@ -37178,13 +37844,31 @@
   },
   {
     "word": "chân",
-    "hanzi": "塍、田",
+    "hanzi": "田",
     "speech": "名词",
     "definition": [
       "",
       ""
     ],
     "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": "本字是“塍”。"
+  },
+  {
+    "word": "chân-lô",
+    "hanzi": "田螺",
+    "speech": "名词",
+    "definition": [
+      "学名 Cipangopaludina cathayensis。",
+      ""
+    ],
+    "putonghua": "中华圆田螺。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -37706,7 +38390,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "汗臭味。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -37724,7 +38408,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "腥味。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -37742,7 +38426,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "喜欢乱说话，说不好听的话。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -37778,7 +38462,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "犯规，耍赖。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -37796,7 +38480,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "食物变质。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -37814,7 +38498,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "尿骚味。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -38995,6 +39679,24 @@
     "note": ""
   },
   {
+    "word": "chì-kue",
+    "hanzi": "刺瓜",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "表面带刺的黄瓜。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "chì-kńg",
     "hanzi": "试卷",
     "speech": "名词",
@@ -39411,6 +40113,24 @@
   {
     "word": "chia",
     "hanzi": "车",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "chia-pex",
+    "hanzi": "车白",
     "speech": "名词",
     "definition": [
       "",
@@ -40021,6 +40741,24 @@
     "note": ""
   },
   {
+    "word": "chyě-phyī-ham",
+    "hanzi": "象鼻蚶",
+    "speech": "动词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "chiu",
     "hanzi": "须",
     "speech": "名词",
@@ -40237,6 +40975,24 @@
     "note": ""
   },
   {
+    "word": "chiù-kue",
+    "hanzi": "chiù瓜",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "筒状丝瓜。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "chiù-qí",
     "hanzi": "漱齿",
     "speech": "动词",
@@ -40443,6 +41199,24 @@
       ""
     ],
     "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "chun-chài",
+    "hanzi": "春菜",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "芥菜。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -41253,6 +42027,24 @@
       ""
     ],
     "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "sar-mag-chix",
+    "hanzi": "三目蠘",
+    "speech": "名词",
+    "definition": [
+      "学名 Potrtunus sanguinolentus。",
+      ""
+    ],
+    "putonghua": "红星梭子蟹、三眼蟹。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -44089,6 +44881,24 @@
     "note": ""
   },
   {
+    "word": "sian-cháu",
+    "hanzi": "仙草",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "菝草。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "siat-tì",
     "hanzi": "设置",
     "speech": "动词",
@@ -45331,8 +46141,44 @@
     "note": ""
   },
   {
+    "word": "sua-mô",
+    "hanzi": "沙毛",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "sua-me",
     "hanzi": "沙me",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "sua-tsiam",
+    "hanzi": "沙尖",
     "speech": "名词",
     "definition": [
       "",
@@ -47509,8 +48355,44 @@
     "note": ""
   },
   {
+    "word": "hāu",
+    "hanzi": "鲎",
+    "speech": "名词",
+    "definition": [
+      "学名 Tachypleus tridentatus。",
+      ""
+    ],
+    "putonghua": "鲎。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "hāu-lud",
     "hanzi": "效率",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "hāu-kué",
+    "hanzi": "鲎粿",
     "speech": "名词",
     "definition": [
       "",
@@ -47600,13 +48482,31 @@
   },
   {
     "word": "ho",
-    "hanzi": "ho",
+    "hanzi": "熇",
     "speech": "动词",
     "definition": [
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "热气冒出来。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "ho-tieh",
+    "hanzi": "熇着",
+    "speech": "动词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "中暑。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -47733,6 +48633,24 @@
       ""
     ],
     "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "hô-lân-tsîr",
+    "hanzi": "荷兰薯",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "土豆、马铃薯。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -47942,7 +48860,7 @@
   },
   {
     "word": "hóy",
-    "hanzi": "hóy",
+    "hanzi": "蚬",
     "speech": "名词",
     "definition": [
       "",
@@ -48237,6 +49155,60 @@
       ""
     ],
     "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "hê-biê-kôi",
+    "hanzi": "虾苗鲑",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "腌制的海味。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "hê-kou",
+    "hanzi": "虾蛄",
+    "speech": "名词",
+    "definition": [
+      "学名 Thenus orientalis。",
+      ""
+    ],
+    "putonghua": "东方扁虾、攋尿虾，螳螂虾，虾爬子，口虾蛄，皮皮虾，富贵虾，琵琶虾。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "hê-kue",
+    "hanzi": "虾瓜",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "表面带刺的黄瓜。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -48734,13 +49706,31 @@
   },
   {
     "word": "hip",
-    "hanzi": "hip",
+    "hanzi": "熻",
     "speech": "动词",
     "definition": [
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "闷着、捂着。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+{
+    "word": "hip",
+    "hanzi": "熻",
+    "speech": "形容词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "闷热，不通风。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -50162,7 +51152,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "菠萝。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -50216,7 +51206,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "南瓜。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -50270,7 +51260,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "洋葱。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -50749,6 +51739,42 @@
     "note": ""
   },
   {
+    "word": "hue-kap",
+    "hanzi": "花蛤",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "hue-ham",
+    "hanzi": "花蚶",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "hué",
     "hanzi": "火",
     "speech": "名词",
@@ -50858,7 +51884,7 @@
   },
   {
     "word": "hueh-ham",
-    "hanzi": "血ham",
+    "hanzi": "血蚶",
     "speech": "名词",
     "definition": [
       "",
@@ -51113,7 +52139,7 @@
     "hanzi": "鱼鸦/魚鴉",
     "speech": "名词",
     "definition": [
-      "学名Pandion haliaetus。",
+      "学名 Pandion haliaetus。",
       "Hag-miâ Pandion haliaetus."
     ],
     "putonghua": "鹗、鴀、鱼鹰、王鴡、雎鸠、西部鱼鹰。",
@@ -52235,6 +53261,24 @@
     "note": ""
   },
   {
+    "word": "âng-mag-lîn",
+    "hanzi": "红目鳞",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "âng-mô",
     "hanzi": "红毛",
     "speech": "名词",
@@ -52291,6 +53335,42 @@
   {
     "word": "âng-thô-kué",
     "hanzi": "红桃粿",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "âng-neg",
+    "hanzi": "红肉",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "âng-nňg",
+    "hanzi": "红卵",
     "speech": "名词",
     "definition": [
       "",
@@ -52369,6 +53449,24 @@
       ""
     ],
     "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "âng-hue",
+    "hanzi": "红花",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "石榴花或者石榴的嫩叶。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -52746,7 +53844,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "牡蛎、生蚝。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -53099,6 +54197,24 @@
     "note": ""
   },
   {
+    "word": "ou-hîr",
+    "hanzi": "乌鱼",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "ou-a",
     "hanzi": "乌鸦/烏鴉",
     "speech": "名词",
@@ -53412,7 +54528,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "空心菜。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -54989,6 +56105,24 @@
     "note": ""
   },
   {
+    "word": "iû-muâ",
+    "hanzi": "油麻",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "芝麻。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "iû-kam",
     "hanzi": "油柑",
     "speech": "名词",
@@ -55662,7 +56796,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "芫荽、香菜。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -55879,6 +57013,42 @@
       ""
     ],
     "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "uē tôu-uē",
+    "hanzi": "画图画",
+    "speech": "动词词组",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "uē-hû-ti-tû",
+    "hanzi": "画符ti-tû",
+    "speech": "动词",
+    "definition": [
+      "四散画。",
+      "Sì-swà uē."
+    ],
+    "putonghua": "乱涂乱画。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -58481,9 +59651,63 @@
     "note": ""
   },
   {
+    "word": "Pâng",
+    "hanzi": "房",
+    "speech": "姓氏",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Pòu",
+    "hanzi": "傅",
+    "speech": "姓氏",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Pì",
+    "hanzi": "费",
+    "speech": "姓氏",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "Pung",
     "hanzi": "方",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -58501,7 +59725,7 @@
   {
     "word": "Phêr",
     "hanzi": "彭",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -58519,7 +59743,7 @@
   {
     "word": "Phwa",
     "hanzi": "潘",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -58537,7 +59761,7 @@
   {
     "word": "Tân",
     "hanzi": "陈/陳",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -58555,7 +59779,25 @@
   {
     "word": "Táng",
     "hanzi": "董",
-    "speech": "",
+    "speech": "姓氏",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Tò",
+    "hanzi": "戴",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -58573,7 +59815,7 @@
   {
     "word": "Tǒu",
     "hanzi": "杜",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -58591,7 +59833,7 @@
   {
     "word": "Tēr",
     "hanzi": "郑/鄭",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -58609,7 +59851,7 @@
   {
     "word": "Teng",
     "hanzi": "丁",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -58627,7 +59869,7 @@
   {
     "word": "Tye",
     "hanzi": "张/張",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -58645,7 +59887,7 @@
   {
     "word": "Tyě",
     "hanzi": "赵/趙",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -58663,7 +59905,7 @@
   {
     "word": "Tn̂g",
     "hanzi": "唐",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -58681,7 +59923,25 @@
   {
     "word": "Nâ",
     "hanzi": "蓝/藍",
-    "speech": "",
+    "speech": "姓氏",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Lǎi",
+    "hanzi": "赖",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -58699,7 +59959,25 @@
   {
     "word": "Lâu",
     "hanzi": "刘/劉",
-    "speech": "",
+    "speech": "姓氏",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Lôi",
+    "hanzi": "黎",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -58717,7 +59995,7 @@
   {
     "word": "Lôu",
     "hanzi": "卢/盧",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -58735,7 +60013,7 @@
   {
     "word": "Lí",
     "hanzi": "李",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -58753,7 +60031,7 @@
   {
     "word": "Lîm",
     "hanzi": "林",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -58771,7 +60049,7 @@
   {
     "word": "Kang",
     "hanzi": "江",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -58789,7 +60067,7 @@
   {
     "word": "Ko",
     "hanzi": "高",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -58807,7 +60085,7 @@
   {
     "word": "Kua",
     "hanzi": "柯",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -58825,7 +60103,7 @@
   {
     "word": "Kueh",
     "hanzi": "郭",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -58843,7 +60121,7 @@
   {
     "word": "Qóu",
     "hanzi": "许/許",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -58861,7 +60139,25 @@
   {
     "word": "Qu",
     "hanzi": "邱",
-    "speech": "",
+    "speech": "姓氏",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Gôi",
+    "hanzi": "倪",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -58879,7 +60175,7 @@
   {
     "word": "Gôu",
     "hanzi": "吴",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -58897,7 +60193,25 @@
   {
     "word": "N̂g",
     "hanzi": "黄",
-    "speech": "",
+    "speech": "姓氏",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Nguán",
+    "hanzi": "阮",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -58915,7 +60229,7 @@
   {
     "word": "Tsang",
     "hanzi": "曾",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -58933,7 +60247,7 @@
   {
     "word": "Tsiā",
     "hanzi": "谢",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -58951,7 +60265,7 @@
   {
     "word": "Tsiam",
     "hanzi": "詹",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -58969,7 +60283,7 @@
   {
     "word": "Tsiu",
     "hanzi": "周",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -58987,7 +60301,7 @@
   {
     "word": "Tsu",
     "hanzi": "朱",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -59005,7 +60319,7 @@
   {
     "word": "Chwà",
     "hanzi": "蔡",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -59023,7 +60337,7 @@
   {
     "word": "Sòng",
     "hanzi": "宋",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -59041,7 +60355,7 @@
   {
     "word": "Sou",
     "hanzi": "苏",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -59059,7 +60373,7 @@
   {
     "word": "Sím",
     "hanzi": "沈",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -59077,7 +60391,7 @@
   {
     "word": "Syē",
     "hanzi": "邵",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -59095,7 +60409,7 @@
   {
     "word": "Sng",
     "hanzi": "孙/孫",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -59113,7 +60427,7 @@
   {
     "word": "Hêng",
     "hanzi": "王",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -59131,7 +60445,43 @@
   {
     "word": "Hiǎ",
     "hanzi": "蚁/蟻",
-    "speech": "",
+    "speech": "姓氏",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Hyâ",
+    "hanzi": "连",
+    "speech": "姓氏",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Âng",
+    "hanzi": "洪",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -59149,7 +60499,7 @@
   {
     "word": "Eng",
     "hanzi": "翁",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -59167,7 +60517,7 @@
   {
     "word": "Iab",
     "hanzi": "叶/葉",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -59180,12 +60530,12 @@
     "melayu": "",
     "indonesia": "",
     "example": [],
-    "note": ""
+    "note": "好像有的地方读Hiab，存疑。"
   },
   {
     "word": "Iê",
     "hanzi": "姚",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -59203,7 +60553,7 @@
   {
     "word": "Yê",
     "hanzi": "杨/楊",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
@@ -59221,7 +60571,7 @@
   {
     "word": "Un",
     "hanzi": "温",
-    "speech": "",
+    "speech": "姓氏",
     "definition": [
       "",
       ""
