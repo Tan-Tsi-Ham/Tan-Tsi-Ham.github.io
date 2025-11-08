@@ -13,14 +13,14 @@ document.addEventListener('DOMContentLoaded', async () => {
     const wordMatchCheckbox = document.getElementById('word-match');
     const hanziMatchCheckbox = document.getElementById('hanzi-match');
     const definitionMatchCheckbox = document.getElementById('definition-match');
-    const exampleMatchCheckbox = document.getElementById('example-match');
+    const radicalMatchCheckbox = document.getElementById('radical-match');
     
     let dictionary = [];
     
     // 加载词典数据
     const loadDictionary = async () => {
         try {
-            const response = await fetch('data.json');
+            const response = await fetch('hanzi.json');
             if (!response.ok) {
                 throw new Error('无便加载辞典数据');
             }
@@ -77,6 +77,12 @@ document.addEventListener('DOMContentLoaded', async () => {
                 entry.hanzi.includes(query)) {
                 matchType = 'hanzi';
             }
+
+            // 检查例句匹配
+            if (!matchType && radicalMatchCheckbox.checked && entry.radical &&
+                entry.radical.includes(query)){
+                    matchType = 'radical';
+                }
             
             // 检查释义匹配
             if (!matchType && definitionMatchCheckbox.checked && entry.definition) {
@@ -104,16 +110,6 @@ document.addEventListener('DOMContentLoaded', async () => {
                 matchType = 'definition';
             }
             
-            // 检查例句匹配
-            if (!matchType && exampleMatchCheckbox.checked && entry.example) {
-                const exampleMatch = entry.example.some(def => 
-                    def.toLowerCase().includes(query.toLowerCase()));
-                
-                if (exampleMatch) {
-                    matchType = 'example';
-                }
-            }
-            
             // 如果有匹配，添加到结果
             if (matchType) {
                 results.push({
@@ -134,7 +130,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             resultsList.innerHTML = `
                 <div class="no-results">
                     🔍
-                    <p>${query ? '揣无个词配会啱' : '准备开始查词'}</p>
+                    <p>${query ? '揣无个字配会啱' : '准备开始查字'}</p>
                     <p>${query ? '重新拍个词试睇岂有用' : ''}</p>
                 </div>
             `;
@@ -152,8 +148,9 @@ document.addEventListener('DOMContentLoaded', async () => {
                 result.matchType === 'hanzi' ? 
                 '<span class="match-type-tag hanzi-match">汉字匹配</span>' : 
                 result.matchType === 'definition' ?
-                '<span class="match-type-tag definition-match">含义匹配</span>':
-                '<span class="match-type-tag example-match">例句匹配</span>';
+                '<span class="match-type-tag radical-match">部首匹配</span>':
+                '<span class="match-type-tag definition-match">含义匹配</span>'
+                ;
             
             // 处理释义
             // let definitionHtml = '';
@@ -196,37 +193,35 @@ document.addEventListener('DOMContentLoaded', async () => {
             });
 
             // 显示例句
-            let exampleHtml = '';
-            if (result.example && result.example.length > 0) {
-                exampleHtml = '<div class="definition-list language-section">';
-                result.example.slice(0, 9).forEach(def => {
-                    const defHighlight = highlightMatch(def, query, false);
-                    exampleHtml += `<div class="definition-item">${defHighlight}</div>`;
-                });
-                // if (result.definition.length > 2) {
-                //     definitionHtml += `<div class="definition-item">+${result.definition.length - 2} 更多释义...</div>`;
-                // }
-                exampleHtml += '</div>';
-            }
+            // let radicalHtml = '';
+            // if (result.radical && result.radical.length > 0) {
+            //     radicalHtml = '<div class="definition-list language-section">';
+            //     result.radical.slice(0, 9).forEach(def => {
+            //         const defHighlight = highlightMatch(def, query, false);
+            //         radicalHtml += `<div class="definition-item">${defHighlight}</div>`;
+            //     });
+            //     // if (result.definition.length > 2) {
+            //     //     definitionHtml += `<div class="definition-item">+${result.definition.length - 2} 更多释义...</div>`;
+            //     // }
+            //     radicalHtml += '</div>';
+            // }
             
             html += `
                 <li class="word-item" data-word="${result.word}" data-definition="${result.word}-${result.definition[0].substring(0, 20)}">
                     <div class="word-header">
                         <div class="word-title">
-                            <div class="word-text">${wordHighlight}</div>
                             <div class="hanzi">${hanziHighlight}</div>
+                            <div class="word-text">${wordHighlight}</div>
                         </div>
                         ${matchTypeTag}
                     </div>
                     
                     <div class="meta">
-                        ${result.speech ? `<span class="speech">${result.speech}</span>` : ''}
+                        ${result.radical ? `<span class="speech">${result.radical}</span>` : ''}
                         ${result.definition ? `<p class="definition">${result.definition[0]}<br>${result.definition[1]}</p>` : ''}
                     </div>
                     
                     ${languagesHtml}
-
-                    ${exampleHtml}
                     
                 </li>
             `;
@@ -254,7 +249,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         
         document.getElementById('detail-word').textContent = entry.word || '';
         document.getElementById('detail-hanzi').textContent = entry.hanzi || '';
-        document.getElementById('detail-speech').textContent = entry.speech || '词性毋知';
+        document.getElementById('detail-radical').textContent = entry.radical || '部首毋知';
         document.getElementById('detail-definition').innerHTML = `<p>${entry.definition[0]}<br>${entry.definition[1]}</p>`;
         
         // 处理释义
@@ -302,22 +297,22 @@ document.addEventListener('DOMContentLoaded', async () => {
         });
         
         // 处理例句
-        const examplesList = document.getElementById('detail-examples');
-        examplesList.innerHTML = '';
+        // const radicalsList = document.getElementById('detail-radicals');
+        // radicalsList.innerHTML = '';
 
-        if (entry.example && entry.example.length > 0) {
-            entry.example.forEach(ex => {
-                const li = document.createElement('li');
-                li.className = 'example-item';
-                li.textContent = ex;
-                examplesList.appendChild(li);
-            });
-        } else {
-            const li = document.createElement('li');
-            li.className = 'example-item';
-            li.textContent = '';
-            examplesList.appendChild(li);
-        }
+        // if (entry.radical && entry.radical.length > 0) {
+        //     entry.radical.forEach(ex => {
+        //         const li = document.createElement('li');
+        //         li.className = 'radical-item';
+        //         li.textContent = ex;
+        //         radicalsList.appendChild(li);
+        //     });
+        // } else {
+        //     const li = document.createElement('li');
+        //     li.className = 'radical-item';
+        //     li.textContent = '';
+        //     radicalsList.appendChild(li);
+        // }
         
         // 处理备注
         const noteContent = document.getElementById('note-content');
@@ -356,7 +351,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     wordMatchCheckbox.addEventListener('change', performSearch);
     hanziMatchCheckbox.addEventListener('change', performSearch);
     definitionMatchCheckbox.addEventListener('change', performSearch);
-    exampleMatchCheckbox.addEventListener('change', performSearch);
+    radicalMatchCheckbox.addEventListener('change', performSearch);
     
     // 加载词典数据
     await loadDictionary();
