@@ -403,7 +403,7 @@
       "放假",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "放假。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -810,9 +810,9 @@
     "note": ""
   },
   {
-    "word": "pāi-ke-kyá",
-    "hanzi": "败家囝",
-    "speech": "名词",
+    "word": "pāi-ke",
+    "hanzi": "败家",
+    "speech": "形容词",
     "definition": [
       "",
       ""
@@ -1711,24 +1711,6 @@
   },
   {
     "word": "peh",
-    "hanzi": "百",
-    "speech": "数字",
-    "definition": [
-      "",
-      ""
-    ],
-    "putonghua": "",
-    "english": "",
-    "francais": "",
-    "thai": "",
-    "tiengviet": "",
-    "melayu": "",
-    "indonesia": "",
-    "example": [],
-    "note": ""
-  },
-  {
-    "word": "peh",
     "hanzi": "掰",
     "speech": "动词",
     "definition": [
@@ -1755,6 +1737,42 @@
     ],
     "putonghua": "",
     "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "peh-âu",
+    "hanzi": "掰喉",
+    "speech": "动词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "说谎。",
+    "english": "Telling lies.",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "peh-âu-peh-tsix",
+    "hanzi": "掰喉掰舌",
+    "speech": "动词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "说谎。",
+    "english": "Telling lies.",
     "francais": "",
     "thai": "",
     "tiengviet": "",
@@ -4769,7 +4787,7 @@
       "孬人",
       "mó nâng"
     ],
-    "putonghua": "",
+    "putonghua": "小混混。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -4841,7 +4859,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "劈开。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -5179,6 +5197,24 @@
     "word": "phêng-sî",
     "hanzi": "平时",
     "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "phêng-an",
+    "hanzi": "平安",
+    "speech": "形容词",
     "definition": [
       "",
       ""
@@ -6004,6 +6040,24 @@
     "note": ""
   },
   {
+    "word": "phuà-châi-huan-ah",
+    "hanzi": "破财番鸭",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "混血儿、杂种。",
+    "english": "A half-breed.",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "phuà-syè",
     "hanzi": "破相",
     "speech": "动词",
@@ -6011,7 +6065,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "生病。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -6476,10 +6530,10 @@
     "hanzi": "龅",
     "speech": "形容词",
     "definition": [
-      "门头齿伸到嘴唇口",
-      "mûn-thâu-qí chun kàu chuì-tûn qáu"
+      "门头齿伸到嘴唇口。",
+      "Mûn-thâu-qí chun kàu chuì-tûn qáu."
     ],
-    "putonghua": "",
+    "putonghua": "龅牙。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -6494,10 +6548,10 @@
     "hanzi": "龅牙",
     "speech": "名词",
     "definition": [
-      "门头齿，伸到嘴唇口的",
-      "mûn-thâu-qí, chun kàu chuì-tûn qáu kāi"
+      "门头齿，伸到嘴唇口的。",
+      "Mûn-thâu-qí, chun kàu chuì-tûn qáu kāi."
     ],
-    "putonghua": "",
+    "putonghua": "龅牙。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -6515,7 +6569,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "拖拉着不情愿的人。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -6526,14 +6580,37 @@
     "note": ""
   },
   {
-    "word": "bad-kyá",
-    "hanzi": "bad囝",
+    "word": "bah-kut-tê",
+    "hanzi": "肉骨茶",
     "speech": "名词",
     "definition": [
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "肉骨茶。",
+    "english": "Bah Kut Teh.",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [
+      "新加坡佮马来西亚的肉骨茶怪袂孬。",
+      "Singapore kah Malaysia kâi bah-kut-tê kuè bǒi-mó.",
+      "新加坡和马来西亚的肉骨茶很不错。",
+      "Bah Kut Teh in Singapore and Malaysia is so good."
+    ],
+    "note": ""
+  },
+  {
+    "word": "bad-kyá",
+    "hanzi": "菝囝",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "芭乐、番石榴。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -6580,14 +6657,14 @@
     "note": ""
   },
   {
-    "word": "bag-kyá",
-    "hanzi": "菝囝",
+    "word": "bag-kang",
+    "hanzi": "木工",
     "speech": "名词",
     "definition": [
       "",
       ""
     ],
-    "putonghua": "芭乐、番石榴。",
+    "putonghua": "木匠。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -6607,6 +6684,24 @@
     ],
     "putonghua": "",
     "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "bag-cher",
+    "hanzi": "木星",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "木星。",
+    "english": "The planet Jupiter.",
     "francais": "",
     "thai": "",
     "tiengviet": "",
@@ -6677,7 +6772,25 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "努力地看。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "-bó",
+    "hanzi": "母",
+    "speech": "词尾",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "表示雌性动物。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -7307,7 +7420,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "小跟班、手下。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -8524,6 +8637,24 @@
     "note": ""
   },
   {
+    "word": "māng-syě",
+    "hanzi": "梦想",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "mag",
     "hanzi": "目",
     "speech": "名词",
@@ -8549,7 +8680,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "眉毛。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -8567,7 +8698,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "眼镜。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -8585,7 +8716,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "眼眶。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -9928,24 +10059,6 @@
     "note": ""
   },
   {
-    "word": "muex-tsiax-kyá",
-    "hanzi": "物食囝",
-    "speech": "名词",
-    "definition": [
-      "",
-      ""
-    ],
-    "putonghua": "",
-    "english": "",
-    "francais": "",
-    "thai": "",
-    "tiengviet": "",
-    "melayu": "",
-    "indonesia": "",
-    "example": [],
-    "note": ""
-  },
-  {
     "word": "muí-lǐ",
     "hanzi": "美丽",
     "speech": "形容词",
@@ -10997,7 +11110,25 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "大人。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "tǎi-hag",
+    "hanzi": "大学",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "大学。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -11231,7 +11362,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "花生糖。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -11249,7 +11380,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "豆腐。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -11296,6 +11427,24 @@
     "note": ""
   },
   {
+    "word": "tāu-sa",
+    "hanzi": "豆沙",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "豆沙。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "tāu-zîn",
     "hanzi": "豆仁",
     "speech": "名词",
@@ -11303,7 +11452,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "花生仁。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -11321,7 +11470,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "豆腐花、豆腐脑。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -11455,6 +11604,29 @@
     "melayu": "",
     "indonesia": "",
     "example": [],
+    "note": ""
+  },
+  {
+    "word": "tó-âu-oix",
+    "hanzi": "tó喉oix",
+    "speech": "动词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "拐弯抹角。",
+    "english": "Mince.",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [
+      "你嫑tó喉oix.",
+      "Lír mài tó-âu-oix.",
+      "你不要拐弯抹角了。",
+      "Do not mince."
+    ],
     "note": ""
   },
   {
@@ -12977,7 +13149,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "一点点。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -12995,7 +13167,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "一点。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -13121,7 +13293,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "满满的，将要溢出来。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -14122,7 +14294,7 @@
     "note": ""
   },
   {
-    "word": "tàu-kue",
+    "word": "tiàu-kue",
     "hanzi": "吊瓜",
     "speech": "名词",
     "definition": [
@@ -14147,7 +14319,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "上吊自杀。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -15335,8 +15507,8 @@
       "",
       ""
     ],
-    "putonghua": "",
-    "english": "",
+    "putonghua": "回去。",
+    "english": "To return.",
     "francais": "",
     "thai": "",
     "tiengviet": "",
@@ -17560,6 +17732,24 @@
     "note": ""
   },
   {
+    "word": "Thiàu kuè kau, tsiax sar au.",
+    "hanzi": "跳过沟，食三瓯。",
+    "speech": "表达",
+    "definition": [
+      "做哩少，食哩加。",
+      "Tsò li tsié, tsiax li ke."
+    ],
+    "putonghua": "",
+    "english": "Much eating to little exercise.",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "thiàu-chǐ",
     "hanzi": "超市",
     "speech": "名词",
@@ -18611,7 +18801,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "小孩。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -19163,13 +19353,13 @@
   },
   {
     "word": "niàm",
-    "hanzi": "niàm",
+    "hanzi": "捻",
     "speech": "动词",
     "definition": [
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "用力捏。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -19472,11 +19662,29 @@
     "hanzi": "nńg",
     "speech": "形容词",
     "definition": [
-      "袂橂",
-      "bǒi tōy"
+      "袂橂。",
+      "bǒi tōy."
     ],
     "putonghua": "",
     "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "nńg-âu",
+    "hanzi": "nńg喉",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "咽喉、食管。",
+    "english": "The gullet.",
     "francais": "",
     "thai": "",
     "tiengviet": "",
@@ -21203,7 +21411,7 @@
   {
     "word": "lóu",
     "hanzi": "卤",
-    "speech": "名词",
+    "speech": "动词",
     "definition": [
       "",
       ""
@@ -21508,14 +21716,14 @@
   },
   {
     "word": "leg",
-    "hanzi": "leg",
+    "hanzi": "疬",
     "speech": "名词",
     "definition": [
       "",
       ""
     ],
-    "putonghua": "",
-    "english": "",
+    "putonghua": "瘰疬，淋巴结核。",
+    "english": "King's Evil, Scrofula, Tuberculous Cervical Lymphadenitis.",
     "francais": "",
     "thai": "",
     "tiengviet": "",
@@ -22180,7 +22388,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "掐脖子。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -23134,8 +23342,8 @@
       "",
       ""
     ],
-    "putonghua": "",
-    "english": "",
+    "putonghua": "马甲。",
+    "english": "A vest.",
     "francais": "",
     "thai": "",
     "tiengviet": "",
@@ -23639,6 +23847,24 @@
       ""
     ],
     "putonghua": "土豆、马铃薯。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "kang-thyâ",
+    "hanzi": "工程",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "得体。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -25809,6 +26035,24 @@
     "note": ""
   },
   {
+    "word": "kek-hueh",
+    "hanzi": "激血",
+    "speech": "动词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "淤血。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "kêng",
     "hanzi": "穷",
     "speech": "形容词",
@@ -26662,7 +26906,25 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "下一代。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "-kyá",
+    "hanzi": "囝",
+    "speech": "词尾",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "表示东西小。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -26835,12 +27097,12 @@
     "note": ""
   },
   {
-    "word": "kiâm-nňg",
-    "hanzi": "咸卵",
-    "speech": "名词",
+    "word": "kiâm",
+    "hanzi": "咸/鹹",
+    "speech": "形容词",
     "definition": [
-      "",
-      ""
+      "滴囝钱拢着计较",
+      "tih-kyá tsyî lóng tiex kòi-kà"
     ],
     "putonghua": "",
     "english": "",
@@ -26853,12 +27115,12 @@
     "note": ""
   },
   {
-    "word": "kiâm",
-    "hanzi": "咸/鹹",
-    "speech": "形容词",
+    "word": "kiâm-nňg",
+    "hanzi": "咸卵",
+    "speech": "名词",
     "definition": [
-      "滴囝钱拢着计较",
-      "tih-kyá tsyî lóng tiex kòi-kà"
+      "",
+      ""
     ],
     "putonghua": "",
     "english": "",
@@ -27040,7 +27302,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "上交。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -27058,7 +27320,25 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "饺子。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "kiáu-bué",
+    "hanzi": "kiáu尾",
+    "speech": "副词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "最后。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -27076,7 +27356,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "勾子符号。打勾。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -27274,7 +27554,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "受挤压而喷射出来。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -27598,7 +27878,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "歌谣。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -27796,7 +28076,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "提。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -28887,6 +29167,24 @@
     "note": ""
   },
   {
+    "word": "kǐrn",
+    "hanzi": "胗",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "kird",
     "hanzi": "kird",
     "speech": "形容词",
@@ -28894,7 +29192,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "稠。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -29345,6 +29643,24 @@
       ""
     ],
     "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "qap-thâu",
+    "hanzi": "盖头",
+    "speech": "动词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "磕头。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -30525,15 +30841,15 @@
     "note": ""
   },
   {
-    "word": "qí-chù",
+    "word": "qí chù",
     "hanzi": "起厝",
-    "speech": "动词",
+    "speech": "动词词组",
     "definition": [
       "",
       ""
     ],
-    "putonghua": "",
-    "english": "",
+    "putonghua": "盖房子。",
+    "english": "To build a house.",
     "francais": "",
     "thai": "",
     "tiengviet": "",
@@ -30766,7 +31082,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "轻易。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -31090,8 +31406,8 @@
       "",
       ""
     ],
-    "putonghua": "",
-    "english": "",
+    "putonghua": "拿。",
+    "english": "To take, to get.",
     "francais": "",
     "thai": "",
     "tiengviet": "",
@@ -31288,7 +31604,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "一会儿。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -32697,7 +33013,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "手茧。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -32715,8 +33031,44 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "一定。",
     "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "ngě-ày",
+    "hanzi": "硬爱",
+    "speech": "副词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "一定要。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "ngě-âu",
+    "hanzi": "硬喉",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "气管。",
+    "english": "The windpipe.",
     "francais": "",
     "thai": "",
     "tiengviet": "",
@@ -34441,6 +34793,24 @@
     "note": ""
   },
   {
+    "word": "Tsôy swa buē kwî, ǎu swa zú-kèng kwî.",
+    "hanzi": "前山未悬，后山愈更悬。",
+    "speech": "表达",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "事情越来越糟糕。",
+    "english": "Things get worse the farther you go.",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "tsôy-zit",
     "hanzi": "前日",
     "speech": "名词",
@@ -34765,14 +35135,14 @@
     "note": ""
   },
   {
-    "word": "chéng-tóu",
+    "word": "tséng-tóu",
     "hanzi": "肿肚",
     "speech": "动词",
     "definition": [
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "生气、赌气。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -36188,13 +36558,13 @@
   },
   {
     "word": "tsyé",
-    "hanzi": "tsyé",
+    "hanzi": "掌",
     "speech": "动词",
     "definition": [
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "看管。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -36782,14 +37152,14 @@
   },
   {
     "word": "tsud-bí",
-    "hanzi": "tsud米",
+    "hanzi": "秫米",
     "speech": "名词",
     "definition": [
       "",
       ""
     ],
-    "putonghua": "",
-    "english": "",
+    "putonghua": "糯米。",
+    "english": "Glutinous rice.",
     "francais": "",
     "thai": "",
     "tiengviet": "",
@@ -38768,7 +39138,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "装。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -39848,7 +40218,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "喂养。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -39866,7 +40236,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "长大。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -39884,7 +40254,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "匆匆忙忙。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -42422,7 +42792,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "师傅。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -47300,8 +47670,8 @@
       "",
       ""
     ],
-    "putonghua": "",
-    "english": "",
+    "putonghua": "傍晚。",
+    "english": "At dusk.",
     "francais": "",
     "thai": "",
     "tiengviet": "",
@@ -47408,7 +47778,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "吵闹。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -47462,7 +47832,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "追。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -48254,7 +48624,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "完蛋了。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -51289,6 +51659,24 @@
     "note": ""
   },
   {
+    "word": "huan-ah",
+    "hanzi": "番鸭",
+    "speech": "名词",
+    "definition": [
+      "学名 Cairina moschata。",
+      ""
+    ],
+    "putonghua": "疣鼻栖鸭、麝香鸭、红面鸭、番鸭、洋鸭。",
+    "english": "Muscovy Duck.",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "huán-tuì",
     "hanzi": "反对",
     "speech": "动词",
@@ -51775,6 +52163,24 @@
     "note": ""
   },
   {
+    "word": "hue-âng-ngîrn",
+    "hanzi": "花红银",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "奖励。",
+    "english": "A reward, received for public service, in catching a thief or murderer.",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "hué",
     "hanzi": "火",
     "speech": "名词",
@@ -51793,6 +52199,29 @@
     "note": ""
   },
   {
+    "word": "hué",
+    "hanzi": "伙/夥",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "人。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [
+      "伊个底块伙？",
+      "I kâi tī-kò hué?",
+      "他是哪里人？",
+      "Where is he from?"
+    ],
+    "note": ""
+  },
+  {
     "word": "hué-mê-kou",
     "hanzi": "火暝蛄",
     "speech": "名词",
@@ -51800,7 +52229,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "萤火虫。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -52703,24 +53132,6 @@
     "note": ""
   },
   {
-    "word": "ah-bó",
-    "hanzi": "鸭母/鴨母",
-    "speech": "名词",
-    "definition": [
-      "",
-      ""
-    ],
-    "putonghua": "",
-    "english": "",
-    "francais": "",
-    "thai": "",
-    "tiengviet": "",
-    "melayu": "",
-    "indonesia": "",
-    "example": [],
-    "note": ""
-  },
-  {
     "word": "ah-bó-sya",
     "hanzi": "鸭母声/鴨母聲",
     "speech": "名词",
@@ -52728,7 +53139,7 @@
       "个声哑哑",
       "kâi sya é-é"
     ],
-    "putonghua": "",
+    "putonghua": "声音沙哑。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -52739,12 +53150,48 @@
     "note": ""
   },
   {
-    "word": "ah-kyá",
-    "hanzi": "鸭囝/鴨囝",
-    "speech": "名词",
+    "word": "ah-kyá thya luî",
+    "hanzi": "鸭囝听雷/鴨囝聽雷",
+    "speech": "表达",
     "definition": [
       "",
       ""
+    ],
+    "putonghua": "听了但无法理解。",
+    "english": "One who hears what he cannot understand.",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "ah-kyá thiàu tang-si",
+    "hanzi": "鸭囝跳东司/鴨囝跳東司",
+    "speech": "表达",
+    "definition": [
+      "无头无脑缀人走。",
+      "Bô-thâu-bô-náu tuè nâng tsáu."
+    ],
+    "putonghua": "盲目跟风。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "ah-sái-hiang",
+    "hanzi": "鸭屎香",
+    "speech": "名词",
+    "definition": [
+      "茶。",
+      "Tê."
     ],
     "putonghua": "",
     "english": "",
@@ -52782,7 +53229,43 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "遮住。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "ar-mag-tsáu-tiàm",
+    "hanzi": "揞目走tiàm",
+    "speech": "动词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "捉迷藏。",
+    "english": "Hide and seek.",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "ar mi",
+    "hanzi": "揞眯",
+    "speech": "动词词组",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "遮得严实。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -52811,14 +53294,14 @@
     "note": ""
   },
   {
-    "word": "âr-kín-kín",
-    "hanzi": "âr紧紧",
-    "speech": "动词",
+    "word": "âr kín",
+    "hanzi": "âr紧",
+    "speech": "动词词组",
     "definition": [
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "紧紧遮住。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -52836,7 +53319,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "馅料。有时也专指绿豆馅。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -52854,7 +53337,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "蜗牛。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -52872,7 +53355,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "蜗牛。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -52890,8 +53373,8 @@
       "",
       ""
     ],
-    "putonghua": "",
-    "english": "",
+    "putonghua": "粥水。",
+    "english": "Water in which rice has been boiled.",
     "francais": "",
     "thai": "",
     "tiengviet": "",
@@ -52926,7 +53409,61 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "偷偷摸摸。",
+    "english": "Secretly.",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "ap",
+    "hanzi": "欱",
+    "speech": "动词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "找零钱。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "ap tsyî",
+    "hanzi": "欱錢",
+    "speech": "动词词组",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "找零钱。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "ap-ūn",
+    "hanzi": "押韵",
+    "speech": "动词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "押韵。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -52944,7 +53481,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "脖子。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -52962,14 +53499,17 @@
       "",
       ""
     ],
-    "putonghua": "",
-    "english": "",
+    "putonghua": "用嘴把东西包住。",
+    "english": "To take into the mouth, as for swallowing.",
     "francais": "",
     "thai": "",
     "tiengviet": "",
     "melayu": "",
     "indonesia": "",
-    "example": [],
+    "example": [
+      "嘴底唅两粒肉圆。",
+      "Chuì tói ǎm nǒ liab neg-yî."
+    ],
     "note": ""
   },
   {
@@ -52980,8 +53520,8 @@
       "",
       ""
     ],
-    "putonghua": "",
-    "english": "",
+    "putonghua": "围巾。",
+    "english": "Scarf.",
     "francais": "",
     "thai": "",
     "tiengviet": "",
@@ -52998,7 +53538,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "衣领。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -53016,7 +53556,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "项链。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -53030,42 +53570,6 @@
     "word": "ab",
     "hanzi": "盒",
     "speech": "名词",
-    "definition": [
-      "",
-      ""
-    ],
-    "putonghua": "",
-    "english": "",
-    "francais": "",
-    "thai": "",
-    "tiengviet": "",
-    "melayu": "",
-    "indonesia": "",
-    "example": [],
-    "note": ""
-  },
-  {
-    "word": "ab",
-    "hanzi": "欱",
-    "speech": "动词",
-    "definition": [
-      "",
-      ""
-    ],
-    "putonghua": "",
-    "english": "",
-    "francais": "",
-    "thai": "",
-    "tiengviet": "",
-    "melayu": "",
-    "indonesia": "",
-    "example": [],
-    "note": ""
-  },
-  {
-    "word": "ab-tsyî",
-    "hanzi": "欱錢",
-    "speech": "动词",
     "definition": [
       "",
       ""
@@ -53142,7 +53646,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "凶。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -53160,8 +53664,8 @@
       "",
       ""
     ],
-    "putonghua": "",
-    "english": "",
+    "putonghua": "液体落下。",
+    "english": "To water, by pouring from above.",
     "francais": "",
     "thai": "",
     "tiengviet": "",
@@ -53189,6 +53693,24 @@
     "note": ""
   },
   {
+    "word": "ak-tag",
+    "hanzi": "恶毒",
+    "speech": "形容词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "人品坏。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "ak-tsuí",
     "hanzi": "沃水",
     "speech": "动词",
@@ -53196,7 +53718,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "浇水。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -53214,7 +53736,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "淋雨。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -53225,14 +53747,14 @@
     "note": ""
   },
   {
-    "word": "ak-hue",
+    "word": "ak hue",
     "hanzi": "沃花",
-    "speech": "动词",
+    "speech": "动词词组",
     "definition": [
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "浇花。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -53279,14 +53801,14 @@
     "note": ""
   },
   {
-    "word": "âng-mô",
+    "word": "âng-mô-nâng",
     "hanzi": "红毛",
     "speech": "名词",
     "definition": [
-      "西方的外国人",
+      "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "欧美人。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -53317,6 +53839,24 @@
   {
     "word": "âng-tāu",
     "hanzi": "红豆/紅豆",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "âng-thâu-tsûn",
+    "hanzi": "红头船",
     "speech": "名词",
     "definition": [
       "",
@@ -53495,6 +54035,42 @@
     "note": ""
   },
   {
+    "word": "ai-qiû",
+    "hanzi": "哀求",
+    "speech": "动词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "ài-iǎ",
+    "hanzi": "哎呀",
+    "speech": "语气词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "表示惊讶。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "ày",
     "hanzi": "爱",
     "speech": "动词",
@@ -53502,7 +54078,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "要。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -53556,7 +54132,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "差劲。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -53574,7 +54150,7 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "作弊、犯规。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -53639,6 +54215,29 @@
     "note": ""
   },
   {
+    "word": "âu-tói",
+    "hanzi": "喉底",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "肺部力量。",
+    "english": "The strength of lung.",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [
+      "伊无喉底声。",
+      "I bô âu-tói sya.",
+      "他的声音很小，没有力量。",
+      "He can not speak aloud."
+    ],
+    "note": ""
+  },
+  {
     "word": "âu-lêng",
     "hanzi": "喉咙",
     "speech": "名词",
@@ -53654,6 +54253,83 @@
     "melayu": "",
     "indonesia": "",
     "example": [],
+    "note": "好像音变成ǎu-lêng了？"
+  },
+  {
+    "word": "âu-lêng-lih",
+    "hanzi": "喉咙lih",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "上颚。",
+    "english": "The palate.",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": "好像音变成ǎu-lêng了？"
+  },
+  {
+    "word": "âu-lêng-kńg",
+    "hanzi": "喉咙管",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "扁桃体。",
+    "english": "The tonsils.",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": "好像音变成ǎu-lêng了？"
+  },
+  {
+    "word": "âu-lêng-gǐr",
+    "hanzi": "喉咙gǐr",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "喉结。",
+    "english": "Adam's apple.",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": "来自AMF词典。好像听过应该是kǐr，不知是音变还是笔误。"
+  },
+  {
+    "word": "âu-gô",
+    "hanzi": "喉gô",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "扁桃体发炎。",
+    "english": "The quinsy.",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [
+      "生喉gô。",
+      "Ser âu-gô.",
+      "扁桃体发炎了。",
+      "Have quinsy."
+    ],
     "note": ""
   },
   {
@@ -53711,6 +54387,24 @@
     "note": ""
   },
   {
+    "word": "ǎu-piah-swa",
+    "hanzi": "后壁山",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "靠山。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "ǎu-bué",
     "hanzi": "后尾",
     "speech": "名词",
@@ -53729,6 +54423,24 @@
     "note": ""
   },
   {
+    "word": "ǎu-thyi",
+    "hanzi": "后天",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "出生之后受到的影响和变化。",
+    "english": "The post-natal influences",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "ǎu-zit",
     "hanzi": "后日",
     "speech": "名词",
@@ -53736,7 +54448,7 @@
       "明起的明起",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "后天。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -53751,10 +54463,10 @@
     "hanzi": "后日",
     "speech": "名词",
     "definition": [
-      "以后",
+      "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "以后。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -53765,14 +54477,32 @@
     "note": ""
   },
   {
-    "word": "awx",
+    "word": "ǎu-hag",
+    "hanzi": "后学",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "现代学者。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "awh",
     "hanzi": "嗸",
     "speech": "动词",
     "definition": [
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "吃东西的声音。",
     "english": "",
     "francais": "",
     "thai": "",
@@ -54089,6 +54819,24 @@
     "note": ""
   },
   {
+    "word": "ou-thyi-tī-àm",
+    "hanzi": "乌天地暗",
+    "speech": "形容词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "环境很暗。",
+    "english": "Utter darkness.",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "ou-thn̂g",
     "hanzi": "乌糖",
     "speech": "名词",
@@ -54381,7 +55129,7 @@
     "hanzi": "eng",
     "speech": "动词",
     "definition": [
-      "沙入目",
+      "沙入目。",
       ""
     ],
     "putonghua": "",
@@ -55284,7 +56032,25 @@
       "",
       ""
     ],
-    "putonghua": "",
+    "putonghua": "飞蛾。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Iax-Kya",
+    "hanzi": "易经",
+    "speech": "名词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "《易经》",
     "english": "",
     "francais": "",
     "thai": "",
@@ -57311,6 +58077,24 @@
     "note": ""
   },
   {
+    "word": "wì-àm",
+    "hanzi": "畏暗",
+    "speech": "动词",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "怕孤独。",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "ìr-tsìr",
     "hanzi": "ìr-tsìr",
     "speech": "形容词",
@@ -57497,24 +58281,6 @@
     "definition": [
       "",
       ""
-    ],
-    "putonghua": "",
-    "english": "",
-    "francais": "",
-    "thai": "",
-    "tiengviet": "",
-    "melayu": "",
-    "indonesia": "",
-    "example": [],
-    "note": ""
-  },
-  {
-    "word": "ah-kyá thiàu tang-si",
-    "hanzi": "鸭囝跳东司/鴨囝跳東司",
-    "speech": "",
-    "definition": [
-      "无头无脑缀人走",
-      "bô-thâu-bô-náu tuè nâng tsáu"
     ],
     "putonghua": "",
     "english": "",
@@ -59669,6 +60435,24 @@
     "note": ""
   },
   {
+    "word": "Pâng",
+    "hanzi": "冯",
+    "speech": "姓氏",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "Pòu",
     "hanzi": "傅",
     "speech": "姓氏",
@@ -59741,8 +60525,44 @@
     "note": ""
   },
   {
+    "word": "Phiâu",
+    "hanzi": "朴",
+    "speech": "姓氏",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "Phwa",
     "hanzi": "潘",
+    "speech": "姓氏",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Bû",
+    "hanzi": "巫",
     "speech": "姓氏",
     "definition": [
       "",
@@ -59903,8 +60723,44 @@
     "note": ""
   },
   {
+    "word": "Tuǎn",
+    "hanzi": "段",
+    "speech": "姓氏",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "Tn̂g",
     "hanzi": "唐",
+    "speech": "姓氏",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Thôu",
+    "hanzi": "涂",
     "speech": "姓氏",
     "definition": [
       "",
@@ -60011,6 +60867,24 @@
     "note": ""
   },
   {
+    "word": "Leg",
+    "hanzi": "陆",
+    "speech": "姓氏",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "Lí",
     "hanzi": "李",
     "speech": "姓氏",
@@ -60067,6 +60941,42 @@
   {
     "word": "Ko",
     "hanzi": "高",
+    "speech": "姓氏",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Kou",
+    "hanzi": "辜",
+    "speech": "姓氏",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Kòu",
+    "hanzi": "顾",
     "speech": "姓氏",
     "definition": [
       "",
@@ -60209,8 +61119,44 @@
     "note": ""
   },
   {
+    "word": "Ngóu",
+    "hanzi": "伍",
+    "speech": "姓氏",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "Nguán",
     "hanzi": "阮",
+    "speech": "姓氏",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Tsa",
+    "hanzi": "查",
     "speech": "姓氏",
     "definition": [
       "",
@@ -60301,6 +61247,24 @@
   {
     "word": "Tsu",
     "hanzi": "朱",
+    "speech": "姓氏",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Châm",
+    "hanzi": "岑",
     "speech": "姓氏",
     "definition": [
       "",
@@ -60425,6 +61389,24 @@
     "note": ""
   },
   {
+    "word": "Hǎi",
+    "hanzi": "解",
+    "speech": "姓氏",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "Hêng",
     "hanzi": "王",
     "speech": "姓氏",
@@ -60479,6 +61461,42 @@
     "note": ""
   },
   {
+    "word": "Hyâ",
+    "hanzi": "邢",
+    "speech": "姓氏",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Hiok",
+    "hanzi": "郁",
+    "speech": "姓氏",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "Âng",
     "hanzi": "洪",
     "speech": "姓氏",
@@ -60497,8 +61515,62 @@
     "note": ""
   },
   {
+    "word": "Au",
+    "hanzi": "区",
+    "speech": "姓氏",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
     "word": "Eng",
     "hanzi": "翁",
+    "speech": "姓氏",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Eg",
+    "hanzi": "易",
+    "speech": "姓氏",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "In",
+    "hanzi": "甄",
     "speech": "姓氏",
     "definition": [
       "",
@@ -60553,6 +61625,24 @@
   {
     "word": "Yê",
     "hanzi": "杨/楊",
+    "speech": "姓氏",
+    "definition": [
+      "",
+      ""
+    ],
+    "putonghua": "",
+    "english": "",
+    "francais": "",
+    "thai": "",
+    "tiengviet": "",
+    "melayu": "",
+    "indonesia": "",
+    "example": [],
+    "note": ""
+  },
+  {
+    "word": "Uân",
+    "hanzi": "袁",
     "speech": "姓氏",
     "definition": [
       "",
